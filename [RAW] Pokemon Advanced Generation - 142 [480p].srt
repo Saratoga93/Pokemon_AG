@@ -1,0 +1,2915 @@
+﻿1
+00:00:02,720 --> 00:00:05,781
+<font color=#f73b13>포<font color=#f35929>켓<font color=#ed702b>몬 <font color=#eb8225>트<font color=#ef9f39>리<font color=#eda42d>비<font color=#f1c340>어<font color=#f3d027> 퀴<font color=#eddc26>즈<font color=#f7dd13>!<font color=yellow></font>
+
+2
+00:00:05,781 --> 00:00:10,325
+너의 포켓몬력을 시험하는
+난문·진문에 렛츠 챌린지!
+
+3
+00:00:10,325 --> 00:00:12,567
+오늘의 문제는 이거!
+
+4
+00:00:12,567 --> 00:00:19,226
+<font color=#f3a7ef>문제
+<font color=#ffffff>가려운곳이 10곳이나 있는
+포켓몬 뭐게?</font>
+
+5
+00:00:19,226 --> 00:00:26,266
+<font color=#5f7bf5>힌트
+<font color=#ffffff>·풀타입
+·꼬리에 특징이 있는 포켓몬</font>
+
+6
+00:00:26,266 --> 00:00:28,448
+자아~ 모두 알려나?
+
+7
+00:00:28,448 --> 00:00:32,899
+답은 방송 마지막에 발표 하니까 놓치지마!
+
+8
+00:00:32,899 --> 00:00:33,996
+그럼 기다리고 기다리던
+
+9
+00:00:33,996 --> 00:00:36,182
+포켓몬 스타트!
+
+10
+00:00:43,993 --> 00:00:48,807
+<font color=#22c031>포켓몬스터
+<font color=#ebe74b>ADVANCED GENERATION
+<font color=#f16e81>어드벤스 <font color=#51b6eb>제네레이션</font>
+
+11
+00:00:48,807 --> 00:00:49,053
+<font face=휴먼매직체><font color=orange><ruby>光<rt>ひ<font color=white>か</rt></ruby>る　<ruby>大<rt>だい</rt></ruby><ruby>地<rt>ち</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち
+빛나는 대지에 서서</font>
+
+12
+00:00:49,053 --> 00:00:49,283
+<font face=휴먼매직체><font color=orange><ruby>光<rt>ひか<font color=white></rt></ruby>る　<ruby>大<rt>だい</rt></ruby><ruby>地<rt>ち</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち
+빛나는 대지에 서서</font>
+
+13
+00:00:49,283 --> 00:00:51,443
+<font face=휴먼매직체><font color=orange><ruby>光<rt>ひか</rt></ruby>る<font color=white>　<ruby>大<rt>だい</rt></ruby><ruby>地<rt>ち</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち
+빛나는 대지에 서서</font>
+
+14
+00:00:51,443 --> 00:00:51,759
+<font face=휴먼매직체><font color=orange><ruby>光<rt>ひか</rt></ruby>る　<ruby>大<rt>だ<font color=white>い</rt></ruby><ruby>地<rt>ち</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち
+빛나는 대지에 서서</font>
+
+15
+00:00:51,759 --> 00:00:52,068
+<font face=휴먼매직체><font color=orange><ruby>光<rt>ひか</rt></ruby>る　<ruby>大<rt>だい<font color=white></rt></ruby><ruby>地<rt>ち</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち
+빛나는 대지에 서서</font>
+
+16
+00:00:52,068 --> 00:00:52,315
+<font face=휴먼매직체><font color=orange><ruby>光<rt>ひか</rt></ruby>る　<ruby>大<rt>だい</rt></ruby><ruby>地<rt>ち<font color=white></rt></ruby>に<ruby>立<rt>た</rt></ruby>ち
+빛나는 대지에 서서</font>
+
+17
+00:00:52,315 --> 00:00:52,502
+<font face=휴먼매직체><font color=orange><ruby>光<rt>ひか</rt></ruby>る　<ruby>大<rt>だい</rt></ruby><ruby>地<rt>ち</rt></ruby>に<font color=white><ruby>立<rt>た</rt></ruby>ち
+빛나는 대지에 서서</font>
+
+18
+00:00:52,502 --> 00:00:52,704
+<font face=휴먼매직체><font color=orange><ruby>光<rt>ひか</rt></ruby>る　<ruby>大<rt>だい</rt></ruby><ruby>地<rt>ち</rt></ruby>に<ruby>立<rt>た<font color=white></rt></ruby>ち
+빛나는 대지에 서서</font>
+
+19
+00:00:52,704 --> 00:00:54,786
+<font face=휴먼매직체><font color=orange><ruby>光<rt>ひか</rt></ruby>る　<ruby>大<rt>だい</rt></ruby><ruby>地<rt>ち</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち<font color=white>
+빛나는 대지에 서서</font>
+
+20
+00:00:54,786 --> 00:00:55,050
+<font face=휴먼매직체><font color=orange><ruby>永<rt>と<font color=white></rt></ruby><ruby>遠<rt>わ</rt></ruby>の　バトル<ruby>誓<rt>ちか</rt></ruby>う
+영원한 배틀을 맹세해</font>
+
+21
+00:00:55,050 --> 00:00:55,318
+<font face=휴먼매직체><font color=orange><ruby>永<rt>と</rt></ruby><ruby>遠<rt>わ<font color=white></rt></ruby>の　バトル<ruby>誓<rt>ちか</rt></ruby>う
+영원한 배틀을 맹세해</font>
+
+22
+00:00:55,318 --> 00:00:57,359
+<font face=휴먼매직체><font color=orange><ruby>永<rt>と</rt></ruby><ruby>遠<rt>わ</rt></ruby>の<font color=white>　バトル<ruby>誓<rt>ちか</rt></ruby>う
+영원한 배틀을 맹세해</font>
+
+23
+00:00:57,359 --> 00:00:57,754
+<font face=휴먼매직체><font color=orange><ruby>永<rt>と</rt></ruby><ruby>遠<rt>わ</rt></ruby>の　バ<font color=white>トル<ruby>誓<rt>ちか</rt></ruby>う
+영원한 배틀을 맹세해</font>
+
+24
+00:00:57,754 --> 00:00:58,030
+<font face=휴먼매직체><font color=orange><ruby>永<rt>と</rt></ruby><ruby>遠<rt>わ</rt></ruby>の　バト<font color=white>ル<ruby>誓<rt>ちか</rt></ruby>う
+영원한 배틀을 맹세해</font>
+
+25
+00:00:58,030 --> 00:00:58,236
+<font face=휴먼매직체><font color=orange><ruby>永<rt>と</rt></ruby><ruby>遠<rt>わ</rt></ruby>の　バトル<font color=white><ruby>誓<rt>ちか</rt></ruby>う
+영원한 배틀을 맹세해</font>
+
+26
+00:00:58,236 --> 00:00:58,369
+<font face=휴먼매직체><font color=orange><ruby>永<rt>と</rt></ruby><ruby>遠<rt>わ</rt></ruby>の　バトル<ruby>誓<rt>ち<font color=white>か</rt></ruby>う
+영원한 배틀을 맹세해</font>
+
+27
+00:00:58,369 --> 00:00:58,523
+<font face=휴먼매직체><font color=orange><ruby>永<rt>と</rt></ruby><ruby>遠<rt>わ</rt></ruby>の　バトル<ruby>誓<rt>ちか<font color=white></rt></ruby>う
+영원한 배틀을 맹세해</font>
+
+28
+00:00:58,523 --> 00:01:00,797
+<font face=휴먼매직체><font color=orange><ruby>永<rt>と</rt></ruby><ruby>遠<rt>わ</rt></ruby>の　バトル<ruby>誓<rt>ちか</rt></ruby>う<font color=white>
+영원한 배틀을 맹세해</font>
+
+29
+00:01:00,797 --> 00:01:01,077
+<font face=휴먼매직체><font color=orange><ruby>笑<rt>え<font color=white></rt></ruby><ruby>顔<rt>がお</rt></ruby>　ちょっぴり<ruby>淚<rt>なみだ</rt></ruby>
+미소와 약간의눈물</font>
+
+30
+00:01:01,077 --> 00:01:01,248
+<font face=휴먼매직체><font color=orange><ruby>笑<rt>え</rt></ruby><ruby>顔<rt>が<font color=white>お</rt></ruby>　ちょっぴり<ruby>淚<rt>なみだ</rt></ruby>
+미소와 약간의눈물</font>
+
+31
+00:01:01,248 --> 00:01:03,427
+<font face=휴먼매직체><font color=orange><ruby>笑<rt>え</rt></ruby><ruby>顔<rt>がお<font color=white></rt></ruby>　ちょっぴり<ruby>淚<rt>なみだ</rt></ruby>
+미소와 약간의눈물</font>
+
+32
+00:01:03,427 --> 00:01:03,540
+<font face=휴먼매직체><font color=orange><ruby>笑<rt>え</rt></ruby><ruby>顔<rt>がお</rt></ruby>　ちょ<font color=white>っぴり<ruby>淚<rt>なみだ</rt></ruby>
+미소와 약간의눈물</font>
+
+33
+00:01:03,540 --> 00:01:03,793
+<font face=휴먼매직체><font color=orange><ruby>笑<rt>え</rt></ruby><ruby>顔<rt>がお</rt></ruby>　ちょっ<font color=white>ぴり<ruby>淚<rt>なみだ</rt></ruby>
+미소와 약간의눈물</font>
+
+34
+00:01:03,793 --> 00:01:03,999
+<font face=휴먼매직체><font color=orange><ruby>笑<rt>え</rt></ruby><ruby>顔<rt>がお</rt></ruby>　ちょっぴ<font color=white>り<ruby>淚<rt>なみだ</rt></ruby>
+미소와 약간의눈물</font>
+
+35
+00:01:03,999 --> 00:01:04,250
+<font face=휴먼매직체><font color=orange><ruby>笑<rt>え</rt></ruby><ruby>顔<rt>がお</rt></ruby>　ちょっぴり<font color=white><ruby>淚<rt>なみだ</rt></ruby>
+미소와 약간의눈물</font>
+
+36
+00:01:04,250 --> 00:01:04,429
+<font face=휴먼매직체><font color=orange><ruby>笑<rt>え</rt></ruby><ruby>顔<rt>がお</rt></ruby>　ちょっぴり<ruby>淚<rt>な<font color=white>みだ</rt></ruby>
+미소와 약간의눈물</font>
+
+37
+00:01:04,429 --> 00:01:04,592
+<font face=휴먼매직체><font color=orange><ruby>笑<rt>え</rt></ruby><ruby>顔<rt>がお</rt></ruby>　ちょっぴり<ruby>淚<rt>なみ<font color=white>だ</rt></ruby>
+미소와 약간의눈물</font>
+
+38
+00:01:04,592 --> 00:01:06,668
+<font face=휴먼매직체><font color=orange><ruby>笑<rt>え</rt></ruby><ruby>顔<rt>がお</rt></ruby>　ちょっぴり<ruby>淚<rt>なみだ<font color=white></rt></ruby>
+미소와 약간의눈물</font>
+
+39
+00:01:06,668 --> 00:01:06,888
+<font face=휴먼매직체><font color=orange>み<font color=white>んな　<ruby>忘<rt>わす</rt></ruby>れないよ
+전부 잊지않아요</font>
+
+40
+00:01:06,888 --> 00:01:07,176
+<font face=휴먼매직체><font color=orange>みん<font color=white>な　<ruby>忘<rt>わす</rt></ruby>れないよ
+전부 잊지않아요</font>
+
+41
+00:01:07,176 --> 00:01:09,338
+<font face=휴먼매직체><font color=orange>みんな<font color=white>　<ruby>忘<rt>わす</rt></ruby>れないよ
+전부 잊지않아요</font>
+
+42
+00:01:09,338 --> 00:01:09,629
+<font face=휴먼매직체><font color=orange>みんな　<ruby>忘<rt>わ<font color=white>す</rt></ruby>れないよ
+전부 잊지않아요</font>
+
+43
+00:01:09,629 --> 00:01:09,935
+<font face=휴먼매직체><font color=orange>みんな　<ruby>忘<rt>わす<font color=white></rt></ruby>れないよ
+전부 잊지않아요</font>
+
+44
+00:01:09,935 --> 00:01:10,185
+<font face=휴먼매직체><font color=orange>みんな　<ruby>忘<rt>わす</rt></ruby>れ<font color=white>ないよ
+전부 잊지않아요</font>
+
+45
+00:01:10,185 --> 00:01:10,306
+<font face=휴먼매직체><font color=orange>みんな　<ruby>忘<rt>わす</rt></ruby>れな<font color=white>いよ
+전부 잊지않아요</font>
+
+46
+00:01:10,306 --> 00:01:10,523
+<font face=휴먼매직체><font color=orange>みんな　<ruby>忘<rt>わす</rt></ruby>れない<font color=white>よ
+전부 잊지않아요</font>
+
+47
+00:01:10,523 --> 00:01:12,904
+<font face=휴먼매직체><font color=orange>みんな　<ruby>忘<rt>わす</rt></ruby>れないよ<font color=white>
+전부 잊지않아요</font>
+
+48
+00:01:12,904 --> 00:01:13,271
+<font face=휴먼매직체><font color=orange><ruby>想<rt>お<font color=white>も</rt></ruby>いは　<ruby>距<rt>きょ</rt></ruby><ruby>離<rt>り</rt></ruby>を<ruby>飛<rt>と</rt></ruby>び<ruby>越<rt>こ</rt></ruby>え
+마음은 거리를 뛰어넘어</font>
+
+49
+00:01:13,271 --> 00:01:14,309
+<font face=휴먼매직체><font color=orange><ruby>想<rt>おも<font color=white></rt></ruby>いは　<ruby>距<rt>きょ</rt></ruby><ruby>離<rt>り</rt></ruby>を<ruby>飛<rt>と</rt></ruby>び<ruby>越<rt>こ</rt></ruby>え
+마음은 거리를 뛰어넘어</font>
+
+50
+00:01:14,309 --> 00:01:14,650
+<font face=휴먼매직체><font color=orange><ruby>想<rt>おも</rt></ruby>い<font color=white>は　<ruby>距<rt>きょ</rt></ruby><ruby>離<rt>り</rt></ruby>を<ruby>飛<rt>と</rt></ruby>び<ruby>越<rt>こ</rt></ruby>え
+마음은 거리를 뛰어넘어</font>
+
+51
+00:01:14,650 --> 00:01:15,643
+<font face=휴먼매직체><font color=orange><ruby>想<rt>おも</rt></ruby>いは<font color=white>　<ruby>距<rt>きょ</rt></ruby><ruby>離<rt>り</rt></ruby>を<ruby>飛<rt>と</rt></ruby>び<ruby>越<rt>こ</rt></ruby>え
+마음은 거리를 뛰어넘어</font>
+
+52
+00:01:15,643 --> 00:01:15,900
+<font face=휴먼매직체><font color=orange><ruby>想<rt>おも</rt></ruby>いは　<ruby>距<rt>きょ<font color=white></rt></ruby><ruby>離<rt>り</rt></ruby>を<ruby>飛<rt>と</rt></ruby>び<ruby>越<rt>こ</rt></ruby>え
+마음은 거리를 뛰어넘어</font>
+
+53
+00:01:15,900 --> 00:01:16,215
+<font face=휴먼매직체><font color=orange><ruby>想<rt>おも</rt></ruby>いは　<ruby>距<rt>きょ</rt></ruby><ruby>離<rt>り<font color=white></rt></ruby>を<ruby>飛<rt>と</rt></ruby>び<ruby>越<rt>こ</rt></ruby>え
+마음은 거리를 뛰어넘어</font>
+
+54
+00:01:16,215 --> 00:01:16,616
+<font face=휴먼매직체><font color=orange><ruby>想<rt>おも</rt></ruby>いは　<ruby>距<rt>きょ</rt></ruby><ruby>離<rt>り</rt></ruby>を<font color=white><ruby>飛<rt>と</rt></ruby>び<ruby>越<rt>こ</rt></ruby>え
+마음은 거리를 뛰어넘어</font>
+
+55
+00:01:16,616 --> 00:01:16,810
+<font face=휴먼매직체><font color=orange><ruby>想<rt>おも</rt></ruby>いは　<ruby>距<rt>きょ</rt></ruby><ruby>離<rt>り</rt></ruby>を<ruby>飛<rt>と<font color=white></rt></ruby>び<ruby>越<rt>こ</rt></ruby>え
+마음은 거리를 뛰어넘어</font>
+
+56
+00:01:16,810 --> 00:01:17,113
+<font face=휴먼매직체><font color=orange><ruby>想<rt>おも</rt></ruby>いは　<ruby>距<rt>きょ</rt></ruby><ruby>離<rt>り</rt></ruby>を<ruby>飛<rt>と</rt></ruby>び<font color=white><ruby>越<rt>こ</rt></ruby>え
+마음은 거리를 뛰어넘어</font>
+
+57
+00:01:17,113 --> 00:01:17,568
+<font face=휴먼매직체><font color=orange><ruby>想<rt>おも</rt></ruby>いは　<ruby>距<rt>きょ</rt></ruby><ruby>離<rt>り</rt></ruby>を<ruby>飛<rt>と</rt></ruby>び<ruby>越<rt>こ<font color=white></rt></ruby>え
+마음은 거리를 뛰어넘어</font>
+
+58
+00:01:17,568 --> 00:01:18,768
+<font face=휴먼매직체><font color=orange><ruby>想<rt>おも</rt></ruby>いは　<ruby>距<rt>きょ</rt></ruby><ruby>離<rt>り</rt></ruby>を<ruby>飛<rt>と</rt></ruby>び<ruby>越<rt>こ</rt></ruby>え<font color=white>
+마음은 거리를 뛰어넘어</font>
+
+59
+00:01:18,768 --> 00:01:19,247
+<font face=휴먼매직체><font color=orange><ruby>今<rt>い<font color=white>ま</rt></ruby>　<ruby>君<rt>きみ</rt></ruby>に<ruby>屆<rt>とど</rt></ruby>く　きっと
+지금 너에게 닿을거야 분명</font>
+
+60
+00:01:19,247 --> 00:01:20,060
+<font face=휴먼매직체><font color=orange><ruby>今<rt>いま<font color=white></rt></ruby>　<ruby>君<rt>きみ</rt></ruby>に<ruby>屆<rt>とど</rt></ruby>く　きっと
+지금 너에게 닿을거야 분명</font>
+
+61
+00:01:20,060 --> 00:01:20,496
+<font face=휴먼매직체><font color=orange><ruby>今<rt>いま</rt></ruby>　<ruby>君<rt>き<font color=white>み</rt></ruby>に<ruby>屆<rt>とど</rt></ruby>く　きっと
+지금 너에게 닿을거야 분명</font>
+
+62
+00:01:20,496 --> 00:01:20,809
+<font face=휴먼매직체><font color=orange><ruby>今<rt>いま</rt></ruby>　<ruby>君<rt>きみ<font color=white></rt></ruby>に<ruby>屆<rt>とど</rt></ruby>く　きっと
+지금 너에게 닿을거야 분명</font>
+
+63
+00:01:20,809 --> 00:01:21,174
+<font face=휴먼매직체><font color=orange><ruby>今<rt>いま</rt></ruby>　<ruby>君<rt>きみ</rt></ruby>に<font color=white><ruby>屆<rt>とど</rt></ruby>く　きっと
+지금 너에게 닿을거야 분명</font>
+
+64
+00:01:21,174 --> 00:01:21,543
+<font face=휴먼매직체><font color=orange><ruby>今<rt>いま</rt></ruby>　<ruby>君<rt>きみ</rt></ruby>に<ruby>屆<rt>と<font color=white>ど</rt></ruby>く　きっと
+지금 너에게 닿을거야 분명</font>
+
+65
+00:01:21,543 --> 00:01:21,937
+<font face=휴먼매직체><font color=orange><ruby>今<rt>いま</rt></ruby>　<ruby>君<rt>きみ</rt></ruby>に<ruby>屆<rt>とど<font color=white></rt></ruby>く　きっと
+지금 너에게 닿을거야 분명</font>
+
+66
+00:01:21,937 --> 00:01:24,378
+<font face=휴먼매직체><font color=orange><ruby>今<rt>いま</rt></ruby>　<ruby>君<rt>きみ</rt></ruby>に<ruby>屆<rt>とど</rt></ruby>く<font color=white>　きっと
+지금 너에게 닿을거야 분명</font>
+
+67
+00:01:24,378 --> 00:01:24,676
+<font face=휴먼매직체><font color=orange><ruby>今<rt>いま</rt></ruby>　<ruby>君<rt>きみ</rt></ruby>に<ruby>屆<rt>とど</rt></ruby>く　き<font color=white>っと
+지금 너에게 닿을거야 분명</font>
+
+68
+00:01:24,676 --> 00:01:24,897
+<font face=휴먼매직체><font color=orange><ruby>今<rt>いま</rt></ruby>　<ruby>君<rt>きみ</rt></ruby>に<ruby>屆<rt>とど</rt></ruby>く　きっ<font color=white>と
+지금 너에게 닿을거야 분명</font>
+
+69
+00:01:24,897 --> 00:01:26,993
+<font face=휴먼매직체><font color=orange><ruby>今<rt>いま</rt></ruby>　<ruby>君<rt>きみ</rt></ruby>に<ruby>屆<rt>とど</rt></ruby>く　きっと<font color=white>
+지금 너에게 닿을거야 분명</font>
+
+70
+00:01:26,993 --> 00:01:27,343
+<font face=휴먼매직체><font color=orange>ウ<font color=white>-イエ!!
+오-예!!</font>
+
+71
+00:01:27,343 --> 00:01:27,693
+<font face=휴먼매직체><font color=orange>ウ-<font color=white>イエ!!
+오-예!!</font>
+
+72
+00:01:27,693 --> 00:01:27,993
+<font face=휴먼매직체><font color=orange>ウ-イ<font color=white>エ!!
+오-예!!</font>
+
+73
+00:01:27,993 --> 00:01:28,143
+<font face=휴먼매직체><font color=orange>ウ-イエ!!<font color=white>
+오-예!!</font>
+
+74
+00:01:28,143 --> 00:01:28,393
+<font face=휴먼매직체><font color=orange>GAN<font color=white>GAN　<ruby>進<rt>すす</rt></ruby>め　<ruby>風<rt>かぜ</rt></ruby><ruby>切<rt>き</rt></ruby>って
+바람을 가르고 힘차게 나아가</font>
+
+75
+00:01:28,393 --> 00:01:28,743
+<font face=휴먼매직체><font color=orange>GANGAN<font color=white>　<ruby>進<rt>すす</rt></ruby>め　<ruby>風<rt>かぜ</rt></ruby><ruby>切<rt>き</rt></ruby>って
+바람을 가르고 힘차게 나아가</font>
+
+76
+00:01:28,743 --> 00:01:28,913
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>進<rt>す<font color=white>す</rt></ruby>め　<ruby>風<rt>かぜ</rt></ruby><ruby>切<rt>き</rt></ruby>って
+바람을 가르고 힘차게 나아가</font>
+
+77
+00:01:28,913 --> 00:01:29,043
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>進<rt>すす<font color=white></rt></ruby>め　<ruby>風<rt>かぜ</rt></ruby><ruby>切<rt>き</rt></ruby>って
+바람을 가르고 힘차게 나아가</font>
+
+78
+00:01:29,043 --> 00:01:29,293
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>進<rt>すす</rt></ruby>め<font color=white>　<ruby>風<rt>かぜ</rt></ruby><ruby>切<rt>き</rt></ruby>って
+바람을 가르고 힘차게 나아가</font>
+
+79
+00:01:29,293 --> 00:01:29,593
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>進<rt>すす</rt></ruby>め　<ruby>風<rt>か<font color=white>ぜ</rt></ruby><ruby>切<rt>き</rt></ruby>って
+바람을 가르고 힘차게 나아가</font>
+
+80
+00:01:29,593 --> 00:01:29,843
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>進<rt>すす</rt></ruby>め　<ruby>風<rt>かぜ<font color=white></rt></ruby><ruby>切<rt>き</rt></ruby>って
+바람을 가르고 힘차게 나아가</font>
+
+81
+00:01:29,843 --> 00:01:29,963
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>進<rt>すす</rt></ruby>め　<ruby>風<rt>かぜ</rt></ruby><ruby>切<rt>き<font color=white></rt></ruby>って
+바람을 가르고 힘차게 나아가</font>
+
+82
+00:01:29,963 --> 00:01:30,293
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>進<rt>すす</rt></ruby>め　<ruby>風<rt>かぜ</rt></ruby><ruby>切<rt>き</rt></ruby>っ<font color=white>て
+바람을 가르고 힘차게 나아가</font>
+
+83
+00:01:30,293 --> 00:01:30,900
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>進<rt>すす</rt></ruby>め　<ruby>風<rt>かぜ</rt></ruby><ruby>切<rt>き</rt></ruby>って<font color=white>
+바람을 가르고 힘차게 나아가</font>
+
+84
+00:01:30,900 --> 00:01:31,294
+<font face=휴먼매직체><font color=orange>GAN<font color=white>GAN　<ruby>行<rt>い</rt></ruby>くぜ　<ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご</rt></ruby>まで
+힘차게 가자 마지막까지</font>
+
+85
+00:01:31,294 --> 00:01:31,743
+<font face=휴먼매직체><font color=orange>GANGAN<font color=white>　<ruby>行<rt>い</rt></ruby>くぜ　<ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご</rt></ruby>まで
+힘차게 가자 마지막까지</font>
+
+86
+00:01:31,743 --> 00:01:31,973
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>行<rt>い<font color=white></rt></ruby>くぜ　<ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご</rt></ruby>まで
+힘차게 가자 마지막까지</font>
+
+87
+00:01:31,973 --> 00:01:32,203
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>行<rt>い</rt></ruby>く<font color=white>ぜ　<ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご</rt></ruby>まで
+힘차게 가자 마지막까지</font>
+
+88
+00:01:32,203 --> 00:01:32,403
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>行<rt>い</rt></ruby>くぜ<font color=white>　<ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご</rt></ruby>まで
+힘차게 가자 마지막까지</font>
+
+89
+00:01:32,403 --> 00:01:32,513
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>行<rt>い</rt></ruby>くぜ　<ruby>最<rt>さ<font color=white>い</rt></ruby><ruby>後<rt>ご</rt></ruby>まで
+힘차게 가자 마지막까지</font>
+
+90
+00:01:32,513 --> 00:01:32,693
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>行<rt>い</rt></ruby>くぜ　<ruby>最<rt>さい<font color=white></rt></ruby><ruby>後<rt>ご</rt></ruby>まで
+힘차게 가자 마지막까지</font>
+
+91
+00:01:32,693 --> 00:01:32,973
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>行<rt>い</rt></ruby>くぜ　<ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご<font color=white></rt></ruby>まで
+힘차게 가자 마지막까지</font>
+
+92
+00:01:32,973 --> 00:01:33,233
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>行<rt>い</rt></ruby>くぜ　<ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご</rt></ruby>ま<font color=white>で
+힘차게 가자 마지막까지</font>
+
+93
+00:01:33,233 --> 00:01:33,952
+<font face=휴먼매직체><font color=orange>GANGAN　<ruby>行<rt>い</rt></ruby>くぜ　<ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご</rt></ruby>まで<font color=white>
+힘차게 가자 마지막까지</font>
+
+94
+00:01:33,952 --> 00:01:34,126
+<font face=휴먼매직체><font color=orange><ruby>完<rt>か<font color=white>ん</rt></ruby><ruby>全<rt>ぜん</rt></ruby>·<ruby>燃<rt>ねん</rt></ruby><ruby>燒<rt>しょう</rt></ruby>　YES, I'm OK!!
+완전·연소 YES,I'm OK!!</font>
+
+95
+00:01:34,126 --> 00:01:34,289
+<font face=휴먼매직체><font color=orange><ruby>完<rt>かん<font color=white></rt></ruby><ruby>全<rt>ぜん</rt></ruby>·<ruby>燃<rt>ねん</rt></ruby><ruby>燒<rt>しょう</rt></ruby>　YES, I'm OK!!
+완전·연소 YES,I'm OK!!</font>
+
+96
+00:01:34,289 --> 00:01:34,475
+<font face=휴먼매직체><font color=orange><ruby>完<rt>かん</rt></ruby><ruby>全<rt>ぜ<font color=white>ん</rt></ruby>·<ruby>燃<rt>ねん</rt></ruby><ruby>燒<rt>しょう</rt></ruby>　YES, I'm OK!!
+완전·연소 YES,I'm OK!!</font>
+
+97
+00:01:34,475 --> 00:01:35,055
+<font face=휴먼매직체><font color=orange><ruby>完<rt>かん</rt></ruby><ruby>全<rt>ぜん<font color=white></rt></ruby>·<ruby>燃<rt>ねん</rt></ruby><ruby>燒<rt>しょう</rt></ruby>　YES, I'm OK!!
+완전·연소 YES,I'm OK!!</font>
+
+98
+00:01:35,055 --> 00:01:35,249
+<font face=휴먼매직체><font color=orange><ruby>完<rt>かん</rt></ruby><ruby>全<rt>ぜん</rt></ruby>·<ruby>燃<rt>ね<font color=white>ん</rt></ruby><ruby>燒<rt>しょう</rt></ruby>　YES, I'm OK!!
+완전·연소 YES,I'm OK!!</font>
+
+99
+00:01:35,249 --> 00:01:35,505
+<font face=휴먼매직체><font color=orange><ruby>完<rt>かん</rt></ruby><ruby>全<rt>ぜん</rt></ruby>·<ruby>燃<rt>ねん<font color=white></rt></ruby><ruby>燒<rt>しょう</rt></ruby>　YES, I'm OK!!
+완전·연소 YES,I'm OK!!</font>
+
+100
+00:01:35,505 --> 00:01:35,743
+<font face=휴먼매직체><font color=orange><ruby>完<rt>かん</rt></ruby><ruby>全<rt>ぜん</rt></ruby>·<ruby>燃<rt>ねん</rt></ruby><ruby>燒<rt>しょ<font color=white>う</rt></ruby>　YES, I'm OK!!
+완전·연소 YES,I'm OK!!</font>
+
+101
+00:01:35,743 --> 00:01:36,257
+<font face=휴먼매직체><font color=orange><ruby>完<rt>かん</rt></ruby><ruby>全<rt>ぜん</rt></ruby>·<ruby>燃<rt>ねん</rt></ruby><ruby>燒<rt>しょう<font color=white></rt></ruby>　YES, I'm OK!!
+완전·연소 YES,I'm OK!!</font>
+
+102
+00:01:36,257 --> 00:01:36,438
+<font face=휴먼매직체><font color=orange><ruby>完<rt>かん</rt></ruby><ruby>全<rt>ぜん</rt></ruby>·<ruby>燃<rt>ねん</rt></ruby><ruby>燒<rt>しょう</rt></ruby>　YE<font color=white>S, I'm OK!!
+완전·연소 YES,I'm OK!!</font>
+
+103
+00:01:36,438 --> 00:01:36,666
+<font face=휴먼매직체><font color=orange><ruby>完<rt>かん</rt></ruby><ruby>全<rt>ぜん</rt></ruby>·<ruby>燃<rt>ねん</rt></ruby><ruby>燒<rt>しょう</rt></ruby>　YES,<font color=white> I'm OK!!
+완전·연소 YES,I'm OK!!</font>
+
+104
+00:01:36,666 --> 00:01:36,852
+<font face=휴먼매직체><font color=orange><ruby>完<rt>かん</rt></ruby><ruby>全<rt>ぜん</rt></ruby>·<ruby>燃<rt>ねん</rt></ruby><ruby>燒<rt>しょう</rt></ruby>　YES, I'<font color=white>m OK!!
+완전·연소 YES,I'm OK!!</font>
+
+105
+00:01:36,852 --> 00:01:37,172
+<font face=휴먼매직체><font color=orange><ruby>完<rt>かん</rt></ruby><ruby>全<rt>ぜん</rt></ruby>·<ruby>燃<rt>ねん</rt></ruby><ruby>燒<rt>しょう</rt></ruby>　YES, I'm<font color=white> OK!!
+완전·연소 YES,I'm OK!!</font>
+
+106
+00:01:37,172 --> 00:01:37,599
+<font face=휴먼매직체><font color=orange><ruby>完<rt>かん</rt></ruby><ruby>全<rt>ぜん</rt></ruby>·<ruby>燃<rt>ねん</rt></ruby><ruby>燒<rt>しょう</rt></ruby>　YES, I'm O<font color=white>K!!
+완전·연소 YES,I'm OK!!</font>
+
+107
+00:01:37,599 --> 00:01:38,973
+<font face=휴먼매직체><font color=orange><ruby>完<rt>かん</rt></ruby><ruby>全<rt>ぜん</rt></ruby>·<ruby>燃<rt>ねん</rt></ruby><ruby>燒<rt>しょう</rt></ruby>　YES, I'm OK!!<font color=white>
+완전·연소 YES,I'm OK!!</font>
+
+108
+00:01:38,973 --> 00:01:39,323
+<font face=휴먼매직체><font color=orange>ウ<font color=white>-イエ!!
+오-예!!</font>
+
+109
+00:01:39,323 --> 00:01:39,663
+<font face=휴먼매직체><font color=orange>ウ-<font color=white>イエ!!
+오-예!!</font>
+
+110
+00:01:39,663 --> 00:01:39,873
+<font face=휴먼매직체><font color=orange>ウ-イ<font color=white>エ!!
+오-예!!</font>
+
+111
+00:01:39,873 --> 00:01:39,993
+<font face=휴먼매직체><font color=orange>ウ-イエ!!<font color=white>
+오-예!!</font>
+
+112
+00:01:39,993 --> 00:01:40,431
+<font face=휴먼매직체><font color=orange>DON<font color=white>DON　パワ-　<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がって
+점점 파워가 올라가고</font>
+
+113
+00:01:40,431 --> 00:01:40,695
+<font face=휴먼매직체><font color=orange>DONDON<font color=white>　パワ-　<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がって
+점점 파워가 올라가고</font>
+
+114
+00:01:40,695 --> 00:01:40,947
+<font face=휴먼매직체><font color=orange>DONDON　パ<font color=white>ワ-　<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がって
+점점 파워가 올라가고</font>
+
+115
+00:01:40,947 --> 00:01:41,233
+<font face=휴먼매직체><font color=orange>DONDON　パワ-<font color=white>　<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がって
+점점 파워가 올라가고</font>
+
+116
+00:01:41,233 --> 00:01:41,460
+<font face=휴먼매직체><font color=orange>DONDON　パワ-　<ruby>盛<rt>も<font color=white></rt></ruby>り<ruby>上<rt>あ</rt></ruby>がって
+점점 파워가 올라가고</font>
+
+117
+00:01:41,460 --> 00:01:41,557
+<font face=휴먼매직체><font color=orange>DONDON　パワ-　<ruby>盛<rt>も</rt></ruby>り<font color=white><ruby>上<rt>あ</rt></ruby>がって
+점점 파워가 올라가고</font>
+
+118
+00:01:41,557 --> 00:01:41,690
+<font face=휴먼매직체><font color=orange>DONDON　パワ-　<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ<font color=white></rt></ruby>がって
+점점 파워가 올라가고</font>
+
+119
+00:01:41,690 --> 00:01:41,902
+<font face=휴먼매직체><font color=orange>DONDON　パワ-　<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>が<font color=white>って
+점점 파워가 올라가고</font>
+
+120
+00:01:41,902 --> 00:01:42,349
+<font face=휴먼매직체><font color=orange>DONDON　パワ-　<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がっ<font color=white>て
+점점 파워가 올라가고</font>
+
+121
+00:01:42,349 --> 00:01:42,877
+<font face=휴먼매직체><font color=orange>DONDON　パワ-　<ruby>盛<rt>も</rt></ruby>り<ruby>上<rt>あ</rt></ruby>がって<font color=white>
+점점 파워가 올라가고</font>
+
+122
+00:01:42,877 --> 00:01:43,310
+<font face=휴먼매직체><font color=orange>DON<font color=white>DON　<ruby>勇<rt>ゆう</rt></ruby><ruby>氣<rt>き</rt></ruby><ruby>湧<rt>わ</rt></ruby>いてくる
+점점 용기가 솟아나</font>
+
+123
+00:01:43,310 --> 00:01:43,678
+<font face=휴먼매직체><font color=orange>DONDON<font color=white>　<ruby>勇<rt>ゆう</rt></ruby><ruby>氣<rt>き</rt></ruby><ruby>湧<rt>わ</rt></ruby>いてくる
+점점 용기가 솟아나</font>
+
+124
+00:01:43,678 --> 00:01:43,823
+<font face=휴먼매직체><font color=orange>DONDON　<ruby>勇<rt>ゆ<font color=white>う</rt></ruby><ruby>氣<rt>き</rt></ruby><ruby>湧<rt>わ</rt></ruby>いてくる
+점점 용기가 솟아나</font>
+
+125
+00:01:43,823 --> 00:01:43,973
+<font face=휴먼매직체><font color=orange>DONDON　<ruby>勇<rt>ゆう<font color=white></rt></ruby><ruby>氣<rt>き</rt></ruby><ruby>湧<rt>わ</rt></ruby>いてくる
+점점 용기가 솟아나</font>
+
+126
+00:01:43,973 --> 00:01:44,293
+<font face=휴먼매직체><font color=orange>DONDON　<ruby>勇<rt>ゆう</rt></ruby><ruby>氣<rt>き<font color=white></rt></ruby><ruby>湧<rt>わ</rt></ruby>いてくる
+점점 용기가 솟아나</font>
+
+127
+00:01:44,293 --> 00:01:44,483
+<font face=휴먼매직체><font color=orange>DONDON　<ruby>勇<rt>ゆう</rt></ruby><ruby>氣<rt>き</rt></ruby><ruby>湧<rt>わ<font color=white></rt></ruby>いてくる
+점점 용기가 솟아나</font>
+
+128
+00:01:44,483 --> 00:01:44,543
+<font face=휴먼매직체><font color=orange>DONDON　<ruby>勇<rt>ゆう</rt></ruby><ruby>氣<rt>き</rt></ruby><ruby>湧<rt>わ</rt></ruby>い<font color=white>てくる
+점점 용기가 솟아나</font>
+
+129
+00:01:44,543 --> 00:01:44,746
+<font face=휴먼매직체><font color=orange>DONDON　<ruby>勇<rt>ゆう</rt></ruby><ruby>氣<rt>き</rt></ruby><ruby>湧<rt>わ</rt></ruby>いて<font color=white>くる
+점점 용기가 솟아나</font>
+
+130
+00:01:44,746 --> 00:01:45,232
+<font face=휴먼매직체><font color=orange>DONDON　<ruby>勇<rt>ゆう</rt></ruby><ruby>氣<rt>き</rt></ruby><ruby>湧<rt>わ</rt></ruby>いてく<font color=white>る
+점점 용기가 솟아나</font>
+
+131
+00:01:45,232 --> 00:01:45,833
+<font face=휴먼매직체><font color=orange>DONDON　<ruby>勇<rt>ゆう</rt></ruby><ruby>氣<rt>き</rt></ruby><ruby>湧<rt>わ</rt></ruby>いてくる<font color=white>
+점점 용기가 솟아나</font>
+
+132
+00:01:45,833 --> 00:01:46,104
+<font face=휴먼매직체><font color=orange><ruby>限<rt>か<font color=white>ぎ</rt></ruby>りない　<ruby>力<rt>ちから</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じよう
+끝 없는 힘을 믿자</font>
+
+133
+00:01:46,104 --> 00:01:46,263
+<font face=휴먼매직체><font color=orange><ruby>限<rt>かぎ<font color=white></rt></ruby>りない　<ruby>力<rt>ちから</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じよう
+끝 없는 힘을 믿자</font>
+
+134
+00:01:46,263 --> 00:01:46,485
+<font face=휴먼매직체><font color=orange><ruby>限<rt>かぎ</rt></ruby>り<font color=white>ない　<ruby>力<rt>ちから</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じよう
+끝 없는 힘을 믿자</font>
+
+135
+00:01:46,485 --> 00:01:46,802
+<font face=휴먼매직체><font color=orange><ruby>限<rt>かぎ</rt></ruby>りな<font color=white>い　<ruby>力<rt>ちから</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じよう
+끝 없는 힘을 믿자</font>
+
+136
+00:01:46,802 --> 00:01:47,006
+<font face=휴먼매직체><font color=orange><ruby>限<rt>かぎ</rt></ruby>りない<font color=white>　<ruby>力<rt>ちから</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じよう
+끝 없는 힘을 믿자</font>
+
+137
+00:01:47,006 --> 00:01:47,192
+<font face=휴먼매직체><font color=orange><ruby>限<rt>かぎ</rt></ruby>りない　<ruby>力<rt>ち<font color=white>から</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じよう
+끝 없는 힘을 믿자</font>
+
+138
+00:01:47,192 --> 00:01:47,370
+<font face=휴먼매직체><font color=orange><ruby>限<rt>かぎ</rt></ruby>りない　<ruby>力<rt>ちか<font color=white>ら</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じよう
+끝 없는 힘을 믿자</font>
+
+139
+00:01:47,370 --> 00:01:47,598
+<font face=휴먼매직체><font color=orange><ruby>限<rt>かぎ</rt></ruby>りない　<ruby>力<rt>ちから<font color=white></rt></ruby>を<ruby>信<rt>しん</rt></ruby>じよう
+끝 없는 힘을 믿자</font>
+
+140
+00:01:47,598 --> 00:01:47,949
+<font face=휴먼매직체><font color=orange><ruby>限<rt>かぎ</rt></ruby>りない　<ruby>力<rt>ちから</rt></ruby>を<font color=white><ruby>信<rt>しん</rt></ruby>じよう
+끝 없는 힘을 믿자</font>
+
+141
+00:01:47,949 --> 00:01:48,221
+<font face=휴먼매직체><font color=orange><ruby>限<rt>かぎ</rt></ruby>りない　<ruby>力<rt>ちから</rt></ruby>を<ruby>信<rt>し<font color=white>ん</rt></ruby>じよう
+끝 없는 힘을 믿자</font>
+
+142
+00:01:48,221 --> 00:01:48,514
+<font face=휴먼매직체><font color=orange><ruby>限<rt>かぎ</rt></ruby>りない　<ruby>力<rt>ちから</rt></ruby>を<ruby>信<rt>しん<font color=white></rt></ruby>じよう
+끝 없는 힘을 믿자</font>
+
+143
+00:01:48,514 --> 00:01:48,756
+<font face=휴먼매직체><font color=orange><ruby>限<rt>かぎ</rt></ruby>りない　<ruby>力<rt>ちから</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じ<font color=white>よう
+끝 없는 힘을 믿자</font>
+
+144
+00:01:48,756 --> 00:01:48,848
+<font face=휴먼매직체><font color=orange><ruby>限<rt>かぎ</rt></ruby>りない　<ruby>力<rt>ちから</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じよ<font color=white>う
+끝 없는 힘을 믿자</font>
+
+145
+00:01:48,848 --> 00:01:51,805
+<font face=휴먼매직체><font color=orange><ruby>限<rt>かぎ</rt></ruby>りない　<ruby>力<rt>ちから</rt></ruby>を<ruby>信<rt>しん</rt></ruby>じよう<font color=white>
+끝 없는 힘을 믿자</font>
+
+146
+00:02:06,488 --> 00:02:11,462
+배틀 프론티어 제패를 향해
+배틀 아레나의 여행을 계속하는 사토시 일행은
+
+147
+00:02:11,462 --> 00:02:16,542
+도중, 포켓몬 콘테스트가 열리는
+야마부키시티에 향하고 있었다
+
+148
+00:02:17,209 --> 00:02:19,466
+이 숲 어디까지 이어지는거야?
+
+149
+00:02:19,466 --> 00:02:23,276
+이대로면 콘테스트에 늦을지도..
+
+150
+00:02:23,276 --> 00:02:24,742
+저기봐!
+
+151
+00:02:24,742 --> 00:02:25,966
+전파탑이다
+
+152
+00:02:25,966 --> 00:02:27,606
+마을까지 조금 남았을지도!
+
+153
+00:02:27,606 --> 00:02:28,997
+좋아
+
+154
+00:02:33,092 --> 00:02:33,694
+뭐야?
+
+155
+00:02:33,694 --> 00:02:34,955
+캐터피야
+
+156
+00:02:34,955 --> 00:02:37,168
+캐터피? 이게
+
+157
+00:02:37,168 --> 00:02:39,725
+캐터피 애벌레 포켓몬
+
+158
+00:02:39,725 --> 00:02:43,855
+다리 흡반을 써서 나무에 올라
+좋아하는 나뭇잎을 먹는다
+
+159
+00:02:44,857 --> 00:02:46,362
+움직이지마!
+
+160
+00:02:47,857 --> 00:02:49,897
+너희들 어제 그 도둑이지?
+
+161
+00:02:49,897 --> 00:02:51,481
+도 도둑?
+
+162
+00:02:51,481 --> 00:02:53,346
+캐터피 실뿜기!
+
+163
+00:03:01,081 --> 00:03:05,723
+진화! 그 신비와 기적!!
+
+164
+00:03:07,836 --> 00:03:10,509
+아냐! 우리들은 도둑이 아냐!
+
+165
+00:03:11,615 --> 00:03:15,345
+거짓말 마! 어젯밤에도 이 연구소에 몰래 들어와놓곤!
+
+166
+00:03:15,345 --> 00:03:16,741
+연구소?
+
+167
+00:03:16,741 --> 00:03:17,634
+여기가?
+
+168
+00:03:17,634 --> 00:03:21,729
+시치미 떼지마 캐터피 좀더 실뿜기!
+
+169
+00:03:22,181 --> 00:03:23,012
+아니라니까!
+
+170
+00:03:23,012 --> 00:03:24,400
+부탁해 믿어줘!
+
+171
+00:03:24,400 --> 00:03:27,024
+믿는자는 구원받는다
+
+172
+00:03:27,024 --> 00:03:29,418
+옛날사람은 그렇게 말했지
+
+173
+00:03:29,418 --> 00:03:31,035
+선생님
+
+174
+00:03:31,035 --> 00:03:37,210
+너희들이 무슨 목적으로 내 연구소에 왔는지
+이 닥터 고든이 밝혀보지
+
+175
+00:03:37,969 --> 00:03:42,823
+봐라! 후딘의 미래예지를 응용한 이 대발명을
+
+176
+00:03:42,823 --> 00:03:47,892
+이걸로 인간의 행동같은건 간단히 예측 할수있지
+
+177
+00:03:47,892 --> 00:03:49,043
+알았다!
+
+178
+00:03:49,043 --> 00:03:52,559
+너희들은 위대한 과학자인 나를 표창하기 위해
+
+179
+00:03:52,559 --> 00:03:55,801
+초호화 리무진으로 온 사람들이다
+
+180
+00:03:56,559 --> 00:03:58,289
+초호화 리무진?
+
+181
+00:03:58,289 --> 00:04:00,532
+그런거 어디에도 없을지도
+
+182
+00:04:01,995 --> 00:04:04,220
+그럼 너희들은 대체 뭐냐!
+
+183
+00:04:04,220 --> 00:04:06,491
+그러니까 야마부키시티에 가는 도중이고
+
+184
+00:04:06,491 --> 00:04:08,382
+길을 잃은것 뿐이에요
+
+185
+00:04:11,112 --> 00:04:13,716
+그럼 그냥 미아였어?
+
+186
+00:04:14,687 --> 00:04:19,399
+죄송해요 여러분을 도둑이라 착각하고..
+
+187
+00:04:19,399 --> 00:04:22,919
+아니, 우리들도 맘대로 연구소에 왔으니까
+
+188
+00:04:22,919 --> 00:04:26,701
+그 숲이 연구소 정원인줄 몰랐어
+
+189
+00:04:26,701 --> 00:04:30,084
+난 젠키치 젠이라고 불리고 있어
+
+190
+00:04:31,210 --> 00:04:33,451
+나 마사라타운의 사토시
+
+191
+00:04:34,497 --> 00:04:35,919
+난 하루카야
+
+192
+00:04:35,919 --> 00:04:37,059
+난 타케시
+
+193
+00:04:37,059 --> 00:04:38,309
+나 마사토
+
+194
+00:04:38,309 --> 00:04:40,764
+강렬했어 네 실뿜기
+
+195
+00:04:42,208 --> 00:04:45,152
+젠과 캐터피는 사이가 아주 좋네
+
+196
+00:04:45,152 --> 00:04:48,815
+응 항상 연구소 정원에서 놀고있어
+
+197
+00:04:50,894 --> 00:04:53,802
+나 캐터피와 수행여행에 나갈거야
+
+198
+00:04:53,802 --> 00:04:56,751
+그래서 선생님이 있는곳에서 공부 하고 있어
+
+199
+00:04:56,751 --> 00:04:59,391
+선생님 이라니 닥터 고든말야?
+
+200
+00:04:59,391 --> 00:05:02,262
+응 선생님은 굉장한 발명가야
+
+201
+00:05:02,262 --> 00:05:05,190
+그렇겐 안보였을지도..
+
+202
+00:05:05,190 --> 00:05:08,975
+유능한 피죤투는 발톱을 숨긴다
+옛날사람은 그렇게 말했지
+
+203
+00:05:10,351 --> 00:05:13,367
+그래서 여기선 어떤 연구를 하고 있나요?
+
+204
+00:05:14,847 --> 00:05:19,210
+나의 연구 테마는 인류와 포켓몬의 밝은미래
+
+205
+00:05:19,210 --> 00:05:23,901
+그걸 위해 만든 여러 발명품을 똑똑히 보아라!
+
+206
+00:05:32,467 --> 00:05:35,546
+코일의 전자파를 이용한 맛사지의자나
+
+207
+00:05:35,546 --> 00:05:37,551
+강매인 격퇴용 그랑블루 마스크
+
+208
+00:05:37,551 --> 00:05:38,830
+그리고 이건
+
+209
+00:05:38,830 --> 00:05:43,160
+푸린의 노래하기를 분석하여 제작한
+특제 노래방 마이크
+
+210
+00:05:43,160 --> 00:05:46,238
+이걸로 노래하면 어떤 때라도 릴렉스 할 수 있단다
+
+211
+00:05:52,558 --> 00:05:54,222
+선생님!
+
+212
+00:05:54,676 --> 00:05:56,809
+확실히 릴렉스는 됬네
+
+213
+00:05:56,809 --> 00:05:58,907
+하지만 저래선 노래 못할지도
+
+214
+00:05:58,907 --> 00:06:01,770
+선생님 일어나요 선생님
+
+215
+00:06:01,770 --> 00:06:04,909
+실로 훌륭한 발명품이구나
+
+216
+00:06:04,909 --> 00:06:09,364
+저 설계도만 있으면
+로켓단의 과학력은 크게 진보할거야
+
+217
+00:06:09,364 --> 00:06:13,548
+그러면 냐들은 과학기술부장으로 취임이냐
+
+218
+00:06:13,548 --> 00:06:16,253
+하지만 문제는 저 캐터피야
+
+219
+00:06:16,253 --> 00:06:20,020
+저녀석을 어떻게든 하지 않으면
+어젯밤과 똑같은꼴이 된다구
+
+220
+00:06:26,171 --> 00:06:28,293
+하지만 지금이라면 할 수 있어!
+
+221
+00:06:28,293 --> 00:06:32,287
+꼬마보이들의 상대를 하는틈에 잠입하는거냐
+
+222
+00:06:35,223 --> 00:06:38,210
+야마부키 시티는 이 길을 그대로 가면 된다
+
+223
+00:06:38,210 --> 00:06:39,433
+고맙습니다
+
+224
+00:06:39,433 --> 00:06:41,425
+포켓몬 콘테스트 힘내
+
+225
+00:06:41,425 --> 00:06:44,209
+응 반드시 우승할거야
+
+226
+00:06:49,626 --> 00:06:51,389
+캐터피 왜 저럴까?
+
+227
+00:06:51,389 --> 00:06:54,181
+설마 정말 어젯밤 녀석들이 온걸까!
+
+228
+00:06:54,181 --> 00:06:55,729
+좋아 가자 젠
+
+229
+00:06:55,729 --> 00:06:57,476
+네
+
+230
+00:06:57,476 --> 00:06:58,733
+우리들도 가보자
+
+231
+00:06:58,733 --> 00:06:59,607
+응
+
+232
+00:07:01,848 --> 00:07:03,582
+있어 있어 있어
+
+233
+00:07:03,582 --> 00:07:05,351
+이 만큼 설계도를 가져가면
+
+234
+00:07:05,351 --> 00:07:07,475
+출세는 확실하다냐
+
+235
+00:07:07,475 --> 00:07:09,615
+그럼 바로 철수야
+
+236
+00:07:14,134 --> 00:07:16,598
+그건 소중한 발명품의 설계도!
+
+237
+00:07:16,598 --> 00:07:17,578
+너희들!
+
+238
+00:07:17,578 --> 00:07:19,911
+그럼 어젯밤의 도둑은!
+
+239
+00:07:19,911 --> 00:07:21,281
+그말대로
+
+240
+00:07:21,281 --> 00:07:25,554
+그때는 실패 했지만 이번엔 확실히 GET이다
+
+241
+00:07:25,554 --> 00:07:27,825
+너희들 친구냐?
+
+242
+00:07:27,825 --> 00:07:29,037
+아니에요!
+
+243
+00:07:29,037 --> 00:07:31,656
+저녀석들 로켓단이라는 악당이야!
+
+244
+00:07:31,656 --> 00:07:33,987
+가라 캐터피!
+
+245
+00:07:33,987 --> 00:07:36,856
+하브네크 해버려!
+
+246
+00:07:42,913 --> 00:07:44,581
+이틈에 도망치는거냐
+
+247
+00:07:47,487 --> 00:07:49,612
+덤으로 이것도 가져가겠어
+
+248
+00:07:49,612 --> 00:07:53,209
+기다려! 그건 막 완성한 대발명품이야!
+
+249
+00:07:53,209 --> 00:07:55,861
+그럼 더욱더 놓칠수 없지
+
+250
+00:07:55,861 --> 00:07:56,559
+이얍!
+
+251
+00:07:56,559 --> 00:07:58,986
+캐터피 실품기!
+
+252
+00:08:01,325 --> 00:08:03,357
+하브네크 되찾아!
+
+253
+00:08:04,851 --> 00:08:06,992
+피카츄 전광석화!
+
+254
+00:08:16,040 --> 00:08:18,067
+그 사탕을 먹으면 안돼!
+
+255
+00:08:19,734 --> 00:08:22,133
+머, 먹었다..
+
+256
+00:08:24,427 --> 00:08:26,310
+캐터피?
+
+257
+00:08:29,949 --> 00:08:31,231
+이건 대체..
+
+258
+00:08:31,231 --> 00:08:32,954
+무슨...
+
+259
+00:08:36,284 --> 00:08:37,974
+뭘 그렇게 쳐다봐!
+
+260
+00:08:37,974 --> 00:08:39,442
+이야기로 풀자
+
+261
+00:08:41,360 --> 00:08:42,907
+이거 위험하다냐
+
+262
+00:08:48,882 --> 00:08:51,213
+거짓말!
+
+263
+00:08:55,867 --> 00:08:59,776
+캐터피 왜 그렇게 된거야?
+
+264
+00:09:02,493 --> 00:09:07,338
+사실은 소설보다도 기이하다
+옛날사람은 이렇게 말했다
+
+265
+00:09:07,338 --> 00:09:11,612
+캐터피가 거대화 한건 내 발명품을
+먹었기 때문이겠지
+
+266
+00:09:11,612 --> 00:09:13,219
+그건 확실히
+
+267
+00:09:13,219 --> 00:09:16,732
+포켓몬의 능력을 올리는 이상한사탕 이었죠?
+
+268
+00:09:17,562 --> 00:09:20,855
+아니, 꽤나 이상한사탕이다
+
+269
+00:09:20,855 --> 00:09:22,420
+꽤나 이상한사탕?
+
+270
+00:09:23,996 --> 00:09:29,382
+포켓몬의 건강을 생각해
+여러 나무열매나 약초를 섞어 만든거야
+
+271
+00:09:29,382 --> 00:09:32,507
+그럼 캐터피는 그 영양분을 흡수해서..
+
+272
+00:09:32,507 --> 00:09:35,091
+하지만 시간이 지나면 원래대로 돌아오죠?
+
+273
+00:09:35,091 --> 00:09:36,408
+그건 몰라
+
+274
+00:09:36,408 --> 00:09:38,553
+그건 무책임할지도..
+
+275
+00:09:38,553 --> 00:09:42,037
+선생님 부탁이에요 캐터피를 원래대로 돌려주세요
+
+276
+00:09:42,037 --> 00:09:45,879
+음. 하면된다
+옛날사람은 그렇게 말했지
+
+277
+00:09:45,879 --> 00:09:48,218
+이 닥터고든에게 맡기거라
+
+278
+00:09:48,218 --> 00:09:49,598
+고맙습니다!
+
+279
+00:09:52,770 --> 00:09:53,945
+캐터피!
+
+280
+00:09:53,945 --> 00:09:55,651
+또 크게됬다!
+
+281
+00:09:55,651 --> 00:09:58,633
+아직 꽤나 이상한사탕이 작용하고 있는거야
+
+282
+00:09:58,633 --> 00:10:01,854
+젠! 빨리 캐터피를 몬스터볼에!
+
+283
+00:10:01,854 --> 00:10:03,936
+그게 무리야!
+
+284
+00:10:03,936 --> 00:10:05,763
+어째서?
+
+285
+00:10:05,763 --> 00:10:09,417
+캐터피랑은 사이가 좋지만 아직 GET하지 않았어!
+
+286
+00:10:11,993 --> 00:10:13,652
+전원 대피!
+
+287
+00:10:24,218 --> 00:10:25,894
+캐터피!
+
+288
+00:10:29,575 --> 00:10:31,854
+기다려 캐터피!
+
+289
+00:10:36,507 --> 00:10:40,213
+큰일이야. 저렇게 큰 캐터피가 마을에 가면..
+
+290
+00:10:54,412 --> 00:10:56,891
+고리키의 파워를 연구해서 만든
+
+291
+00:10:56,891 --> 00:11:00,542
+이 고리키슈츠를 입으면 파워가 10배가 되는거다!
+
+292
+00:11:00,542 --> 00:11:03,196
+저기, 캐터피는 어째서 도망친거야?
+
+293
+00:11:03,196 --> 00:11:06,640
+젠과 우리들에게 피해를 입히고 싶지 않다고 생각했겠지
+
+294
+00:11:06,640 --> 00:11:10,357
+돌아와 캐터피! 그쪽에 가면 안돼!
+
+295
+00:11:27,707 --> 00:11:31,760
+파워가 나온만큼 피로도 10배가 나오는게 난점이구나
+
+296
+00:11:31,760 --> 00:11:34,702
+캐터피 연구소에 돌아와!
+
+297
+00:11:39,040 --> 00:11:40,124
+기다려 캐터피!
+
+298
+00:11:40,124 --> 00:11:42,286
+안돼! 위험해!
+
+299
+00:11:45,378 --> 00:11:46,887
+캐터피!
+
+300
+00:11:59,096 --> 00:12:01,493
+아 이게 어떻게 된 일이냐
+
+301
+00:12:01,493 --> 00:12:06,054
+닥터 고든 저 캐터피에 대해 뭔가 알고있나요?
+
+302
+00:12:06,054 --> 00:12:12,125
+전부 내가 나쁜거야!
+내 발명품으로 캐터피가 저런 모습으로!
+
+303
+00:12:12,125 --> 00:12:15,014
+이 천재적 두뇌가 밉다!
+
+304
+00:12:16,385 --> 00:12:17,445
+저 빛은..
+
+305
+00:12:17,445 --> 00:12:18,653
+설마..
+
+306
+00:12:18,653 --> 00:12:20,498
+진화가 시작된거야!
+
+307
+00:12:20,498 --> 00:12:21,895
+그렇다는건..
+
+308
+00:12:21,895 --> 00:12:24,746
+더욱 캐터피가 거대화 한다
+
+309
+00:12:26,043 --> 00:12:28,236
+그, 그런..
+
+310
+00:12:29,018 --> 00:12:34,779
+자막제작:키리후
+http://blog.naver.com/xorhdml
+
+311
+00:12:34,779 --> 00:12:40,864
+오역,어색한부분 지적 환영합니다
+
+312
+00:12:44,931 --> 00:12:49,136
+토란셀 번데기 포켓몬
+캐터피의 진화형
+
+313
+00:12:49,136 --> 00:12:53,054
+단단한 껍질로 몸을 지키고
+다음 진화의 준비를 하고 있다
+
+314
+00:12:53,054 --> 00:12:57,712
+그렇구나 캐터피는 자신의 진화가
+가깝다는걸 알고 있던거야
+
+315
+00:12:57,712 --> 00:13:02,879
+저곳에서 진화해서 날아가면
+마을 피해는 최소한으로 줄일수있어
+
+316
+00:13:02,879 --> 00:13:05,720
+그렇게 생각해서 저 탑에 오른거야
+
+317
+00:13:07,855 --> 00:13:09,415
+토란셀!
+
+318
+00:13:10,026 --> 00:13:14,222
+아무리 커져도 상관없어
+넌 내가 돌봐줄께!
+
+319
+00:13:14,222 --> 00:13:17,059
+먹을것도 많이 가져다줄게
+
+320
+00:13:17,059 --> 00:13:19,948
+그러니까 나한테로 돌아와!
+
+321
+00:13:23,184 --> 00:13:27,318
+분해! 저거 아까 뺏지 못했던 사탕탓이지?
+
+322
+00:13:27,318 --> 00:13:30,096
+굉장한 발명품 이었다냐
+
+323
+00:13:30,096 --> 00:13:32,378
+정말 험한꼴을 당했다구
+
+324
+00:13:35,634 --> 00:13:37,008
+이 이건!
+
+325
+00:13:37,008 --> 00:13:38,535
+그 사탕이잖아
+
+326
+00:13:38,535 --> 00:13:40,930
+잘했어 소난스
+
+327
+00:13:40,930 --> 00:13:42,058
+좋아!
+
+328
+00:13:42,058 --> 00:13:48,886
+이렇게 되면 발명품 설계도 보다
+이걸 써서 닥터고든 본인을 본부로 데려가자!
+
+329
+00:13:48,886 --> 00:13:53,743
+그리고, 로켓단을 위해서 굉장한 발명을 하게 하도록 하자!
+
+330
+00:13:53,743 --> 00:13:55,738
+그럼 우리들은
+
+331
+00:13:55,738 --> 00:13:59,962
+간부승진 관리취임 좋은느낌!
+
+332
+00:14:02,816 --> 00:14:07,075
+닥터고든, 경찰서에서 거대 토란셀을
+어떻게할지 검토해보죠
+
+333
+00:14:07,075 --> 00:14:08,294
+음 알겠다
+
+334
+00:14:08,294 --> 00:14:10,825
+잠깐 기다려
+
+335
+00:14:10,825 --> 00:14:13,015
+이녀석을 그런곳에 가게하지 않는다냐
+
+336
+00:14:13,015 --> 00:14:15,700
+닥터고든은 우리들이 가져가겠어
+
+337
+00:14:15,700 --> 00:14:16,878
+로켓단!
+
+338
+00:14:16,878 --> 00:14:18,534
+여전히 질길지도!
+
+339
+00:14:18,534 --> 00:14:21,605
+여전히 질길지도! 하고 소리가 들린다
+
+340
+00:14:21,605 --> 00:14:24,106
+지평선의 저편에서
+
+341
+00:14:24,106 --> 00:14:26,884
+빅뱅의 저편에서
+
+342
+00:14:26,884 --> 00:14:29,119
+우리들을 부르는 소리가 들린다
+
+343
+00:14:29,119 --> 00:14:30,697
+기다렸지냐
+
+344
+00:14:30,697 --> 00:14:32,560
+활기차게 핀 악의 꽃
+
+345
+00:14:32,560 --> 00:14:34,592
+하드하고 스위트한 악역
+
+346
+00:14:34,592 --> 00:14:35,428
+무사시
+
+347
+00:14:35,428 --> 00:14:36,265
+코지로
+
+348
+00:14:36,265 --> 00:14:37,957
+냐스입니냐
+
+349
+00:14:37,957 --> 00:14:39,554
+로켓단이 있는곳에
+
+350
+00:14:39,554 --> 00:14:40,195
+세계는
+
+351
+00:14:40,195 --> 00:14:41,211
+우주는
+
+352
+00:14:41,211 --> 00:14:42,978
+널 기다리고 있다!
+
+353
+00:14:45,469 --> 00:14:50,094
+그런 이유로 닥터고든 넌 오늘부터 로켓단 멤버야
+
+354
+00:14:55,190 --> 00:14:55,921
+박사님!
+
+355
+00:14:55,921 --> 00:14:57,716
+피카츄 10만볼트!
+
+356
+00:14:59,945 --> 00:15:02,389
+사보네아 미사일바늘!
+
+357
+00:15:08,852 --> 00:15:09,778
+피카츄!
+
+358
+00:15:09,778 --> 00:15:11,958
+네차레야 독케일!
+
+359
+00:15:13,905 --> 00:15:15,334
+이걸 먹어!
+
+360
+00:15:17,097 --> 00:15:19,726
+저건 꽤나 이상한사탕!
+
+361
+00:15:22,075 --> 00:15:23,002
+어라
+
+362
+00:15:23,002 --> 00:15:26,067
+하나 사보네아가 먹었다냐
+
+363
+00:15:31,899 --> 00:15:33,797
+이건
+
+364
+00:15:37,005 --> 00:15:40,023
+좋아! 가라 사보네아!
+
+365
+00:15:41,474 --> 00:15:43,510
+너..설마;
+
+366
+00:15:52,492 --> 00:15:55,243
+돌아와 사보네아
+
+367
+00:15:57,458 --> 00:16:00,142
+그럼 닥터고든은 가져가겠어!
+
+368
+00:16:00,142 --> 00:16:01,912
+코지로 서둘러라냐
+
+369
+00:16:01,912 --> 00:16:03,288
+지금 갑니다
+
+370
+00:16:03,288 --> 00:16:04,611
+거기서!
+
+371
+00:16:05,305 --> 00:16:08,059
+좋은느낌!
+
+372
+00:16:09,097 --> 00:16:11,032
+로켓단 녀석들..
+
+373
+00:16:16,400 --> 00:16:17,663
+토란셀이..
+
+374
+00:16:17,663 --> 00:16:19,264
+또 진화를 시작했어
+
+375
+00:16:30,096 --> 00:16:34,447
+버터후리 나비 포켓몬
+토란셀의 진화형
+
+376
+00:16:34,447 --> 00:16:37,513
+날개의 인분으로 물을 튀길수 있다
+
+377
+00:16:37,513 --> 00:16:41,423
+버터후리 우리의 힘으로 선생님을 구하는거야!
+
+378
+00:16:42,511 --> 00:16:44,236
+우리들도 간다!
+
+379
+00:16:54,610 --> 00:16:57,398
+절경 이 절경 이
+
+380
+00:16:57,398 --> 00:17:01,692
+독케일에 타는게 이렇게 기분 좋다니 안그래 너?
+
+381
+00:17:04,385 --> 00:17:06,454
+들떠있는것도 지금뿐이야
+
+382
+00:17:06,454 --> 00:17:10,553
+본부에 도착하면 실컷 일해줘야겠어
+
+383
+00:17:12,695 --> 00:17:14,089
+저게 뭐야;
+
+384
+00:17:14,089 --> 00:17:15,029
+선생님!
+
+385
+00:17:15,029 --> 00:17:18,127
+로켓단! 닥터고든을 돌려줘!
+
+386
+00:17:20,045 --> 00:17:23,781
+벌써 토란셀은 버터후리로 진화했구나
+
+387
+00:17:23,781 --> 00:17:25,015
+꼬마보이녀석!
+
+388
+00:17:25,015 --> 00:17:27,059
+독케일 뿌리치는거야!
+
+389
+00:17:29,419 --> 00:17:31,507
+쫓는거야 버터후리!
+
+390
+00:17:36,008 --> 00:17:39,591
+독케일 급상승해서 독침공격!
+
+391
+00:17:56,936 --> 00:17:59,034
+꽉 잡아!
+
+392
+00:18:06,398 --> 00:18:10,352
+피카츄 10만볼트로 독케일을 멈추는거야
+
+393
+00:18:14,067 --> 00:18:15,416
+피해!
+
+394
+00:18:18,156 --> 00:18:19,141
+안되나..
+
+395
+00:18:19,141 --> 00:18:21,702
+이대론 따라잡을수 없어
+
+396
+00:18:25,026 --> 00:18:25,843
+저거야
+
+397
+00:18:25,843 --> 00:18:29,672
+피카츄 저 철탑에 10만볼트!
+
+398
+00:18:39,320 --> 00:18:40,189
+됬어!
+
+399
+00:18:40,189 --> 00:18:42,285
+독케일이 당했어
+
+400
+00:18:42,285 --> 00:18:43,260
+지금이야 젠
+
+401
+00:18:43,260 --> 00:18:44,132
+응
+
+402
+00:18:44,132 --> 00:18:46,417
+버터후리 초음파!
+
+403
+00:19:03,636 --> 00:19:06,420
+이런 중요한때에 어떻게 된거야!
+
+404
+00:19:06,420 --> 00:19:10,324
+아마도 꽤나 이상한사탕의 효과가 떨어진 거겠지
+
+405
+00:19:10,324 --> 00:19:15,370
+하지만 먼저 사탕을 먹은 버터후리는
+아직 큰 그대로냐!
+
+406
+00:19:15,370 --> 00:19:18,918
+먹은 사탕의 양의 차이인가 아니면 체질의 차이인가
+
+407
+00:19:18,918 --> 00:19:21,315
+모든건 수수께끼 그대로야!
+
+408
+00:19:21,315 --> 00:19:23,337
+그런 너무 무책임하다고!
+
+409
+00:19:26,097 --> 00:19:27,671
+선생님!
+
+410
+00:19:27,671 --> 00:19:30,500
+오 젠에 사토시
+
+411
+00:19:32,238 --> 00:19:33,514
+아니!
+
+412
+00:19:33,514 --> 00:19:36,085
+오늘로 두번째야!
+
+413
+00:19:39,233 --> 00:19:41,114
+선생님 괜찮아요?
+
+414
+00:19:41,114 --> 00:19:43,826
+응. 봐 보는데로야
+
+415
+00:19:43,826 --> 00:19:45,161
+다행이네 젠
+
+416
+00:19:45,161 --> 00:19:46,103
+응
+
+417
+00:19:51,660 --> 00:19:53,363
+왜 이렇게 되는거야?
+
+418
+00:19:53,363 --> 00:19:55,281
+모른다냐
+
+419
+00:19:55,281 --> 00:19:57,642
+한번 더 닥터고든을 잡는거야!
+
+420
+00:19:57,642 --> 00:19:59,796
+그렇겐 못해!
+
+421
+00:19:59,796 --> 00:20:00,690
+로켓단!
+
+422
+00:20:00,690 --> 00:20:03,017
+이제 포기해!
+
+423
+00:20:03,017 --> 00:20:06,572
+너희들을 절도,유괴미수로 체포합니다!
+
+424
+00:20:06,572 --> 00:20:10,699
+방해하면 아픈꼴 당할꺼야!
+독케일 환상빔!
+
+425
+00:20:11,692 --> 00:20:13,076
+피카츄 번개!
+
+426
+00:20:22,311 --> 00:20:24,514
+버터후리 날려버리기!
+
+427
+00:20:29,035 --> 00:20:31,206
+싫은느낌!
+
+428
+00:20:34,842 --> 00:20:36,063
+해냈구나 젠
+
+429
+00:20:36,063 --> 00:20:37,216
+응
+
+430
+00:20:58,306 --> 00:20:59,822
+버터후리!
+
+431
+00:21:01,028 --> 00:21:02,188
+다행이네
+
+432
+00:21:03,323 --> 00:21:08,438
+거대 버터후리도 멋졌지만
+역시 보통모습이 귀여울지도
+
+433
+00:21:08,438 --> 00:21:13,338
+닥터고든 그 사탕 또 누군가가 노리지 않을까요?
+
+434
+00:21:13,338 --> 00:21:15,529
+걱정마시라
+
+435
+00:21:15,529 --> 00:21:19,197
+그건 이상한사탕을 만들려다 생긴 실패작이다
+
+436
+00:21:20,154 --> 00:21:21,897
+꽤나 이상한사탕이
+
+437
+00:21:21,897 --> 00:21:23,776
+실패작?
+
+438
+00:21:23,776 --> 00:21:28,392
+응 실패는 성공의 어머니
+옛날사람은 그렇게 말했지
+
+439
+00:21:28,392 --> 00:21:33,402
+그러니까 나는 이 실패를 뛰어넘어
+계속해서 새로운 발명품을 만들겟다!
+
+440
+00:21:33,402 --> 00:21:38,455
+그건 상관없지만 큰소란이 되지않도록 주의하세요
+
+441
+00:21:40,758 --> 00:21:45,802
+버터후리 내가 크면 같이 여행을 떠나 수행하자
+
+442
+00:21:47,199 --> 00:21:49,863
+여행하다 만나면 배틀하자!
+
+443
+00:21:50,683 --> 00:21:54,792
+응 그때까지 우리들 힘내서 강해지겠어!
+
+444
+00:21:56,238 --> 00:21:57,937
+나도 불타오를지도
+
+445
+00:21:57,937 --> 00:22:00,662
+포켓몬 콘테스트 힘내야지!
+
+446
+00:22:00,662 --> 00:22:05,414
+거대 버터후리와 함께 고든을 구출한 사토시와 피카츄
+
+447
+00:22:05,414 --> 00:22:09,407
+그리고 하루카는 젠키치로 버터후리의 우정에 자극받아
+
+448
+00:22:09,407 --> 00:22:14,752
+포켓몬 콘테스트에의 투지를
+더욱 뜨겁게 불태우는 것이었다
+
+449
+00:22:14,752 --> 00:22:16,323
+계속
+
+450
+00:22:28,987 --> 00:22:29,119
+<font face=휴먼매직체><font color=orange>ア、<font color=white>ソレ ア、ゲット
+아,이얍 아,GET</font>
+
+451
+00:22:29,119 --> 00:22:29,575
+<font face=휴먼매직체><font color=orange>ア、ソ<font color=white>レ ア、ゲット
+아,이얍 아,GET</font>
+
+452
+00:22:29,575 --> 00:22:30,913
+<font face=휴먼매직체><font color=orange>ア、ソレ<font color=white> ア、ゲット
+아,이얍 아,GET</font>
+
+453
+00:22:30,913 --> 00:22:31,041
+<font face=휴먼매직체><font color=orange>ア、ソレ ア、<font color=white>ゲット
+아,이얍 아,GET</font>
+
+454
+00:22:31,041 --> 00:22:31,313
+<font face=휴먼매직체><font color=orange>ア、ソレ ア、ゲッ<font color=white>ト
+아,이얍 아,GET</font>
+
+455
+00:22:31,313 --> 00:22:31,978
+<font face=휴먼매직체><font color=orange>ア、ソレ ア、ゲット<font color=white>
+아,이얍 아,GET</font>
+
+456
+00:22:31,978 --> 00:22:32,194
+<font face=휴먼매직체><font color=orange>ひ<font color=white>とつかぞえりゃ ヒトカゲのほのお
+하나 세면 히토카게의 불꽃</font>
+
+457
+00:22:32,194 --> 00:22:32,362
+<font face=휴먼매직체><font color=orange>ひと<font color=white>つかぞえりゃ ヒトカゲのほのお
+하나 세면 히토카게의 불꽃</font>
+
+458
+00:22:32,362 --> 00:22:32,745
+<font face=휴먼매직체><font color=orange>ひとつ<font color=white>かぞえりゃ ヒトカゲのほのお
+하나 세면 히토카게의 불꽃</font>
+
+459
+00:22:32,745 --> 00:22:33,001
+<font face=휴먼매직체><font color=orange>ひとつか<font color=white>ぞえりゃ ヒトカゲのほのお
+하나 세면 히토카게의 불꽃</font>
+
+460
+00:22:33,001 --> 00:22:33,214
+<font face=휴먼매직체><font color=orange>ひとつかぞ<font color=white>えりゃ ヒトカゲのほのお
+하나 세면 히토카게의 불꽃</font>
+
+461
+00:22:33,214 --> 00:22:33,391
+<font face=휴먼매직체><font color=orange>ひとつかぞえ<font color=white>りゃ ヒトカゲのほのお
+하나 세면 히토카게의 불꽃</font>
+
+462
+00:22:33,391 --> 00:22:33,561
+<font face=휴먼매직체><font color=orange>ひとつかぞえりゃ<font color=white> ヒトカゲのほのお
+하나 세면 히토카게의 불꽃</font>
+
+463
+00:22:33,561 --> 00:22:33,836
+<font face=휴먼매직체><font color=orange>ひとつかぞえりゃ ヒ<font color=white>トカゲのほのお
+하나 세면 히토카게의 불꽃</font>
+
+464
+00:22:33,836 --> 00:22:34,059
+<font face=휴먼매직체><font color=orange>ひとつかぞえりゃ ヒト<font color=white>カゲのほのお
+하나 세면 히토카게의 불꽃</font>
+
+465
+00:22:34,059 --> 00:22:34,396
+<font face=휴먼매직체><font color=orange>ひとつかぞえりゃ ヒトカ<font color=white>ゲのほのお
+하나 세면 히토카게의 불꽃</font>
+
+466
+00:22:34,396 --> 00:22:34,587
+<font face=휴먼매직체><font color=orange>ひとつかぞえりゃ ヒトカゲ<font color=white>のほのお
+하나 세면 히토카게의 불꽃</font>
+
+467
+00:22:34,587 --> 00:22:35,080
+<font face=휴먼매직체><font color=orange>ひとつかぞえりゃ ヒトカゲの<font color=white>ほのお
+하나 세면 히토카게의 불꽃</font>
+
+468
+00:22:35,080 --> 00:22:35,366
+<font face=휴먼매직체><font color=orange>ひとつかぞえりゃ ヒトカゲのほ<font color=white>のお
+하나 세면 히토카게의 불꽃</font>
+
+469
+00:22:35,366 --> 00:22:35,718
+<font face=휴먼매직체><font color=orange>ひとつかぞえりゃ ヒトカゲのほの<font color=white>お
+하나 세면 히토카게의 불꽃</font>
+
+470
+00:22:35,718 --> 00:22:37,878
+<font face=휴먼매직체><font color=orange>ひとつかぞえりゃ ヒトカゲのほのお<font color=white>
+하나 세면 히토카게의 불꽃</font>
+
+471
+00:22:37,878 --> 00:22:38,044
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふ<font color=white>ゆ</rt></ruby>はちょうほう　けど<ruby>夏<rt>なつ</rt></ruby>はタマラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+472
+00:22:38,044 --> 00:22:38,256
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ<font color=white></rt></ruby>はちょうほう　けど<ruby>夏<rt>なつ</rt></ruby>はタマラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+473
+00:22:38,256 --> 00:22:38,521
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ</rt></ruby>は<font color=white>ちょうほう　けど<ruby>夏<rt>なつ</rt></ruby>はタマラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+474
+00:22:38,521 --> 00:22:38,826
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ</rt></ruby>はちょ<font color=white>うほう　けど<ruby>夏<rt>なつ</rt></ruby>はタマラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+475
+00:22:38,826 --> 00:22:39,083
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ</rt></ruby>はちょう<font color=white>ほう　けど<ruby>夏<rt>なつ</rt></ruby>はタマラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+476
+00:22:39,083 --> 00:22:39,350
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ</rt></ruby>はちょうほ<font color=white>う　けど<ruby>夏<rt>なつ</rt></ruby>はタマラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+477
+00:22:39,350 --> 00:22:39,667
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ</rt></ruby>はちょうほう<font color=white>　けど<ruby>夏<rt>なつ</rt></ruby>はタマラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+478
+00:22:39,667 --> 00:22:39,838
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ</rt></ruby>はちょうほう　け<font color=white>ど<ruby>夏<rt>なつ</rt></ruby>はタマラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+479
+00:22:39,838 --> 00:22:39,998
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ</rt></ruby>はちょうほう　けど<font color=white><ruby>夏<rt>なつ</rt></ruby>はタマラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+480
+00:22:39,998 --> 00:22:40,227
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ</rt></ruby>はちょうほう　けど<ruby>夏<rt>な<font color=white>つ</rt></ruby>はタマラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+481
+00:22:40,227 --> 00:22:40,421
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ</rt></ruby>はちょうほう　けど<ruby>夏<rt>なつ<font color=white></rt></ruby>はタマラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+482
+00:22:40,421 --> 00:22:41,032
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ</rt></ruby>はちょうほう　けど<ruby>夏<rt>なつ</rt></ruby>は<font color=white>タマラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+483
+00:22:41,032 --> 00:22:41,475
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ</rt></ruby>はちょうほう　けど<ruby>夏<rt>なつ</rt></ruby>はタ<font color=white>マラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+484
+00:22:41,475 --> 00:22:42,194
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ</rt></ruby>はちょうほう　けど<ruby>夏<rt>なつ</rt></ruby>はタマ<font color=white>ラン
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+485
+00:22:42,194 --> 00:22:43,771
+<font face=휴먼매직체><font color=orange><ruby>冬<rt>ふゆ</rt></ruby>はちょうほう　けど<ruby>夏<rt>なつ</rt></ruby>はタマラン<font color=white>
+겨울은 편리해 그치만 여름은 못견뎌</font>
+
+486
+00:22:43,771 --> 00:22:43,993
+<font face=휴먼매직체><font color=orange>ふ<font color=white>たつかぞえりゃ フリ-ザ-の<ruby>吐<rt>と</rt></ruby><ruby>息<rt>いき</rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+487
+00:22:43,993 --> 00:22:44,182
+<font face=휴먼매직체><font color=orange>ふた<font color=white>つかぞえりゃ フリ-ザ-の<ruby>吐<rt>と</rt></ruby><ruby>息<rt>いき</rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+488
+00:22:44,182 --> 00:22:44,433
+<font face=휴먼매직체><font color=orange>ふたつ<font color=white>かぞえりゃ フリ-ザ-の<ruby>吐<rt>と</rt></ruby><ruby>息<rt>いき</rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+489
+00:22:44,433 --> 00:22:44,640
+<font face=휴먼매직체><font color=orange>ふたつか<font color=white>ぞえりゃ フリ-ザ-の<ruby>吐<rt>と</rt></ruby><ruby>息<rt>いき</rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+490
+00:22:44,640 --> 00:22:44,811
+<font face=휴먼매직체><font color=orange>ふたつかぞ<font color=white>えりゃ フリ-ザ-の<ruby>吐<rt>と</rt></ruby><ruby>息<rt>いき</rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+491
+00:22:44,811 --> 00:22:45,189
+<font face=휴먼매직체><font color=orange>ふたつかぞえ<font color=white>りゃ フリ-ザ-の<ruby>吐<rt>と</rt></ruby><ruby>息<rt>いき</rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+492
+00:22:45,189 --> 00:22:45,357
+<font face=휴먼매직체><font color=orange>ふたつかぞえりゃ<font color=white> フリ-ザ-の<ruby>吐<rt>と</rt></ruby><ruby>息<rt>いき</rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+493
+00:22:45,357 --> 00:22:45,527
+<font face=휴먼매직체><font color=orange>ふたつかぞえりゃ フ<font color=white>リ-ザ-の<ruby>吐<rt>と</rt></ruby><ruby>息<rt>いき</rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+494
+00:22:45,527 --> 00:22:45,903
+<font face=휴먼매직체><font color=orange>ふたつかぞえりゃ フリ-<font color=white>ザ-の<ruby>吐<rt>と</rt></ruby><ruby>息<rt>いき</rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+495
+00:22:45,903 --> 00:22:46,114
+<font face=휴먼매직체><font color=orange>ふたつかぞえりゃ フリ-ザ-<font color=white>の<ruby>吐<rt>と</rt></ruby><ruby>息<rt>いき</rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+496
+00:22:46,114 --> 00:22:46,460
+<font face=휴먼매직체><font color=orange>ふたつかぞえりゃ フリ-ザ-の<font color=white><ruby>吐<rt>と</rt></ruby><ruby>息<rt>いき</rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+497
+00:22:46,460 --> 00:22:46,682
+<font face=휴먼매직체><font color=orange>ふたつかぞえりゃ フリ-ザ-の<ruby>吐<rt>と<font color=white></rt></ruby><ruby>息<rt>いき</rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+498
+00:22:46,682 --> 00:22:46,916
+<font face=휴먼매직체><font color=orange>ふたつかぞえりゃ フリ-ザ-の<ruby>吐<rt>と</rt></ruby><ruby>息<rt>い<font color=white>き</rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+499
+00:22:46,916 --> 00:22:47,708
+<font face=휴먼매직체><font color=orange>ふたつかぞえりゃ フリ-ザ-の<ruby>吐<rt>と</rt></ruby><ruby>息<rt>いき<font color=white></rt></ruby>
+둘 세면 프리저의 한숨</font>
+
+500
+00:22:47,708 --> 00:22:47,888
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>な<font color=white>つ</rt></ruby>はちょうほう けど<ruby>冬<rt>ふゆ</rt></ruby>はカンベン
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+501
+00:22:47,888 --> 00:22:48,091
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>なつ<font color=white></rt></ruby>はちょうほう けど<ruby>冬<rt>ふゆ</rt></ruby>はカンベン
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+502
+00:22:48,091 --> 00:22:48,347
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>なつ</rt></ruby>は<font color=white>ちょうほう けど<ruby>冬<rt>ふゆ</rt></ruby>はカンベン
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+503
+00:22:48,347 --> 00:22:48,622
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>なつ</rt></ruby>はちょ<font color=white>うほう けど<ruby>冬<rt>ふゆ</rt></ruby>はカンベン
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+504
+00:22:48,622 --> 00:22:48,896
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>なつ</rt></ruby>はちょう<font color=white>ほう けど<ruby>冬<rt>ふゆ</rt></ruby>はカンベン
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+505
+00:22:48,896 --> 00:22:49,160
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>なつ</rt></ruby>はちょうほ<font color=white>う けど<ruby>冬<rt>ふゆ</rt></ruby>はカンベン
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+506
+00:22:49,160 --> 00:22:49,401
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>なつ</rt></ruby>はちょうほう<font color=white> けど<ruby>冬<rt>ふゆ</rt></ruby>はカンベン
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+507
+00:22:49,401 --> 00:22:49,583
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>なつ</rt></ruby>はちょうほう け<font color=white>ど<ruby>冬<rt>ふゆ</rt></ruby>はカンベン
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+508
+00:22:49,583 --> 00:22:49,772
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>なつ</rt></ruby>はちょうほう けど<font color=white><ruby>冬<rt>ふゆ</rt></ruby>はカンベン
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+509
+00:22:49,772 --> 00:22:50,072
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>なつ</rt></ruby>はちょうほう けど<ruby>冬<rt>ふ<font color=white>ゆ</rt></ruby>はカンベン
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+510
+00:22:50,072 --> 00:22:50,315
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>なつ</rt></ruby>はちょうほう けど<ruby>冬<rt>ふゆ<font color=white></rt></ruby>はカンベン
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+511
+00:22:50,315 --> 00:22:50,967
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>なつ</rt></ruby>はちょうほう けど<ruby>冬<rt>ふゆ</rt></ruby>は<font color=white>カンベン
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+512
+00:22:50,967 --> 00:22:51,679
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>なつ</rt></ruby>はちょうほう けど<ruby>冬<rt>ふゆ</rt></ruby>はカン<font color=white>ベン
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+513
+00:22:51,679 --> 00:22:53,161
+<font face=휴먼매직체><font color=orange><ruby>夏<rt>なつ</rt></ruby>はちょうほう けど<ruby>冬<rt>ふゆ</rt></ruby>はカンベン<font color=white>
+여름은 편리해 그치만 겨울은 자제해줘</font>
+
+514
+00:22:53,161 --> 00:22:53,452
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>う<font color=white>た</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+515
+00:22:53,452 --> 00:22:53,678
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた<font color=white></rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+516
+00:22:53,678 --> 00:22:53,952
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>っ<font color=white>て<ruby>踊<rt>おど</rt></ruby>って ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+517
+00:22:53,952 --> 00:22:54,173
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<font color=white><ruby>踊<rt>おど</rt></ruby>って ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+518
+00:22:54,173 --> 00:22:54,369
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>お<font color=white>ど</rt></ruby>って ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+519
+00:22:54,369 --> 00:22:54,571
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど<font color=white></rt></ruby>って ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+520
+00:22:54,571 --> 00:22:54,981
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>っ<font color=white>て ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+521
+00:22:54,981 --> 00:22:55,176
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って<font color=white> ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+522
+00:22:55,176 --> 00:22:55,434
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポ<font color=white>ケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+523
+00:22:55,434 --> 00:22:55,620
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケ<font color=white>モンモン
+노래하고 춤추고 포켓몬몬</font>
+
+524
+00:22:55,620 --> 00:22:55,783
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケモ<font color=white>ンモン
+노래하고 춤추고 포켓몬몬</font>
+
+525
+00:22:55,783 --> 00:22:56,100
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケモン<font color=white>モン
+노래하고 춤추고 포켓몬몬</font>
+
+526
+00:22:56,100 --> 00:22:56,418
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケモンモ<font color=white>ン
+노래하고 춤추고 포켓몬몬</font>
+
+527
+00:22:56,418 --> 00:22:57,130
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケモンモン<font color=white>
+노래하고 춤추고 포켓몬몬</font>
+
+528
+00:22:57,130 --> 00:22:57,461
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>お<font color=white>ど</rt></ruby>ってかぞえて いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+529
+00:22:57,461 --> 00:22:57,658
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど<font color=white></rt></ruby>ってかぞえて いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+530
+00:22:57,658 --> 00:22:57,862
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>っ<font color=white>てかぞえて いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+531
+00:22:57,862 --> 00:22:58,058
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>って<font color=white>かぞえて いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+532
+00:22:58,058 --> 00:22:58,278
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってか<font color=white>ぞえて いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+533
+00:22:58,278 --> 00:22:58,545
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞ<font color=white>えて いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+534
+00:22:58,545 --> 00:22:58,863
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえ<font color=white>て いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+535
+00:22:58,863 --> 00:22:59,976
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえて<font color=white> いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+536
+00:22:59,976 --> 00:23:00,266
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえて い<font color=white>まいくつ?
+춤추고 세고 지금 몇개?</font>
+
+537
+00:23:00,266 --> 00:23:00,601
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえて いま<font color=white>いくつ?
+춤추고 세고 지금 몇개?</font>
+
+538
+00:23:00,601 --> 00:23:01,148
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえて いまい<font color=white>くつ?
+춤추고 세고 지금 몇개?</font>
+
+539
+00:23:01,148 --> 00:23:02,102
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえて いまいく<font color=white>つ?
+춤추고 세고 지금 몇개?</font>
+
+540
+00:23:02,102 --> 00:23:05,094
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえて いまいくつ?<font color=white>
+춤추고 세고 지금 몇개?</font>
+
+541
+00:23:05,094 --> 00:23:05,559
+<font face=휴먼매직체><font color=orange>みっ<font color=white>つかぞえりゃ ミズゴロウわらう
+셋 세면 미즈고로우가 웃어</font>
+
+542
+00:23:05,559 --> 00:23:05,842
+<font face=휴먼매직체><font color=orange>みっつ<font color=white>かぞえりゃ ミズゴロウわらう
+셋 세면 미즈고로우가 웃어</font>
+
+543
+00:23:05,842 --> 00:23:06,153
+<font face=휴먼매직체><font color=orange>みっつか<font color=white>ぞえりゃ ミズゴロウわらう
+셋 세면 미즈고로우가 웃어</font>
+
+544
+00:23:06,153 --> 00:23:06,291
+<font face=휴먼매직체><font color=orange>みっつかぞ<font color=white>えりゃ ミズゴロウわらう
+셋 세면 미즈고로우가 웃어</font>
+
+545
+00:23:06,291 --> 00:23:06,547
+<font face=휴먼매직체><font color=orange>みっつかぞえ<font color=white>りゃ ミズゴロウわらう
+셋 세면 미즈고로우가 웃어</font>
+
+546
+00:23:06,547 --> 00:23:06,785
+<font face=휴먼매직체><font color=orange>みっつかぞえりゃ<font color=white> ミズゴロウわらう
+셋 세면 미즈고로우가 웃어</font>
+
+547
+00:23:06,785 --> 00:23:07,020
+<font face=휴먼매직체><font color=orange>みっつかぞえりゃ ミ<font color=white>ズゴロウわらう
+셋 세면 미즈고로우가 웃어</font>
+
+548
+00:23:07,020 --> 00:23:07,323
+<font face=휴먼매직체><font color=orange>みっつかぞえりゃ ミズ<font color=white>ゴロウわらう
+셋 세면 미즈고로우가 웃어</font>
+
+549
+00:23:07,323 --> 00:23:07,606
+<font face=휴먼매직체><font color=orange>みっつかぞえりゃ ミズゴ<font color=white>ロウわらう
+셋 세면 미즈고로우가 웃어</font>
+
+550
+00:23:07,606 --> 00:23:07,867
+<font face=휴먼매직체><font color=orange>みっつかぞえりゃ ミズゴロ<font color=white>ウわらう
+셋 세면 미즈고로우가 웃어</font>
+
+551
+00:23:07,867 --> 00:23:08,339
+<font face=휴먼매직체><font color=orange>みっつかぞえりゃ ミズゴロウ<font color=white>わらう
+셋 세면 미즈고로우가 웃어</font>
+
+552
+00:23:08,339 --> 00:23:08,670
+<font face=휴먼매직체><font color=orange>みっつかぞえりゃ ミズゴロウわ<font color=white>らう
+셋 세면 미즈고로우가 웃어</font>
+
+553
+00:23:08,670 --> 00:23:09,108
+<font face=휴먼매직체><font color=orange>みっつかぞえりゃ ミズゴロウわら<font color=white>う
+셋 세면 미즈고로우가 웃어</font>
+
+554
+00:23:09,108 --> 00:23:10,943
+<font face=휴먼매직체><font color=orange>みっつかぞえりゃ ミズゴロウわらう<font color=white>
+셋 세면 미즈고로우가 웃어</font>
+
+555
+00:23:10,943 --> 00:23:11,119
+<font face=휴먼매직체><font color=orange><ruby>水<rt>み<font color=white>ず</rt></ruby>もしたたる いいポケモン?
+싱싱한 좋은포켓몬?</font>
+
+556
+00:23:11,119 --> 00:23:11,365
+<font face=휴먼매직체><font color=orange><ruby>水<rt>みず<font color=white></rt></ruby>もしたたる いいポケモン?
+싱싱한 좋은포켓몬?</font>
+
+557
+00:23:11,365 --> 00:23:11,651
+<font face=휴먼매직체><font color=orange><ruby>水<rt>みず</rt></ruby>も<font color=white>したたる いいポケモン?
+싱싱한 좋은포켓몬?</font>
+
+558
+00:23:11,651 --> 00:23:11,921
+<font face=휴먼매직체><font color=orange><ruby>水<rt>みず</rt></ruby>もし<font color=white>たたる いいポケモン?
+싱싱한 좋은포켓몬?</font>
+
+559
+00:23:11,921 --> 00:23:12,195
+<font face=휴먼매직체><font color=orange><ruby>水<rt>みず</rt></ruby>もした<font color=white>たる いいポケモン?
+싱싱한 좋은포켓몬?</font>
+
+560
+00:23:12,195 --> 00:23:12,457
+<font face=휴먼매직체><font color=orange><ruby>水<rt>みず</rt></ruby>もしたた<font color=white>る いいポケモン?
+싱싱한 좋은포켓몬?</font>
+
+561
+00:23:12,457 --> 00:23:13,645
+<font face=휴먼매직체><font color=orange><ruby>水<rt>みず</rt></ruby>もしたたる<font color=white> いいポケモン?
+싱싱한 좋은포켓몬?</font>
+
+562
+00:23:13,645 --> 00:23:13,916
+<font face=휴먼매직체><font color=orange><ruby>水<rt>みず</rt></ruby>もしたたる い<font color=white>いポケモン?
+싱싱한 좋은포켓몬?</font>
+
+563
+00:23:13,916 --> 00:23:14,156
+<font face=휴먼매직체><font color=orange><ruby>水<rt>みず</rt></ruby>もしたたる いい<font color=white>ポケモン?
+싱싱한 좋은포켓몬?</font>
+
+564
+00:23:14,156 --> 00:23:14,577
+<font face=휴먼매직체><font color=orange><ruby>水<rt>みず</rt></ruby>もしたたる いいポ<font color=white>ケモン?
+싱싱한 좋은포켓몬?</font>
+
+565
+00:23:14,577 --> 00:23:15,044
+<font face=휴먼매직체><font color=orange><ruby>水<rt>みず</rt></ruby>もしたたる いいポケ<font color=white>モン?
+싱싱한 좋은포켓몬?</font>
+
+566
+00:23:15,044 --> 00:23:15,247
+<font face=휴먼매직체><font color=orange><ruby>水<rt>みず</rt></ruby>もしたたる いいポケモ<font color=white>ン?
+싱싱한 좋은포켓몬?</font>
+
+567
+00:23:15,247 --> 00:23:16,817
+<font face=휴먼매직체><font color=orange><ruby>水<rt>みず</rt></ruby>もしたたる いいポケモン?<font color=white>
+싱싱한 좋은포켓몬?</font>
+
+568
+00:23:16,817 --> 00:23:17,241
+<font face=휴먼매직체><font color=orange>よっ<font color=white>つかぞえりゃ ヨマワルまわる
+넷 세면 요마와루 돌고있어</font>
+
+569
+00:23:17,241 --> 00:23:17,516
+<font face=휴먼매직체><font color=orange>よっつ<font color=white>かぞえりゃ ヨマワルまわる
+넷 세면 요마와루 돌고있어</font>
+
+570
+00:23:17,516 --> 00:23:17,769
+<font face=휴먼매직체><font color=orange>よっつか<font color=white>ぞえりゃ ヨマワルまわる
+넷 세면 요마와루 돌고있어</font>
+
+571
+00:23:17,769 --> 00:23:18,023
+<font face=휴먼매직체><font color=orange>よっつかぞ<font color=white>えりゃ ヨマワルまわる
+넷 세면 요마와루 돌고있어</font>
+
+572
+00:23:18,023 --> 00:23:18,355
+<font face=휴먼매직체><font color=orange>よっつかぞえ<font color=white>りゃ ヨマワルまわる
+넷 세면 요마와루 돌고있어</font>
+
+573
+00:23:18,355 --> 00:23:18,542
+<font face=휴먼매직체><font color=orange>よっつかぞえりゃ<font color=white> ヨマワルまわる
+넷 세면 요마와루 돌고있어</font>
+
+574
+00:23:18,542 --> 00:23:18,794
+<font face=휴먼매직체><font color=orange>よっつかぞえりゃ ヨ<font color=white>マワルまわる
+넷 세면 요마와루 돌고있어</font>
+
+575
+00:23:18,794 --> 00:23:18,965
+<font face=휴먼매직체><font color=orange>よっつかぞえりゃ ヨマ<font color=white>ワルまわる
+넷 세면 요마와루 돌고있어</font>
+
+576
+00:23:18,965 --> 00:23:19,148
+<font face=휴먼매직체><font color=orange>よっつかぞえりゃ ヨマワ<font color=white>ルまわる
+넷 세면 요마와루 돌고있어</font>
+
+577
+00:23:19,148 --> 00:23:19,422
+<font face=휴먼매직체><font color=orange>よっつかぞえりゃ ヨマワル<font color=white>まわる
+넷 세면 요마와루 돌고있어</font>
+
+578
+00:23:19,422 --> 00:23:19,711
+<font face=휴먼매직체><font color=orange>よっつかぞえりゃ ヨマワルま<font color=white>わる
+넷 세면 요마와루 돌고있어</font>
+
+579
+00:23:19,711 --> 00:23:19,968
+<font face=휴먼매직체><font color=orange>よっつかぞえりゃ ヨマワルまわ<font color=white>る
+넷 세면 요마와루 돌고있어</font>
+
+580
+00:23:19,968 --> 00:23:20,297
+<font face=휴먼매직체><font color=orange>よっつかぞえりゃ ヨマワルまわる<font color=white>
+넷 세면 요마와루 돌고있어</font>
+
+581
+00:23:20,297 --> 00:23:20,476
+<font face=휴먼매직체><font color=orange>ヒ<font color=white>トカゲのしっぽに <ruby>火<rt>ひ</rt></ruby>の<ruby>用<rt>よう</rt></ruby><ruby>心<rt>じん</rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+582
+00:23:20,476 --> 00:23:20,637
+<font face=휴먼매직체><font color=orange>ヒト<font color=white>カゲのしっぽに <ruby>火<rt>ひ</rt></ruby>の<ruby>用<rt>よう</rt></ruby><ruby>心<rt>じん</rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+583
+00:23:20,637 --> 00:23:20,887
+<font face=휴먼매직체><font color=orange>ヒトカ<font color=white>ゲのしっぽに <ruby>火<rt>ひ</rt></ruby>の<ruby>用<rt>よう</rt></ruby><ruby>心<rt>じん</rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+584
+00:23:20,887 --> 00:23:21,160
+<font face=휴먼매직체><font color=orange>ヒトカゲ<font color=white>のしっぽに <ruby>火<rt>ひ</rt></ruby>の<ruby>用<rt>よう</rt></ruby><ruby>心<rt>じん</rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+585
+00:23:21,160 --> 00:23:21,371
+<font face=휴먼매직체><font color=orange>ヒトカゲの<font color=white>しっぽに <ruby>火<rt>ひ</rt></ruby>の<ruby>用<rt>よう</rt></ruby><ruby>心<rt>じん</rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+586
+00:23:21,371 --> 00:23:21,906
+<font face=휴먼매직체><font color=orange>ヒトカゲのしっ<font color=white>ぽに <ruby>火<rt>ひ</rt></ruby>の<ruby>用<rt>よう</rt></ruby><ruby>心<rt>じん</rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+587
+00:23:21,906 --> 00:23:22,240
+<font face=휴먼매직체><font color=orange>ヒトカゲのしっぽ<font color=white>に <ruby>火<rt>ひ</rt></ruby>の<ruby>用<rt>よう</rt></ruby><ruby>心<rt>じん</rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+588
+00:23:22,240 --> 00:23:23,309
+<font face=휴먼매직체><font color=orange>ヒトカゲのしっぽに<font color=white> <ruby>火<rt>ひ</rt></ruby>の<ruby>用<rt>よう</rt></ruby><ruby>心<rt>じん</rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+589
+00:23:23,309 --> 00:23:23,582
+<font face=휴먼매직체><font color=orange>ヒトカゲのしっぽに <ruby>火<rt>ひ<font color=white></rt></ruby>の<ruby>用<rt>よう</rt></ruby><ruby>心<rt>じん</rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+590
+00:23:23,582 --> 00:23:24,165
+<font face=휴먼매직체><font color=orange>ヒトカゲのしっぽに <ruby>火<rt>ひ</rt></ruby>の<font color=white><ruby>用<rt>よう</rt></ruby><ruby>心<rt>じん</rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+591
+00:23:24,165 --> 00:23:24,467
+<font face=휴먼매직체><font color=orange>ヒトカゲのしっぽに <ruby>火<rt>ひ</rt></ruby>の<ruby>用<rt>よ<font color=white>う</rt></ruby><ruby>心<rt>じん</rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+592
+00:23:24,467 --> 00:23:25,156
+<font face=휴먼매직체><font color=orange>ヒトカゲのしっぽに <ruby>火<rt>ひ</rt></ruby>の<ruby>用<rt>よう<font color=white></rt></ruby><ruby>心<rt>じん</rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+593
+00:23:25,156 --> 00:23:25,551
+<font face=휴먼매직체><font color=orange>ヒトカゲのしっぽに <ruby>火<rt>ひ</rt></ruby>の<ruby>用<rt>よう</rt></ruby><ruby>心<rt>じ<font color=white>ん</rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+594
+00:23:25,551 --> 00:23:26,310
+<font face=휴먼매직체><font color=orange>ヒトカゲのしっぽに <ruby>火<rt>ひ</rt></ruby>の<ruby>用<rt>よう</rt></ruby><ruby>心<rt>じん<font color=white></rt></ruby>
+히토카게 꼬리에 불조심</font>
+
+595
+00:23:26,310 --> 00:23:26,620
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>う<font color=white>た</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+596
+00:23:26,620 --> 00:23:26,787
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた<font color=white></rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+597
+00:23:26,787 --> 00:23:27,118
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>っ<font color=white>て<ruby>踊<rt>おど</rt></ruby>って ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+598
+00:23:27,118 --> 00:23:27,398
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<font color=white><ruby>踊<rt>おど</rt></ruby>って ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+599
+00:23:27,398 --> 00:23:27,644
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>お<font color=white>ど</rt></ruby>って ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+600
+00:23:27,644 --> 00:23:27,786
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど<font color=white></rt></ruby>って ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+601
+00:23:27,786 --> 00:23:28,066
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>っ<font color=white>て ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+602
+00:23:28,066 --> 00:23:28,329
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って<font color=white> ポケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+603
+00:23:28,329 --> 00:23:28,566
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポ<font color=white>ケモンモン
+노래하고 춤추고 포켓몬몬</font>
+
+604
+00:23:28,566 --> 00:23:28,779
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケ<font color=white>モンモン
+노래하고 춤추고 포켓몬몬</font>
+
+605
+00:23:28,779 --> 00:23:29,018
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケモ<font color=white>ンモン
+노래하고 춤추고 포켓몬몬</font>
+
+606
+00:23:29,018 --> 00:23:29,286
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケモン<font color=white>モン
+노래하고 춤추고 포켓몬몬</font>
+
+607
+00:23:29,286 --> 00:23:29,517
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケモンモ<font color=white>ン
+노래하고 춤추고 포켓몬몬</font>
+
+608
+00:23:29,517 --> 00:23:30,268
+<font face=휴먼매직체><font color=orange><ruby>唄<rt>うた</rt></ruby>って<ruby>踊<rt>おど</rt></ruby>って ポケモンモン<font color=white>
+노래하고 춤추고 포켓몬몬</font>
+
+609
+00:23:30,268 --> 00:23:30,541
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>お<font color=white>ど</rt></ruby>ってかぞえて いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+610
+00:23:30,541 --> 00:23:30,751
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど<font color=white></rt></ruby>ってかぞえて いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+611
+00:23:30,751 --> 00:23:30,905
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>っ<font color=white>てかぞえて いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+612
+00:23:30,905 --> 00:23:31,177
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>って<font color=white>かぞえて いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+613
+00:23:31,177 --> 00:23:31,369
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってか<font color=white>ぞえて いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+614
+00:23:31,369 --> 00:23:31,610
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞ<font color=white>えて いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+615
+00:23:31,610 --> 00:23:31,827
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえ<font color=white>て いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+616
+00:23:31,827 --> 00:23:33,062
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえて<font color=white> いまいくつ?
+춤추고 세고 지금 몇개?</font>
+
+617
+00:23:33,062 --> 00:23:33,319
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえて い<font color=white>まいくつ?
+춤추고 세고 지금 몇개?</font>
+
+618
+00:23:33,319 --> 00:23:33,717
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえて いま<font color=white>いくつ?
+춤추고 세고 지금 몇개?</font>
+
+619
+00:23:33,717 --> 00:23:34,177
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえて いまい<font color=white>くつ?
+춤추고 세고 지금 몇개?</font>
+
+620
+00:23:34,177 --> 00:23:35,005
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえて いまいく<font color=white>つ?
+춤추고 세고 지금 몇개?</font>
+
+621
+00:23:35,005 --> 00:23:37,171
+<font face=휴먼매직체><font color=orange><ruby>踊<rt>おど</rt></ruby>ってかぞえて いまいくつ?<font color=white>
+춤추고 세고 지금 몇개?</font>
+
+622
+00:23:40,570 --> 00:23:43,210
+차회예고
+
+623
+00:23:43,210 --> 00:23:45,574
+드디어 온 야마부키 시티
+
+624
+00:23:45,574 --> 00:23:49,029
+그런데 거기서 만난건 놀랍게도 하리씨!
+
+625
+00:23:49,029 --> 00:23:53,476
+게다가 로켓단까지 나타나서
+회장의 포켓몬을 뺏으려해!
+
+626
+00:23:53,476 --> 00:23:55,818
+콘테스트의 방해를 하게 둘까보냐!
+
+627
+00:23:55,818 --> 00:23:57,233
+그녀석들은 내가 쫓아내겠어!
+
+628
+00:23:57,233 --> 00:24:02,777
+다음회
+포켓몬스터 어드벤스 제네레이션
+
+629
+00:24:02,777 --> 00:24:05,986
+포켓몬 콘테스트·야마부키대회!!(전편)
+
+630
+00:24:05,986 --> 00:24:07,585
+너희들도 포켓몬 GET일지도?
+
+631
+00:24:07,585 --> 00:24:11,618
+다음화
+포켓몬 콘테스트·야마부키대회!!(전편)
+
+632
+00:24:11,618 --> 00:24:15,715
+<font color=#f9ed28>포<font color=#f9b028>켓<font color=#f9a328>몬<font color=#f95f28> 트<font color=#f95f28>리<font color=#f95f28>비<font color=#f9a328>어 <font color=#f9b028>퀴<font color=#f9ed28>즈
+<font color=#f9c828>정<font color=#f98b28>답<font color=#f94d28>발<font color=#f98b28>표<font color=#f9c828>!</font>
+
+633
+00:24:15,715 --> 00:24:17,749
+오늘 문제는 이거였지
+<font color=#f36141>오늘의문제
+<font color=#6584f5>가려운곳이 10곳이나 있는
+포켓몬 뭐게?</font>
+
+634
+00:24:17,749 --> 00:24:20,251
+너희들은 알았으려나?
+<font color=#f36141>오늘의문제
+<font color=#6584f5>가려운곳이 10곳이나 있는
+포켓몬 뭐게?</font>
+
+635
+00:24:20,251 --> 00:24:23,652
+정답은 이 포켓몬이다!
+<font color=#f36141>오늘의문제
+<font color=#6584f5>가려운곳이 10곳이나 있는
+포켓몬 뭐게?</font>
+
+636
+00:24:23,652 --> 00:24:25,960
+열곳이 가려워 10 가려워
+
+637
+00:24:25,960 --> 00:24:28,116
+쥬카인..쥬카인!
+
+638
+00:24:28,116 --> 00:24:30,710
+그런 이유로 정답은 쥬카인!
+
+639
+00:24:30,710 --> 00:24:32,750
+좋아 덤벼!
+
+640
+00:24:32,750 --> 00:24:35,454
+그럼 다음 퀴즈도 기대해줘!
+
