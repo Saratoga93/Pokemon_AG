@@ -1,0 +1,3447 @@
+﻿1
+00:00:01,057 --> 00:00:04,402
+<BODY> <font color="79B9B1">이 별의 신기한 생물
+포켓몬스터…
+줄여서 포켓몬!</font>
+
+2
+00:00:04,402 --> 00:00:07,726
+<font color="79B9B1">지금, 소년 사토시와
+포켓몬들의 만남과
+모험과 싸움의 이야기가
+시작된다!</font>
+
+3
+00:00:09,179 --> 00:00:09,383
+<font color="8F8FDF">行くっきゃない　やるっきゃない</font>
+<font color="CC6400">가지 않으면 안되 하지 않으면 안되</font>
+
+4
+00:00:09,383 --> 00:00:09,541
+<font color="F3B600">行<font color="8F8FDF">くっきゃない　やるっきゃない</font>
+<font color="FFA2D6">가<font color="CC6400">지 않으면 안되 하지 않으면 안되</font>
+
+5
+00:00:09,541 --> 00:00:09,715
+<font color="F3B600">行く<font color="8F8FDF">っきゃない　やるっきゃない</font>
+<font color="FFA2D6">가지 <font color="CC6400">않으면 안되 하지 않으면 안되</font>
+
+6
+00:00:09,715 --> 00:00:09,855
+<font color="F3B600">行くっ<font color="8F8FDF">きゃない　やるっきゃない</font>
+<font color="FFA2D6">가지 않<font color="CC6400">으면 안되 하지 않으면 안되</font>
+
+7
+00:00:09,855 --> 00:00:10,062
+<font color="F3B600">行くっきゃ<font color="8F8FDF">ない　やるっきゃない</font>
+<font color="FFA2D6">가지 않으<font color="CC6400">면 안되 하지 않으면 안되</font>
+
+8
+00:00:10,062 --> 00:00:10,229
+<font color="F3B600">行くっきゃな<font color="8F8FDF">い　やるっきゃない</font>
+<font color="FFA2D6">가지 않으면 안<font color="CC6400">되 하지 않으면 안되</font>
+
+9
+00:00:10,229 --> 00:00:10,378
+<font color="F3B600">行くっきゃない　<font color="8F8FDF">やるっきゃない</font>
+<font color="FFA2D6">가지 않으면 안되 <font color="CC6400">하지 않으면 안되</font>
+
+10
+00:00:10,378 --> 00:00:10,509
+<font color="F3B600">行くっきゃない　や<font color="8F8FDF">るっきゃない</font>
+<font color="FFA2D6">가지 않으면 안되 하<font color="CC6400">지 않으면 안되</font>
+
+11
+00:00:10,509 --> 00:00:10,631
+<font color="F3B600">行くっきゃない　やる<font color="8F8FDF">っきゃない</font>
+<font color="FFA2D6">가지 않으면 안되 하지 <font color="CC6400">않으면 안되</font>
+
+12
+00:00:10,631 --> 00:00:10,763
+<font color="F3B600">行くっきゃない　やるっ<font color="8F8FDF">きゃない</font>
+<font color="FFA2D6">가지 않으면 안되 하지 않<font color="CC6400">으면 안되</font>
+
+13
+00:00:10,763 --> 00:00:10,907
+<font color="F3B600">行くっきゃない　やるっきゃ<font color="8F8FDF">ない</font>
+<font color="FFA2D6">가지 않으면 안되 하지 않으면 <font color="CC6400">안되</font>
+
+14
+00:00:10,907 --> 00:00:11,041
+<font color="F3B600">行くっきゃない　やるっきゃ<font color="8F8FDF">ない</font>
+<font color="FFA2D6">가지 않으면 안되 하지 않으면 <font color="CC6400">안되</font>
+
+15
+00:00:11,041 --> 00:00:11,207
+<font color="F3B600">行くっきゃない　やるっきゃな<font color="8F8FDF">い</font>
+<font color="FFA2D6">가지 않으면 안되 하지 않으면 안<font color="CC6400">되</font>
+
+16
+00:00:11,207 --> 00:00:11,258
+<font color="F3B600">行くっきゃない　やるっきゃない</font>
+<font color="FFA2D6">가지 않으면 안되 하지 않으면 안되</font>
+
+17
+00:00:11,258 --> 00:00:11,430
+<font color="8F8FDF">負けっこない　止まらない　最後まで</font>
+<font color="CC6400">지지 않아 멈추지 않아 마지막까지</font>
+
+18
+00:00:11,430 --> 00:00:11,567
+<font color="F3B600">負<font color="8F8FDF">けっこない　止まらない　最後まで</font>
+<font color="FFA2D6">지<font color="CC6400">지 않아 멈추지 않아 마지막까지</font>
+
+19
+00:00:11,567 --> 00:00:11,698
+<font color="F3B600">負け<font color="8F8FDF">っこない　止まらない　最後まで</font>
+<font color="FFA2D6">지지 <font color="CC6400">않아 멈추지 않아 마지막까지</font>
+
+20
+00:00:11,698 --> 00:00:11,870
+<font color="F3B600">負けっ<font color="8F8FDF">こない　止まらない　最後まで</font>
+<font color="FFA2D6">지지 <font color="CC6400">않아 멈추지 않아 마지막까지</font>
+
+21
+00:00:11,870 --> 00:00:12,049
+<font color="F3B600">負けっこ<font color="8F8FDF">ない　止まらない　最後まで</font>
+<font color="FFA2D6">지지 <font color="CC6400">않아 멈추지 않아 마지막까지</font>
+
+22
+00:00:12,049 --> 00:00:12,201
+<font color="F3B600">負けっこな<font color="8F8FDF">い　止まらない　最後まで</font>
+<font color="FFA2D6">지지 않<font color="CC6400">아 멈추지 않아 마지막까지</font>
+
+23
+00:00:12,201 --> 00:00:12,380
+<font color="F3B600">負けっこない　<font color="8F8FDF">止まらない　最後まで</font>
+<font color="FFA2D6">지지 않아 <font color="CC6400">멈추지 않아 마지막까지</font>
+
+24
+00:00:12,380 --> 00:00:12,510
+<font color="F3B600">負けっこない　止<font color="8F8FDF">まらない　最後まで</font>
+<font color="FFA2D6">지지 않아 멈<font color="CC6400">추지 않아 마지막까지</font>
+
+25
+00:00:12,510 --> 00:00:12,670
+<font color="F3B600">負けっこない　止ま<font color="8F8FDF">らない　最後まで</font>
+<font color="FFA2D6">지지 않아 멈추<font color="CC6400">지 않아 마지막까지</font>
+
+26
+00:00:12,670 --> 00:00:12,803
+<font color="F3B600">負けっこない　止まら<font color="8F8FDF">ない　最後まで</font>
+<font color="FFA2D6">지지 않아 멈추지 <font color="CC6400">않아 마지막까지</font>
+
+27
+00:00:12,803 --> 00:00:12,855
+<font color="F3B600">負けっこない　止まらな<font color="8F8FDF">い　最後まで</font>
+<font color="FFA2D6">지지 않아 멈추지 않<font color="CC6400">아 마지막까지</font>
+
+28
+00:00:12,855 --> 00:00:13,393
+<font color="F3B600">負けっこない　止まらない　<font color="8F8FDF">最後まで</font>
+<font color="FFA2D6">지지 않아 멈추지 않아 <font color="CC6400">마지막까지</font>
+
+29
+00:00:13,393 --> 00:00:13,545
+<font color="F3B600">負けっこない　止まらない　最<font color="8F8FDF">後まで</font>
+<font color="FFA2D6">지지 않아 멈추지 않아 마<font color="CC6400">지막까지</font>
+
+30
+00:00:13,545 --> 00:00:13,682
+<font color="F3B600">負けっこない　止まらない　最後<font color="8F8FDF">まで</font>
+<font color="FFA2D6">지지 않아 멈추지 않아 마지<font color="CC6400">막까지</font>
+
+31
+00:00:13,682 --> 00:00:13,808
+<font color="F3B600">負けっこない　止まらない　最後<font color="8F8FDF">まで</font>
+<font color="FFA2D6">지지 않아 멈추지 않아 마지막<font color="CC6400">까지</font>
+
+32
+00:00:13,808 --> 00:00:13,942
+<font color="F3B600">負けっこない　止まらない　最後ま<font color="8F8FDF">で</font>
+<font color="FFA2D6">지지 않아 멈추지 않아 마지막까<font color="CC6400">지</font>
+
+33
+00:00:13,942 --> 00:00:14,762
+<font color="F3B600">負けっこない　止まらない　最後まで</font>
+<font color="FFA2D6">지지 않아 멈추지 않아 마지막까지</font>
+
+34
+00:00:14,762 --> 00:00:14,948
+<font color="8F8FDF">一人じゃない　寂しくない　まだまだ</font>
+<font color="CC6400">혼자가 아니야 외롭지 않아 아직아직</font>
+
+35
+00:00:14,948 --> 00:00:15,127
+<font color="F3B600">一<font color="8F8FDF">人じゃない　寂しくない　まだまだ</font>
+<font color="FFA2D6">혼<font color="CC6400">자가 아니야 외롭지 않아 아직아직</font>
+
+36
+00:00:15,127 --> 00:00:15,257
+<font color="F3B600">一人<font color="8F8FDF">じゃない　寂しくない　まだまだ</font>
+<font color="FFA2D6">혼자<font color="CC6400">가 아니야 외롭지 않아 아직아직</font>
+
+37
+00:00:15,257 --> 00:00:15,388
+<font color="F3B600">一人<font color="8F8FDF">じゃない　寂しくない　まだまだ</font>
+<font color="FFA2D6">혼자가<font color="CC6400"> 아니야 외롭지 않아 아직아직</font>
+
+38
+00:00:15,388 --> 00:00:15,499
+<font color="F3B600">一人じゃ<font color="8F8FDF">ない　寂しくない　まだまだ</font>
+<font color="FFA2D6">혼자가 아<font color="CC6400">니야 외롭지 않아 아직아직</font>
+
+39
+00:00:15,499 --> 00:00:15,635
+<font color="F3B600">一人じゃな<font color="8F8FDF">い　寂しくない　まだまだ</font>
+<font color="FFA2D6">혼자가 아니<font color="CC6400">야 외롭지 않아 아직아직</font>
+
+40
+00:00:15,635 --> 00:00:15,762
+<font color="F3B600">一人じゃない　<font color="8F8FDF">寂しくない　まだまだ</font>
+<font color="FFA2D6">혼자가 아니야 <font color="CC6400">외롭지 않아 아직아직</font>
+
+41
+00:00:15,762 --> 00:00:15,997
+<font color="F3B600">一人じゃない　寂<font color="8F8FDF">しくない　まだまだ</font>
+<font color="FFA2D6">혼자가 아니야 외<font color="CC6400">롭지 않아 아직아직</font>
+
+42
+00:00:15,997 --> 00:00:16,199
+<font color="F3B600">一人じゃない　寂し<font color="8F8FDF">くない　まだまだ</font>
+<font color="FFA2D6">혼자가 아니야 외롭<font color="CC6400">지 않아 아직아직</font>
+
+43
+00:00:16,199 --> 00:00:16,427
+<font color="F3B600">一人じゃない　寂しく<font color="8F8FDF">ない　まだまだ</font>
+<font color="FFA2D6">혼자가 아니야 외롭지 <font color="CC6400">않아 아직아직</font>
+
+44
+00:00:16,427 --> 00:00:16,620
+<font color="F3B600">一人じゃない　寂しくな<font color="8F8FDF">い　まだまだ</font>
+<font color="FFA2D6">혼자가 아니야 외롭지 않<font color="CC6400">아 아직아직</font>
+
+45
+00:00:16,620 --> 00:00:16,835
+<font color="F3B600">一人じゃない　寂しくない　<font color="8F8FDF">まだまだ</font>
+<font color="FFA2D6">혼자가 아니야 외롭지 않아 <font color="CC6400">아직아직</font>
+
+46
+00:00:16,835 --> 00:00:17,116
+<font color="F3B600">一人じゃない　寂しくない　ま<font color="8F8FDF">だまだ</font>
+<font color="FFA2D6">혼자가 아니야 외롭지 않아 아<font color="CC6400">직아직</font>
+
+47
+00:00:17,116 --> 00:00:17,255
+<font color="F3B600">一人じゃない　寂しくない　まだ<font color="8F8FDF">まだ</font>
+<font color="FFA2D6">혼자가 아니야 외롭지 않아 아직<font color="CC6400">아직</font>
+
+48
+00:00:17,255 --> 00:00:17,327
+<font color="F3B600">一人じゃない　寂しくない　まだま<font color="8F8FDF">だ</font>
+<font color="FFA2D6">혼자가 아니야 외롭지 않아 아직아<font color="CC6400">직</font>
+
+49
+00:00:17,327 --> 00:00:17,385
+<font color="F3B600">一人じゃない　寂しくない　まだまだ</font>
+<font color="FFA2D6">혼자가 아니야 외롭지 않아 아직아직</font>
+
+50
+00:00:17,385 --> 00:00:17,520
+<font color="8F8FDF">ワクワク冒險　終わらない…</font>
+<font color="CC6400">두근두근 모험 끝나지 않아…</font>
+
+51
+00:00:17,520 --> 00:00:17,657
+<font color="F3B600">ワ<font color="8F8FDF">クワク冒險　終わらない…</font>
+<font color="FFA2D6">두<font color="CC6400">근두근 모험 끝나지 않아…</font>
+
+52
+00:00:17,657 --> 00:00:17,798
+<font color="F3B600">ワク<font color="8F8FDF">ワク冒險　終わらない…</font>
+<font color="FFA2D6">두근<font color="CC6400">두근 모험 끝나지 않아…</font>
+
+53
+00:00:17,798 --> 00:00:18,029
+<font color="F3B600">ワクワ<font color="8F8FDF">ク冒險　終わらない…</font>
+<font color="FFA2D6">두근두<font color="CC6400">근 모험 끝나지 않아…</font>
+
+54
+00:00:18,029 --> 00:00:18,222
+<font color="F3B600">ワクワク<font color="8F8FDF">冒險　終わらない…</font>
+<font color="FFA2D6">두근두근 <font color="CC6400">모험 끝나지 않아…</font>
+
+55
+00:00:18,222 --> 00:00:18,566
+<font color="F3B600">ワクワク冒<font color="8F8FDF">險　終わらない…</font>
+<font color="FFA2D6">두근두근 모<font color="CC6400">험 끝나지 않아…</font>
+
+56
+00:00:18,566 --> 00:00:18,861
+<font color="F3B600">ワクワク冒險　<font color="8F8FDF">終わらない…</font>
+<font color="FFA2D6">두근두근 모험 <font color="CC6400">끝나지 않아…</font>
+
+57
+00:00:18,861 --> 00:00:18,996
+<font color="F3B600">ワクワク冒險　終<font color="8F8FDF">わらない…</font>
+<font color="FFA2D6">두근두근 모험 끝<font color="CC6400">나지 않아…</font>
+
+58
+00:00:18,996 --> 00:00:19,066
+<font color="F3B600">ワクワク冒險　終わ<font color="8F8FDF">らない…</font>
+<font color="FFA2D6">두근두근 모험 끝나<font color="CC6400">지 않아…</font>
+
+59
+00:00:19,066 --> 00:00:19,304
+<font color="F3B600">ワクワク冒險　終わら<font color="8F8FDF">ない…</font>
+<font color="FFA2D6">두근두근 모험 끝나지 <font color="CC6400">않아…</font>
+
+60
+00:00:19,304 --> 00:00:19,460
+<font color="F3B600">ワクワク冒險　終わらな<font color="8F8FDF">い…</font>
+<font color="FFA2D6">두근두근 모험 끝나지 않<font color="CC6400">아…</font>
+
+61
+00:00:19,460 --> 00:00:19,595
+<font color="F3B600">ワクワク冒險　終わらない<font color="8F8FDF">…</font>
+<font color="FFA2D6">두근두근 모험 끝나지 않아<font color="CC6400">…</font>
+
+62
+00:00:19,595 --> 00:00:20,451
+<font color="F3B600">ワクワク冒險　終わらない…</font>
+<font color="FFA2D6">두근두근 모험 끝나지 않아…</font>
+
+63
+00:00:26,072 --> 00:00:26,255
+<font color="8F8FDF">キラリ朝日　キナギタウン</font>
+<font color="CC6400">반짝이는 아침해 키나기타운</font>
+
+64
+00:00:26,255 --> 00:00:26,388
+<font color="F3B600">キ<font color="8F8FDF">ラリ朝日　キナギタウン</font>
+<font color="FFA2D6">반<font color="CC6400">짝이는 아침해 키나기타운</font>
+
+65
+00:00:26,388 --> 00:00:26,547
+<font color="F3B600">キラ<font color="8F8FDF">リ朝日　キナギタウン</font>
+<font color="FFA2D6">반짝<font color="CC6400">이는 아침해 키나기타운</font>
+
+66
+00:00:26,547 --> 00:00:26,845
+<font color="F3B600">キラリ<font color="8F8FDF">朝日　キナギタウン</font>
+<font color="FFA2D6">반짝이<font color="CC6400">는 아침해 키나기타운</font>
+
+67
+00:00:26,845 --> 00:00:26,924
+<font color="F3B600">キラリ<font color="8F8FDF">朝日　キナギタウン</font>
+<font color="FFA2D6">반짝이는 <font color="CC6400">아침해 키나기타운</font>
+
+68
+00:00:26,924 --> 00:00:26,985
+<font color="F3B600">キラリ朝<font color="8F8FDF">日　キナギタウン</font>
+<font color="FFA2D6">반짝이는 아<font color="CC6400">침해 키나기타운</font>
+
+69
+00:00:26,985 --> 00:00:27,114
+<font color="F3B600">キラリ朝日<font color="8F8FDF">　キナギタウン</font>
+<font color="FFA2D6">반짝이는 아침<font color="CC6400">해 키나기타운</font>
+
+70
+00:00:27,114 --> 00:00:27,655
+<font color="F3B600">キラリ朝日<font color="8F8FDF">　キナギタウン</font>
+<font color="FFA2D6">반짝이는 아침해<font color="CC6400"> 키나기타운</font>
+
+71
+00:00:27,655 --> 00:00:27,811
+<font color="F3B600">キラリ朝日　キ<font color="8F8FDF">ナギタウン</font>
+<font color="FFA2D6">반짝이는 아침해<font color="CC6400"> 키나기타운</font>
+
+72
+00:00:27,811 --> 00:00:27,974
+<font color="F3B600">キラリ朝日　キナ<font color="8F8FDF">ギタウン</font>
+<font color="FFA2D6">반짝이는 아침해 키나<font color="CC6400">기타운</font>
+
+73
+00:00:27,974 --> 00:00:28,127
+<font color="F3B600">キラリ朝日　キナギ<font color="8F8FDF">タウン</font>
+<font color="FFA2D6">반짝이는 아침해 키나기<font color="CC6400">타운</font>
+
+74
+00:00:28,127 --> 00:00:28,284
+<font color="F3B600">キラリ朝日　キナギタ<font color="8F8FDF">ウン</font>
+<font color="FFA2D6">반짝이는 아침해 키나기타<font color="CC6400">운</font>
+
+75
+00:00:28,284 --> 00:00:28,489
+<font color="F3B600">キラリ朝日　キナギタウン</font>
+<font color="FFA2D6">반짝이는 아침해 키나기타운</font>
+
+76
+00:00:28,489 --> 00:00:28,697
+<font color="F3B600">キラリ朝日　キナギタウン</font>
+<font color="FFA2D6">반짝이는 아침해 키나기타운</font>
+
+77
+00:00:28,697 --> 00:00:28,897
+<font color="8F8FDF">今日も元氣か?　ピカチュウ</font>
+<font color="CC6400">오늘도 건강해? 피카츄</font>
+
+78
+00:00:28,897 --> 00:00:28,970
+<font color="F3B600">今<font color="8F8FDF">日も元氣か?　ピカチュウ</font>
+<font color="FFA2D6">오<font color="CC6400">늘도 건강해? 피카츄</font>
+
+79
+00:00:28,970 --> 00:00:29,120
+<font color="F3B600">今日<font color="8F8FDF">も元氣か?　ピカチュウ</font>
+<font color="FFA2D6">오늘<font color="CC6400">도 건강해? 피카츄</font>
+
+80
+00:00:29,120 --> 00:00:29,300
+<font color="F3B600">今日も<font color="8F8FDF">元氣か?　ピカチュウ</font>
+<font color="FFA2D6">오늘도<font color="CC6400"> 건강해? 피카츄</font>
+
+81
+00:00:29,300 --> 00:00:29,689
+<font color="F3B600">今日も元<font color="8F8FDF">氣か?　ピカチュウ</font>
+<font color="FFA2D6">오늘도 건<font color="CC6400">강해? 피카츄</font>
+
+82
+00:00:29,689 --> 00:00:29,975
+<font color="F3B600">今日も元氣<font color="8F8FDF">か?　ピカチュウ</font>
+<font color="FFA2D6">오늘도 건강<font color="CC6400">해? 피카츄</font>
+
+83
+00:00:29,975 --> 00:00:30,075
+<font color="F3B600">今日も元氣か<font color="8F8FDF">?　ピカチュウ</font>
+<font color="FFA2D6">오늘도 건강해<font color="CC6400">? 피카츄</font>
+
+84
+00:00:30,075 --> 00:00:30,275
+<font color="F3B600">今日も元氣か?<font color="8F8FDF">　ピカチュウ</font>
+<font color="FFA2D6">오늘도 건강해?<font color="CC6400"> 피카츄</font>
+
+85
+00:00:30,275 --> 00:00:30,421
+<font color="F3B600">今日も元氣か?　ピ<font color="8F8FDF">カチュウ</font>
+<font color="FFA2D6">오늘도 건강해? 피<font color="CC6400">카츄</font>
+
+86
+00:00:30,421 --> 00:00:30,518
+<font color="F3B600">今日も元氣か?　ピカ<font color="8F8FDF">チュウ</font>
+<font color="FFA2D6">오늘도 건강해? 피카<font color="CC6400">츄</font>
+
+87
+00:00:30,518 --> 00:00:30,634
+<font color="F3B600">今日も元氣か?　ピカチュ<font color="8F8FDF">ウ</font>
+<font color="FFA2D6">오늘도 건강해? 피카츄</font>
+
+88
+00:00:30,634 --> 00:00:31,722
+<font color="F3B600">今日も元氣か?　ピカチュウ</font>
+<font color="FFA2D6">오늘도 건강해? 피카츄</font>
+
+89
+00:00:31,722 --> 00:00:31,822
+<font color="8F8FDF">やる氣　元氣　リュックにつめて</font>
+<font color="CC6400">의욕 건강 배낭에 채워서</font>
+
+90
+00:00:31,822 --> 00:00:31,972
+<font color="F3B600">や<font color="8F8FDF">る氣　元氣　リュックにつめて</font>
+<font color="FFA2D6">의<font color="CC6400">욕 건강 배낭에 채워서</font>
+
+91
+00:00:31,972 --> 00:00:32,166
+<font color="F3B600">やる<font color="8F8FDF">氣　元氣　リュックにつめて</font>
+<font color="FFA2D6">의욕 <font color="CC6400">건강 배낭에 채워서</font>
+
+92
+00:00:32,166 --> 00:00:32,443
+<font color="F3B600">やる氣　<font color="8F8FDF">元氣　リュックにつめて</font>
+<font color="FFA2D6">의욕 <font color="CC6400">건강 배낭에 채워서</font>
+
+93
+00:00:32,443 --> 00:00:32,852
+<font color="F3B600">やる氣　元<font color="8F8FDF">氣　リュックにつめて</font>
+<font color="FFA2D6">의욕 건<font color="CC6400">강 배낭에 채워서</font>
+
+94
+00:00:32,852 --> 00:00:33,206
+<font color="F3B600">やる氣　元氣　<font color="8F8FDF">リュックにつめて</font>
+<font color="FFA2D6">의욕 건강 <font color="CC6400">배낭에 채워서</font>
+
+95
+00:00:33,206 --> 00:00:33,334
+<font color="F3B600">やる氣　元氣　リュ<font color="8F8FDF">ックにつめて</font>
+<font color="FFA2D6">의욕 건강 배<font color="CC6400">낭에 채워서</font>
+
+96
+00:00:33,334 --> 00:00:33,539
+<font color="F3B600">やる氣　元氣　リュッ<font color="8F8FDF">クにつめて</font>
+<font color="FFA2D6">의욕 건강 배<font color="CC6400">낭에 채워서</font>
+
+97
+00:00:33,539 --> 00:00:33,655
+<font color="F3B600">やる氣　元氣　リュック<font color="8F8FDF">につめて</font>
+<font color="FFA2D6">의욕 건강 배낭<font color="CC6400">에 채워서</font>
+
+98
+00:00:33,655 --> 00:00:33,872
+<font color="F3B600">やる氣　元氣　リュックに<font color="8F8FDF">つめて</font>
+<font color="FFA2D6">의욕 건강 배낭에 <font color="CC6400">채워서</font>
+
+99
+00:00:33,872 --> 00:00:34,005
+<font color="F3B600">やる氣　元氣　リュックにつ<font color="8F8FDF">めて</font>
+<font color="FFA2D6">의욕 건강 배낭에 채<font color="CC6400">워서</font>
+
+100
+00:00:34,005 --> 00:00:34,256
+<font color="F3B600">やる氣　元氣　リュックにつめ<font color="8F8FDF">て</font>
+<font color="FFA2D6">의욕 건강 배낭에 채워<font color="CC6400">서</font>
+
+101
+00:00:34,256 --> 00:00:34,508
+<font color="F3B600">やる氣　元氣　リュックにつめて</font>
+<font color="FFA2D6">의욕 건강 배낭에 채워서</font>
+
+102
+00:00:34,508 --> 00:00:34,608
+<font color="8F8FDF">オレは今日も　誓うよ</font>
+<font color="CC6400">나는 오늘도 맹세해</font>
+
+103
+00:00:34,608 --> 00:00:34,777
+<font color="F3B600">オ<font color="8F8FDF">レは今日も　誓うよ</font>
+<font color="FFA2D6">나<font color="CC6400">는 오늘도 맹세해</font>
+
+104
+00:00:34,777 --> 00:00:35,071
+<font color="F3B600">オレ<font color="8F8FDF">は今日も　誓うよ</font>
+<font color="FFA2D6">나<font color="CC6400">는 오늘도 맹세해</font>
+
+105
+00:00:35,071 --> 00:00:35,316
+<font color="F3B600">オレは<font color="8F8FDF">今日も　誓うよ</font>
+<font color="FFA2D6">나는 <font color="CC6400">오늘도 맹세해</font>
+
+106
+00:00:35,316 --> 00:00:35,546
+<font color="F3B600">オレは今<font color="8F8FDF">日も　誓うよ</font>
+<font color="FFA2D6">나는 오<font color="CC6400">늘도 맹세해</font>
+
+107
+00:00:35,546 --> 00:00:35,667
+<font color="F3B600">オレは今日<font color="8F8FDF">も　誓うよ</font>
+<font color="FFA2D6">나는 오늘<font color="CC6400">도 맹세해</font>
+
+108
+00:00:35,667 --> 00:00:36,110
+<font color="F3B600">オレは今日も　<font color="8F8FDF">誓うよ</font>
+<font color="FFA2D6">나는 오늘도 <font color="CC6400">맹세해</font>
+
+109
+00:00:36,110 --> 00:00:36,476
+<font color="F3B600">オレは今日も　誓<font color="8F8FDF">うよ</font>
+<font color="FFA2D6">나는 오늘도 맹<font color="CC6400">세해</font>
+
+110
+00:00:36,476 --> 00:00:36,643
+<font color="F3B600">オレは今日も　誓う<font color="8F8FDF">よ</font>
+<font color="FFA2D6">나는 오늘도 맹세<font color="CC6400">해</font>
+
+111
+00:00:36,643 --> 00:00:37,661
+<font color="F3B600">オレは今日も　誓うよ</font>
+<font color="FFA2D6">나는 오늘도 맹세해</font>
+
+112
+00:00:37,661 --> 00:00:37,761
+<font color="8F8FDF">ピンチとチャンス　ウラ · オモテ</font>
+<font color="CC6400">핀치와 찬스 뒷면 · 앞면</font>
+
+113
+00:00:37,761 --> 00:00:37,880
+<font color="F3B600">ピ<font color="8F8FDF">ンチとチャンス　ウラ · オモテ</font>
+<font color="FFA2D6">핀<font color="CC6400">치와 찬스 뒷면 · 앞면</font>
+
+114
+00:00:37,880 --> 00:00:38,075
+<font color="F3B600">ピン<font color="8F8FDF">チとチャンス　ウラ · オモテ</font>
+<font color="FFA2D6">핀<font color="CC6400">치와 찬스 뒷면 · 앞면</font>
+
+115
+00:00:38,075 --> 00:00:38,180
+<font color="F3B600">ピンチ<font color="8F8FDF">とチャンス　ウラ · オモテ</font>
+<font color="FFA2D6">핀치<font color="CC6400">와 찬스 뒷면 · 앞면</font>
+
+116
+00:00:38,180 --> 00:00:38,406
+<font color="F3B600">ピンチと<font color="8F8FDF">チャンス　ウラ · オモテ</font>
+<font color="FFA2D6">핀치와 <font color="CC6400">찬스 뒷면 · 앞면</font>
+
+117
+00:00:38,406 --> 00:00:38,548
+<font color="F3B600">ピンチとチャ<font color="8F8FDF">ンス　ウラ · オモテ</font>
+<font color="FFA2D6">핀치와 찬<font color="CC6400">스 뒷면 · 앞면</font>
+
+118
+00:00:38,548 --> 00:00:38,728
+<font color="F3B600">ピンチとチャン<font color="8F8FDF">ス　ウラ · オモテ</font>
+<font color="FFA2D6">핀치와 찬<font color="CC6400">스 뒷면 · 앞면</font>
+
+119
+00:00:38,728 --> 00:00:38,970
+<font color="F3B600">ピンチとチャンス　<font color="8F8FDF">ウラ · オモテ</font>
+<font color="FFA2D6">핀치와 찬스 <font color="CC6400">뒷면 · 앞면</font>
+
+120
+00:00:38,970 --> 00:00:39,089
+<font color="F3B600">ピンチとチャンス　ウ<font color="8F8FDF">ラ · オモテ</font>
+<font color="FFA2D6">핀치와 찬스 뒷<font color="CC6400">면 · 앞면</font>
+
+121
+00:00:39,089 --> 00:00:39,257
+<font color="F3B600">ピンチとチャンス　ウラ <font color="8F8FDF">· オモテ</font>
+<font color="FFA2D6">핀치와 찬스 뒷면<font color="CC6400"> · 앞면</font>
+
+122
+00:00:39,257 --> 00:00:39,509
+<font color="F3B600">ピンチとチャンス　ウラ · <font color="8F8FDF">オモテ</font>
+<font color="FFA2D6">핀치와 찬스 뒷면 · <font color="CC6400">앞면</font>
+
+123
+00:00:39,509 --> 00:00:39,660
+<font color="F3B600">ピンチとチャンス　ウラ · オ<font color="8F8FDF">モテ</font>
+<font color="FFA2D6">핀치와 찬스 뒷면 · 앞<font color="CC6400">면</font>
+
+124
+00:00:39,660 --> 00:00:39,863
+<font color="F3B600">ピンチとチャンス　ウラ · オモ<font color="8F8FDF">テ</font>
+<font color="FFA2D6">핀치와 찬스 뒷면 · 앞면</font>
+
+125
+00:00:39,863 --> 00:00:40,312
+<font color="F3B600">ピンチとチャンス　ウラ · オモテ</font>
+<font color="FFA2D6">핀치와 찬스 뒷면 · 앞면</font>
+
+126
+00:00:40,312 --> 00:00:40,412
+<font color="8F8FDF">勝つも負けるも　オレ次第</font>
+<font color="CC6400">이기는 것도 지는 것도 내 나름</font>
+
+127
+00:00:40,412 --> 00:00:40,728
+<font color="F3B600">勝<font color="8F8FDF">つも負けるも　オレ次第</font>
+<font color="FFA2D6">이<font color="CC6400">기는 것도 지는 것도 내 나름</font>
+
+128
+00:00:40,728 --> 00:00:40,683
+<font color="F3B600">勝<font color="8F8FDF">つも負けるも　オレ次第</font>
+<font color="FFA2D6">이기<font color="CC6400">는 것도 지는 것도 내 나름</font>
+
+129
+00:00:40,683 --> 00:00:40,811
+<font color="F3B600">勝つ<font color="8F8FDF">も負けるも　オレ次第</font>
+<font color="FFA2D6">이기는<font color="CC6400"> 것도 지는 것도 내 나름</font>
+
+130
+00:00:40,811 --> 00:00:40,926
+<font color="F3B600">勝つ<font color="8F8FDF">も負けるも　オレ次第</font>
+<font color="FFA2D6">이기는 것<font color="CC6400">도 지는 것도 내 나름</font>
+
+131
+00:00:40,926 --> 00:00:41,098
+<font color="F3B600">勝つも<font color="8F8FDF">負けるも　オレ次第</font>
+<font color="FFA2D6">이기는 것도 <font color="CC6400">지는 것도 내 나름</font>
+
+132
+00:00:41,098 --> 00:00:41,219
+<font color="F3B600">勝つも負<font color="8F8FDF">けるも　オレ次第</font>
+<font color="FFA2D6">이기는 것도 지<font color="CC6400">는 것도 내 나름</font>
+
+133
+00:00:41,219 --> 00:00:41,345
+<font color="F3B600">勝つも負け<font color="8F8FDF">るも　オレ次第</font>
+<font color="FFA2D6">이기는 것도 지는 <font color="CC6400">것도 내 나름</font>
+
+134
+00:00:41,345 --> 00:00:41,522
+<font color="F3B600">勝つも負ける<font color="8F8FDF">も　オレ次第</font>
+<font color="FFA2D6">이기는 것도 지는 것<font color="CC6400">도 내 나름</font>
+
+135
+00:00:41,522 --> 00:00:41,730
+<font color="F3B600">勝つも負けるも　<font color="8F8FDF">オレ次第</font>
+<font color="FFA2D6">이기는 것도 지는 것도<font color="CC6400"> 내 나름</font>
+
+136
+00:00:41,730 --> 00:00:41,918
+<font color="F3B600">勝つも負けるも　オ<font color="8F8FDF">レ次第</font>
+<font color="FFA2D6">이기는 것도 지는 것도 내<font color="CC6400"> 나름</font>
+
+137
+00:00:41,918 --> 00:00:42,224
+<font color="F3B600">勝つも負けるも　オレ<font color="8F8FDF">次第</font>
+<font color="FFA2D6">이기는 것도 지는 것도 내<font color="CC6400"> 나름</font>
+
+138
+00:00:42,224 --> 00:00:42,362
+<font color="F3B600">勝つも負けるも　オレ次<font color="8F8FDF">第</font>
+<font color="FFA2D6">이기는 것도 지는 것도 내 나<font color="CC6400">름</font>
+
+139
+00:00:42,362 --> 00:00:43,162
+<font color="F3B600>勝つも負けるも　オレ次第</font>
+<font color="FFA2D6">이기는 것도 지는 것도 내 나름</font>
+
+140
+00:00:43,162 --> 00:00:43,262
+<font color="8F8FDF">强さ　優しさ まぶしい笑顔</font>
+<font color="CC6400">강함 상냥함 눈부시는 웃음</font>
+
+141
+00:00:43,262 --> 00:00:43,381
+<font color="F3B600">强<font color="8F8FDF">さ　優しさ まぶしい笑顔</font>
+<font color="FFA2D6">강<font color="CC6400">함 상냥함 눈부시는 웃음</font>
+
+142
+00:00:43,381 --> 00:00:43,523
+<font color="F3B600">强さ　<font color="8F8FDF">優しさ まぶしい笑顔</font>
+<font color="FFA2D6">강함 <font color="CC6400">상냥함 눈부시는 웃음</font>
+
+143
+00:00:43,523 --> 00:00:43,696
+<font color="F3B600">强さ　優<font color="8F8FDF">しさ まぶしい笑顔</font>
+<font color="FFA2D6">강함 상<font color="CC6400">냥함 눈부시는 웃음</font>
+
+144
+00:00:43,696 --> 00:00:43,973
+<font color="F3B600">强さ　優し<font color="8F8FDF">さ まぶしい笑顔</font>
+<font color="FFA2D6">강함 상냥<font color="CC6400">함 눈부시는 웃음</font>
+
+145
+00:00:43,973 --> 00:00:44,115
+<font color="F3B600">强さ　優しさ<font color="8F8FDF"> まぶしい笑顔</font>
+<font color="FFA2D6">강함 상냥함 <font color="CC6400">눈부시는 웃음</font>
+
+146
+00:00:44,115 --> 00:00:44,336
+<font color="F3B600">强さ　優しさ ま<font color="8F8FDF">ぶしい笑顔</font>
+<font color="FFA2D6">강함 상냥함 눈<font color="CC6400">부시는 웃음</font>
+
+147
+00:00:44,336 --> 00:00:44,582
+<font color="F3B600">强さ　優しさ まぶ<font color="8F8FDF">しい笑顔</font>
+<font color="FFA2D6">강함 상냥함 눈부<font color="CC6400">시는 웃음</font>
+
+148
+00:00:44,582 --> 00:00:44,705
+<font color="F3B600">强さ　優しさ まぶし<font color="8F8FDF">い笑顔</font>
+<font color="FFA2D6">강함 상냥함 눈부시<font color="CC6400">는 웃음</font>
+
+149
+00:00:44,705 --> 00:00:44,934
+<font color="F3B600">强さ　優しさ まぶしい<font color="8F8FDF">笑顔</font>
+<font color="FFA2D6">강함 상냥함 눈부시는 <font color="CC6400">웃음</font>
+
+150
+00:00:44,934 --> 00:00:45,226
+<font color="F3B600">强さ　優しさ まぶしい笑<font color="8F8FDF">顔</font>
+<font color="FFA2D6">강함 상냥함 눈부시는 웃<font color="CC6400">음</font>
+
+151
+00:00:45,226 --> 00:00:45,857
+<font color="F3B600">强さ　優しさ まぶしい笑顔</font>
+<font color="FFA2D6">강함 상냥함 눈부시는 웃음</font>
+
+152
+00:00:45,857 --> 00:00:46,074
+<font color="8F8FDF">胸のMAPで　見つけるぜ</font>
+<font color="CC6400">가슴의 MAP으로 찾는거야</font>
+
+153
+00:00:46,074 --> 00:00:46,169
+<font color="F3B600">胸<font color="8F8FDF">のMAPで　見つけるぜ</font>
+<font color="FFA2D6">가<font color="CC6400">슴의 MAP으로 찾는거야</font>
+
+154
+00:00:46,169 --> 00:00:46,322
+<font color="F3B600">胸<font color="8F8FDF">のMAPで　見つけるぜ</font>
+<font color="FFA2D6">가슴<font color="CC6400">의 MAP으로 찾는거야</font>
+
+155
+00:00:46,322 --> 00:00:46,577
+<font color="F3B600">胸の<font color="8F8FDF">MAPで　見つけるぜ</font>
+<font color="FFA2D6">가슴의<font color="CC6400"> MAP으로 찾는거야</font>
+
+156
+00:00:46,577 --> 00:00:47,037
+<font color="F3B600">胸のMAP<font color="8F8FDF">で　見つけるぜ</font>
+<font color="FFA2D6">가슴의 MAP<font color="CC6400">으로 찾는거야</font>
+
+157
+00:00:47,037 --> 00:00:47,385
+<font color="F3B600">胸のMAPで<font color="8F8FDF">　見つけるぜ</font>
+<font color="FFA2D6">가슴의 MAP으로<font color="CC6400"> 찾는거야</font>
+
+158
+00:00:47,385 --> 00:00:47,504
+<font color="F3B600">胸のMAPで　見<font color="8F8FDF">つけるぜ</font>
+<font color="FFA2D6">가슴의 MAP으로 찾<font color="CC6400">는거야</font>
+
+159
+00:00:47,504 --> 00:00:47,633
+<font color="F3B600">胸のMAPで　見つ<font color="8F8FDF">けるぜ</font>
+<font color="FFA2D6">가슴의 MAP으로 찾는<font color="CC6400">거야</font>
+
+160
+00:00:47,633 --> 00:00:47,774
+<font color="F3B600">胸のMAPで　見つけ<font color="8F8FDF">るぜ</font>
+<font color="FFA2D6">가슴의 MAP으로 찾는거<font color="CC6400">야</font>
+
+161
+00:00:47,774 --> 00:00:47,936
+<font color="F3B600">胸のMAPで　見つける<font color="8F8FDF">ぜ</font>
+<font color="FFA2D6">가슴의 MAP으로 찾는거<font color="CC6400">야</font>
+
+162
+00:00:47,936 --> 00:00:48,909
+<font color="F3B600">胸のMAPで　見つけるぜ</font>
+<font color="FFA2D6">가슴의 MAP으로 찾는거야</font>
+
+163
+00:00:48,909 --> 00:00:49,009
+<font color="8F8FDF">もっと　もっと　高く</font>
+<font color="CC6400">좀더 좀더 높게</font>
+
+164
+00:00:49,009 --> 00:00:49,165
+<font color="F3B600">も<font color="8F8FDF">っと　もっと　高く</font>
+<font color="FFA2D6">좀<font color="CC6400">더 좀더 높게</font>
+
+165
+00:00:49,165 --> 00:00:49,581
+<font color="F3B600">もっ<font color="8F8FDF">と　もっと　高く</font>
+<font color="FFA2D6">좀<font color="CC6400">더 좀더 높게</font>
+
+166
+00:00:49,581 --> 00:00:49,955
+<font color="F3B600">もっと　<font color="8F8FDF">もっと　高く</font>
+<font color="FFA2D6">좀더 <font color="CC6400">좀더 높게</font>
+
+167
+00:00:49,955 --> 00:00:50,365
+<font color="F3B600">もっと　も<font color="8F8FDF">っと　高く</font>
+<font color="FFA2D6">좀더 좀<font color="CC6400">더 높게</font>
+
+168
+00:00:50,365 --> 00:00:50,456
+<font color="F3B600">もっと　もっ<font color="8F8FDF">と　高く</font>
+<font color="FFA2D6">좀더 좀<font color="CC6400">더 높게</font>
+
+169
+00:00:50,456 --> 00:00:51,115
+<font color="F3B600">もっと　もっと　<font color="8F8FDF">高く</font>
+<font color="FFA2D6">좀더 좀더 <font color="CC6400">높게</font>
+
+170
+00:00:51,115 --> 00:00:52,099
+<font color="F3B600">もっと　もっと　高<font color="8F8FDF">く</font>
+<font color="FFA2D6">좀더 좀더 높<font color="CC6400">게</font>
+
+171
+00:00:52,099 --> 00:00:54,136
+<font color="F3B600">もっと　もっと　高く</font>
+<font color="FFA2D6">좀더 좀더 높게</font>
+
+172
+00:00:54,136 --> 00:00:54,736
+<font color="8F8FDF">目指せ　オレはチャレンジャ-！！</font>
+<font color="CC6400">목표해 나는 도전자-!!</font>
+
+173
+00:00:54,736 --> 00:00:55,107
+<font color="F3B600">目<font color="8F8FDF">指せ　オレはチャレンジャ-！！</font>
+<font color="FFA2D6">목<font color="CC6400">표해 나는 도전자-!!</font>
+
+174
+00:00:55,107 --> 00:00:55,356
+<font color="F3B600">目指<font color="8F8FDF">せ　オレはチャレンジャ-！！</font>
+<font color="FFA2D6">목표<font color="CC6400">해 나는 도전자-!!</font>
+
+175
+00:00:55,356 --> 00:00:55,484
+<font color="F3B600">目指せ　<font color="8F8FDF">オレはチャレンジャ-！！</font>
+<font color="FFA2D6">목표해 <font color="CC6400">나는 도전자-!!</font>
+
+176
+00:00:55,484 --> 00:00:55,732
+<font color="F3B600">目指せ　オ<font color="8F8FDF">レはチャレンジャ-！！</font>
+<font color="FFA2D6">목표해 나<font color="CC6400">는 도전자-!!</font>
+
+177
+00:00:55,732 --> 00:00:56,018
+<font color="F3B600">目指せ　オレ<font color="8F8FDF">はチャレンジャ-！！</font>
+<font color="FFA2D6">목표해 나<font color="CC6400">는 도전자-!!</font>
+
+178
+00:00:56,018 --> 00:00:56,326
+<font color="F3B600">目指せ　オレは<font color="8F8FDF">チャレンジャ-！！</font>
+<font color="FFA2D6">목표해 나는 <font color="CC6400">도전자-!!</font>
+
+179
+00:00:56,326 --> 00:00:56,906
+<font color="F3B600">目指せ　オレはチャ<font color="8F8FDF">レンジャ-！！</font>
+<font color="FFA2D6">목표해 나는 도<font color="CC6400">전자-!!</font>
+
+180
+00:00:56,906 --> 00:00:57,733
+<font color="F3B600">目指せ　オレはチャレ<font color="8F8FDF">ンジャ-！！</font>
+<font color="FFA2D6">목표해 나는 도전<font color="CC6400">자-!!</font>
+
+181
+00:00:57,733 --> 00:00:57,837
+<font color="F3B600">目指せ　オレはチャレン<font color="8F8FDF">ジャ-！！</font>
+<font color="FFA2D6">목표해 나는 도전<font color="CC6400">자-!!</font>
+
+182
+00:00:57,837 --> 00:00:58,017
+<font color="F3B600">目指せ　オレはチャレンジャ<font color="8F8FDF">-！！</font>
+<font color="FFA2D6">목표해 나는 도전자<font color="CC6400">-!!</font>
+
+183
+00:00:58,017 --> 00:00:58,178
+<font color="F3B600">目指せ　オレはチャレンジャ-<font color="8F8FDF">！！</font>
+<font color="FFA2D6">목표해 나는 도전자-<font color="CC6400">!!</font>
+
+184
+00:00:58,178 --> 00:00:58,291
+<font color="F3B600">目指せ　オレはチャレンジャ-！<font color="8F8FDF">！</font>
+<font color="FFA2D6">목표해 나는 도전자-!<font color="CC6400">!</font>
+
+185
+00:00:58,291 --> 00:00:58,454
+<font color="F3B600">目指せ　オレはチャレンジャ-！！</font>
+<font color="FFA2D6">목표해 나는 도전자-!!</font>
+
+186
+00:01:00,532 --> 00:01:00,687
+<font color="8F8FDF">行くっきゃない　やるっきゃない</font>
+<font color="CC6400">가지 않으면 안되 하지 않으면 안되</font>
+
+187
+00:01:00,687 --> 00:01:00,809
+<font color="F3B600">行<font color="8F8FDF">くっきゃない　やるっきゃない</font>
+<font color="FFA2D6">가<font color="CC6400">지 않으면 안되 하지 않으면 안되</font>
+
+188
+00:01:00,809 --> 00:01:01,075
+<font color="F3B600">行く<font color="8F8FDF">っきゃない　やるっきゃない</font>
+<font color="FFA2D6">가지 <font color="CC6400">않으면 안되 하지 않으면 안되</font>
+
+189
+00:01:01,075 --> 00:01:01,192
+<font color="F3B600">行くっ<font color="8F8FDF">きゃない　やるっきゃない</font>
+<font color="FFA2D6">가지 않<font color="CC6400">으면 안되 하지 않으면 안되</font>
+
+190
+00:01:01,192 --> 00:01:01,317
+<font color="F3B600">行くっきゃ<font color="8F8FDF">ない　やるっきゃない</font>
+<font color="FFA2D6">가지 않으<font color="CC6400">면 안되 하지 않으면 안되</font>
+
+191
+00:01:01,317 --> 00:01:01,454
+<font color="F3B600">行くっきゃな<font color="8F8FDF">い　やるっきゃない</font>
+<font color="FFA2D6">가지 않으면 안<font color="CC6400">되 하지 않으면 안되</font>
+
+192
+00:01:01,454 --> 00:01:01,696
+<font color="F3B600">行くっきゃない　<font color="8F8FDF">やるっきゃない</font>
+<font color="FFA2D6">가지 않으면 안되 <font color="CC6400">하지 않으면 안되</font>
+
+193
+00:01:01,696 --> 00:01:01,834
+<font color="F3B600">行くっきゃない　や<font color="8F8FDF">るっきゃない</font>
+<font color="FFA2D6">가지 않으면 안되 하<font color="CC6400">지 않으면 안되</font>
+
+194
+00:01:01,834 --> 00:01:02,006
+<font color="F3B600">行くっきゃない　やる<font color="8F8FDF">っきゃない</font>
+<font color="FFA2D6">가지 않으면 안되 하지 <font color="CC6400">않으면 안되</font>
+
+195
+00:01:02,006 --> 00:01:02,088
+<font color="F3B600">行くっきゃない　やるっ<font color="8F8FDF">きゃない</font>
+<font color="FFA2D6">가지 않으면 안되 하지 않<font color="CC6400">으면 안되</font>
+
+196
+00:01:02,088 --> 00:01:02,259
+<font color="F3B600">行くっきゃない　やるっきゃ<font color="8F8FDF">ない</font>
+<font color="FFA2D6">가지 않으면 안되 하지 않으면 <font color="CC6400">안되</font>
+
+197
+00:01:02,259 --> 00:01:02,378
+<font color="F3B600">行くっきゃない　やるっきゃ<font color="8F8FDF">ない</font>
+<font color="FFA2D6">가지 않으면 안되 하지 않으면 <font color="CC6400">안되</font>
+
+198
+00:01:02,378 --> 00:01:02,579
+<font color="F3B600">行くっきゃない　やるっきゃな<font color="8F8FDF">い</font>
+<font color="FFA2D6">가지 않으면 안되 하지 않으면 안<font color="CC6400">되</font>
+
+199
+00:01:02,579 --> 00:01:02,625
+<font color="F3B600">行くっきゃない　やるっきゃない</font>
+<font color="FFA2D6">가지 않으면 안되 하지 않으면 안되</font>
+
+200
+00:01:02,625 --> 00:01:02,725
+<font color="8F8FDF">負けっこない　止まらない　いつだって</font>
+<font color="CC6400">지지 않아 멈추지 않아 언제라도</font>
+
+201
+00:01:02,725 --> 00:01:02,902
+<font color="F3B600">負<font color="8F8FDF">けっこない　止まらない　いつだって</font>
+<font color="FFA2D6">지<font color="CC6400">지 않아 멈추지 않아 언제라도</font>
+
+202
+00:01:02,902 --> 00:01:03,004
+<font color="F3B600">負け<font color="8F8FDF">っこない　止まらない　いつだって</font>
+<font color="FFA2D6">지지 <font color="CC6400">않아 멈추지 않아 언제라도</font>
+
+203
+00:01:03,004 --> 00:01:03,198
+<font color="F3B600">負けっ<font color="8F8FDF">こない　止まらない　いつだって</font>
+<font color="FFA2D6">지지 <font color="CC6400">않아 멈추지 않아 언제라도</font>
+
+204
+00:01:03,198 --> 00:01:03,381
+<font color="F3B600">負けっこ<font color="8F8FDF">ない　止まらない　いつだって</font>
+<font color="FFA2D6">지지 <font color="CC6400">않아 멈추지 않아 언제라도</font>
+
+205
+00:01:03,381 --> 00:01:03,547
+<font color="F3B600">負けっこな<font color="8F8FDF">い　止まらない　いつだって</font>
+<font color="FFA2D6">지지 않<font color="CC6400">아 멈추지 않아 언제라도</font>
+
+206
+00:01:03,547 --> 00:01:03,576
+<font color="F3B600">負けっこない　<font color="8F8FDF">止まらない　いつだって</font>
+<font color="FFA2D6">지지 않아 <font color="CC6400">멈추지 않아 언제라도</font>
+
+207
+00:01:03,576 --> 00:01:03,857
+<font color="F3B600">負けっこない　止<font color="8F8FDF">まらない　いつだって</font>
+<font color="FFA2D6">지지 않아 멈<font color="CC6400">추지 않아 언제라도</font>
+
+208
+00:01:03,857 --> 00:01:04,031
+<font color="F3B600">負けっこない　止ま<font color="8F8FDF">らない　いつだって</font>
+<font color="FFA2D6">지지 않아 멈추<font color="CC6400">지 않아 언제라도</font>
+
+209
+00:01:04,031 --> 00:01:04,148
+<font color="F3B600">負けっこない　止まら<font color="8F8FDF">ない　いつだって</font>
+<font color="FFA2D6">지지 않아 멈추지 <font color="CC6400">않아 언제라도</font>
+
+210
+00:01:04,148 --> 00:01:04,199
+<font color="F3B600">負けっこない　止まらな<font color="8F8FDF">い　いつだって</font>
+<font color="FFA2D6">지지 않아 멈추지 않<font color="CC6400">아 언제라도</font>
+
+211
+00:01:04,199 --> 00:01:04,963
+<font color="F3B600">負けっこない　止まらない　<font color="8F8FDF">いつだって</font>
+<font color="FFA2D6">지지 않아 멈추지 않아 <font color="CC6400">언제라도</font>
+
+212
+00:01:04,963 --> 00:01:05,136
+<font color="F3B600">負けっこない　止まらない　い<font color="8F8FDF">つだって</font>
+<font color="FFA2D6">지지 않아 멈추지 않아 언<font color="CC6400">제라도</font>
+
+213
+00:01:05,136 --> 00:01:05,174
+<font color="F3B600">負けっこない　止まらない　いつ<font color="8F8FDF">だって</font>
+<font color="FFA2D6">지지 않아 멈추지 않아 언제<font color="CC6400">라도</font>
+
+214
+00:01:05,174 --> 00:01:05,336
+<font color="F3B600">負けっこない　止まらない　いつだ<font color="8F8FDF">って</font>
+<font color="FFA2D6">지지 않아 멈추지 않아 언제라<font color="CC6400">도</font>
+
+215
+00:01:05,336 --> 00:01:05,455
+<font color="F3B600">負けっこない　止まらない　いつだっ<font color="8F8FDF">て</font>
+<font color="FFA2D6">지지 않아 멈추지 않아 언제라<font color="CC6400">도</font>
+
+216
+00:01:05,455 --> 00:01:06,137
+<font color="F3B600">負けっこない　止まらない　いつだって</font>
+<font color="FFA2D6">지지 않아 멈추지 않아 언제라도</font>
+
+217
+00:01:06,137 --> 00:01:06,237
+<font color="8F8FDF">支えたい　守りたい　君が傷ついた時は</font>
+<font color="CC6400">지탱하고 싶어 지키고 싶어 네가 상처를 입을 때</font>
+
+218
+00:01:06,237 --> 00:01:06,272
+<font color="F3B600">支<font color="8F8FDF">えたい　守りたい　君が傷ついた時は</font>
+<font color="FFA2D6">지<font color="CC6400">탱하고 싶어 지키고 싶어 네가 상처를 입을 때</font>
+
+219
+00:01:06,272 --> 00:01:06,465
+<font color="F3B600">支<font color="8F8FDF">えたい　守りたい　君が傷ついた時は</font>
+<font color="FFA2D6">지탱<font color="CC6400">하고 싶어 지키고 싶어 네가 상처를 입을 때</font>
+
+220
+00:01:06,465 --> 00:01:06,740
+<font color="F3B600">支え<font color="8F8FDF">たい　守りたい　君が傷ついた時は</font>
+<font color="FFA2D6">지탱하<font color="CC6400">고 싶어 지키고 싶어 네가 상처를 입을 때</font>
+
+221
+00:01:06,740 --> 00:01:06,856
+<font color="F3B600">支え<font color="8F8FDF">たい　守りたい　君が傷ついた時は</font>
+<font color="FFA2D6">지탱하고<font color="CC6400"> 싶어 지키고 싶어 네가 상처를 입을 때</font>
+
+222
+00:01:06,856 --> 00:01:07,010
+<font color="F3B600">支えた<font color="8F8FDF">い　守りたい　君が傷ついた時は</font>
+<font color="FFA2D6">지탱하고 싶<font color="CC6400">어 지키고 싶어 네가 상처를 입을 때</font>
+
+223
+00:01:07,010 --> 00:01:07,288
+<font color="F3B600">支えたい　<font color="8F8FDF">守りたい　君が傷ついた時は</font>
+<font color="FFA2D6">지탱하고 싶어 <font color="CC6400">지키고 싶어 네가 상처를 입을 때</font>
+
+224
+00:01:07,288 --> 00:01:07,404
+<font color="F3B600">支えたい　守<font color="8F8FDF">りたい　君が傷ついた時は</font>
+<font color="FFA2D6">지탱하고 싶어 지<font color="CC6400">키고 싶어 네가 상처를 입을 때</font>
+
+225
+00:01:07,404 --> 00:01:07,531
+<font color="F3B600">支えたい　守<font color="8F8FDF">りたい　君が傷ついた時は</font>
+<font color="FFA2D6">지탱하고 싶어 지키<font color="CC6400">고 싶어 네가 상처를 입을 때</font>
+
+226
+00:01:07,531 --> 00:01:07,658
+<font color="F3B600">支えたい　守り<font color="8F8FDF">たい　君が傷ついた時は</font>
+<font color="FFA2D6">지탱하고 싶어 지키고 <font color="CC6400">싶어 네가 상처를 입을 때</font>
+
+227
+00:01:07,658 --> 00:01:07,755
+<font color="F3B600">支えたい　守りた<font color="8F8FDF">い　君が傷ついた時は</font>
+<font color="FFA2D6">지탱하고 싶어 지키고 싶<font color="CC6400">어 네가 상처를 입을 때</font>
+
+228
+00:01:07,755 --> 00:01:08,237
+<font color="F3B600">支えたい　守りたい　<font color="8F8FDF">君が傷ついた時は</font>
+<font color="FFA2D6">지탱하고 싶어 지키고 싶어 <font color="CC6400">네가 상처를 입을 때</font>
+
+229
+00:01:08,237 --> 00:01:08,417
+<font color="F3B600">支えたい　守りたい　君<font color="8F8FDF">が傷ついた時は</font>
+<font color="FFA2D6">지탱하고 싶어 지키고 싶어 네<font color="CC6400">가 상처를 입을 때</font>
+
+230
+00:01:08,417 --> 00:01:08,806
+<font color="F3B600">支えたい　守りたい　君が<font color="8F8FDF">傷ついた時は</font>
+<font color="FFA2D6">지탱하고 싶어 지키고 싶어 네가 <font color="CC6400">상처를 입을 때</font>
+
+231
+00:01:08,806 --> 00:01:09,135
+<font color="F3B600">支えたい　守りたい　君が傷<font color="8F8FDF">ついた時は</font>
+<font color="FFA2D6">지탱하고 싶어 지키고 싶어 네가 상<font color="CC6400">처를 입을 때</font>
+
+232
+00:01:09,135 --> 00:01:09,689
+<font color="F3B600">支えたい　守りたい　君が傷つ<font color="8F8FDF">いた時は</font>
+<font color="FFA2D6">지탱하고 싶어 지키고 싶어 네가 상처<font color="CC6400">를 입을 때</font>
+
+233
+00:01:09,689 --> 00:01:10,177
+<font color="F3B600">支えたい　守りたい　君が傷つい<font color="8F8FDF">た時は</font>
+<font color="FFA2D6">지탱하고 싶어 지키고 싶어 네가 상처를 <font color="CC6400">입을 때</font>
+
+234
+00:01:10,177 --> 00:01:10,386
+<font color="F3B600">支えたい　守りたい　君が傷ついた<font color="8F8FDF">時は</font>
+<font color="FFA2D6">지탱하고 싶어 지키고 싶어 네가 상처를 입<font color="CC6400">을 때</font>
+
+235
+00:01:10,386 --> 00:01:11,001
+<font color="F3B600">支えたい　守りたい　君が傷ついた時<font color="8F8FDF">は</font>
+<font color="FFA2D6">지탱하고 싶어 지키고 싶어 네가 상처를 입을 <font color="CC6400">때</font>
+
+236
+00:01:11,001 --> 00:01:11,688
+<font color="F3B600">支えたい　守りたい　君が傷ついた時は</font>
+<font color="FFA2D6">지탱하고 싶어 지키고 싶어 네가 상처를 입을 때</font>
+
+237
+00:01:11,688 --> 00:01:11,788
+<font color="8F8FDF">振り向かない　俯かない</font>
+<font color="CC6400">뒤돌아보지 않아 숙이지 않아</font>
+
+238
+00:01:11,788 --> 00:01:12,053
+<font color="F3B600">振<font color="8F8FDF">り向かない　俯かない</font>
+<font color="FFA2D6">뒤<font color="CC6400">돌아보지 않아 숙이지 않아</font>
+
+239
+00:01:12,053 --> 00:01:12,178
+<font color="F3B600">振<font color="8F8FDF">り向かない　俯かない</font>
+<font color="FFA2D6">뒤돌<font color="CC6400">아보지 않아 숙이지 않아</font>
+
+240
+00:01:12,178 --> 00:01:12,313
+<font color="F3B600">振り<font color="8F8FDF">向かない　俯かない</font>
+<font color="FFA2D6">뒤돌아<font color="CC6400">보지 않아 숙이지 않아</font>
+
+241
+00:01:12,313 --> 00:01:12,412
+<font color="F3B600">振り向<font color="8F8FDF">かない　俯かない</font>
+<font color="FFA2D6">뒤돌아보<font color="CC6400">지 않아 숙이지 않아</font>
+
+242
+00:01:12,412 --> 00:01:12,546
+<font color="F3B600">振り向か<font color="8F8FDF">ない　俯かない</font>
+<font color="FFA2D6">뒤돌아보지 <font color="CC6400">않아 숙이지 않아</font>
+
+243
+00:01:12,546 --> 00:01:12,842
+<font color="F3B600">振り向かな<font color="8F8FDF">い　俯かない</font>
+<font color="FFA2D6">뒤돌아보지 않<font color="CC6400">아 숙이지 않아</font>
+
+244
+00:01:12,842 --> 00:01:13,196
+<font color="F3B600">振り向かない　<font color="8F8FDF">俯かない</font>
+<font color="FFA2D6">뒤돌아보지 않아 <font color="CC6400">숙이지 않아</font>
+
+245
+00:01:13,196 --> 00:01:13,381
+<font color="F3B600">振り向かない　俯<font color="8F8FDF">かない</font>
+<font color="FFA2D6">뒤돌아보지 않아 숙<font color="CC6400">이지 않아</font>
+
+246
+00:01:13,381 --> 00:01:13,482
+<font color="F3B600">振り向かない　俯<font color="8F8FDF">かない</font>
+<font color="FFA2D6">뒤돌아보지 않아 숙이<font color="CC6400">지 않아</font>
+
+247
+00:01:13,482 --> 00:01:13,611
+<font color="F3B600">振り向かない　俯か<font color="8F8FDF">ない</font>
+<font color="FFA2D6">뒤돌아보지 않아 숙이지 <font color="CC6400">않아</font>
+
+248
+00:01:13,611 --> 00:01:13,647
+<font color="F3B600">振り向かない　俯かな<font color="8F8FDF">い</font>
+<font color="FFA2D6">뒤돌아보지 않아 숙이지 않<font color="CC6400">아</font>
+
+249
+00:01:13,647 --> 00:01:13,767
+<font color="F3B600">振り向かない　俯かない</font>
+<font color="FFA2D6">뒤돌아보지 않아 숙이지 않아</font>
+
+250
+00:01:13,767 --> 00:01:13,892
+<font color="8F8FDF">へこたれない　あきらめない　信じてる</font>
+<font color="CC6400">지치지 않아 포기하지 않아 믿고 있어</font>
+
+251
+00:01:13,892 --> 00:01:14,066
+<font color="F3B600">へ<font color="8F8FDF">こたれない　あきらめない　信じてる</font>
+<font color="FFA2D6">지<font color="CC6400">치지 않아 포기하지 않아 믿고 있어</font>
+
+252
+00:01:14,066 --> 00:01:14,260
+<font color="F3B600">へこ<font color="8F8FDF">たれない　あきらめない　信じてる</font>
+<font color="FFA2D6">지치<font color="CC6400">지 않아 포기하지 않아 믿고 있어</font>
+
+253
+00:01:14,260 --> 00:01:14,383
+<font color="F3B600">へこた<font color="8F8FDF">れない　あきらめない　信じてる</font>
+<font color="FFA2D6">지치<font color="CC6400">지 않아 포기하지 않아 믿고 있어</font>
+
+254
+00:01:14,383 --> 00:01:14,555
+<font color="F3B600">へこたれ<font color="8F8FDF">ない　あきらめない　信じてる</font>
+<font color="FFA2D6">지치지 <font color="CC6400">않아 포기하지 않아 믿고 있어</font>
+
+255
+00:01:14,555 --> 00:01:14,690
+<font color="F3B600">へこたれな<font color="8F8FDF">い　あきらめない　信じてる</font>
+<font color="FFA2D6">지치지 않<font color="CC6400">아 포기하지 않아 믿고 있어</font>
+
+256
+00:01:14,690 --> 00:01:14,986
+<font color="F3B600">へこたれない　<font color="8F8FDF">あきらめない　信じてる</font>
+<font color="FFA2D6">지치지 않아 <font color="CC6400">포기하지 않아 믿고 있어</font>
+
+257
+00:01:14,986 --> 00:01:15,090
+<font color="F3B600">へこたれない　あ<font color="8F8FDF">きらめない　信じてる</font>
+<font color="FFA2D6">지치지 않아 포<font color="CC6400">기하지 않아 믿고 있어</font>
+
+258
+00:01:15,090 --> 00:01:15,319
+<font color="F3B600">へこたれない　あき<font color="8F8FDF">らめない　信じてる</font>
+<font color="FFA2D6">지치지 않아 포기<font color="CC6400">하지 않아 믿고 있어</font>
+
+259
+00:01:15,319 --> 00:01:15,520
+<font color="F3B600">へこたれない　あきら<font color="8F8FDF">めない　信じてる</font>
+<font color="FFA2D6">지치지 않아 포기하<font color="CC6400">지 않아 믿고 있어</font>
+
+260
+00:01:15,520 --> 00:01:15,641
+<font color="F3B600">へこたれない　あきらめ<font color="8F8FDF">ない　信じてる</font>
+<font color="FFA2D6">지치지 않아 포기하지 <font color="CC6400">않아 믿고 있어</font>
+
+261
+00:01:15,641 --> 00:01:15,807
+<font color="F3B600">へこたれない　あきらめな<font color="8F8FDF">い　信じてる</font>
+<font color="FFA2D6">지치지 않아 포기하지 않<font color="CC6400">아 믿고 있어</font>
+
+262
+00:01:15,807 --> 00:01:16,014
+<font color="F3B600">へこたれない　あきらめない　<font color="8F8FDF">信じてる</font>
+<font color="FFA2D6">지치지 않아 포기하지 않아 <font color="CC6400">믿고 있어</font>
+
+263
+00:01:16,014 --> 00:01:16,343
+<font color="F3B600">へこたれない　あきらめない　信<font color="8F8FDF">じてる</font>
+<font color="FFA2D6">지치지 않아 포기하지 않아 믿<font color="CC6400">고 있어</font>
+
+264
+00:01:16,343 --> 00:01:16,455
+<font color="F3B600">へこたれない　あきらめない　信じ<font color="8F8FDF">てる</font>
+<font color="FFA2D6">지치지 않아 포기하지 않아 믿고 <font color="CC6400">있어</font>
+
+265
+00:01:16,455 --> 00:01:16,723
+<font color="F3B600">へこたれない　あきらめない　信じて<font color="8F8FDF">る</font>
+<font color="FFA2D6">지치지 않아 포기하지 않아 믿고 있<font color="CC6400">어</font>
+
+266
+00:01:16,723 --> 00:01:17,226
+<font color="F3B600">へこたれない　あきらめない　信じてる</font>
+<font color="FFA2D6">지치지 않아 포기하지 않아 믿고 있어</font>
+
+267
+00:01:17,226 --> 00:01:17,426
+<font color="8F8FDF">あせらない　慌てない　いつも</font>
+<font color="CC6400">서두루지 않아 당황하지 않아 언제나</font>
+
+268
+00:01:17,426 --> 00:01:17,618
+<font color="F3B600">あ<font color="8F8FDF">せらない　慌てない　いつも</font>
+<font color="FFA2D6">서<font color="CC6400">두루지 않아 당황하지 않아 언제나</font>
+
+269
+00:01:17,618 --> 00:01:17,736
+<font color="F3B600">あせ<font color="8F8FDF">らない　慌てない　いつも</font>
+<font color="FFA2D6">서두<font color="CC6400">루지 않아 당황하지 않아 언제나</font>
+
+270
+00:01:17,736 --> 00:01:17,944
+<font color="F3B600">あせら<font color="8F8FDF">ない　慌てない　いつも</font>
+<font color="FFA2D6">서두루<font color="CC6400">지 않아 당황하지 않아 언제나</font>
+
+271
+00:01:17,944 --> 00:01:18,047
+<font color="F3B600">あせら<font color="8F8FDF">ない　慌てない　いつも</font>
+<font color="FFA2D6">서두루지 <font color="CC6400">않아 당황하지 않아 언제나</font>
+
+272
+00:01:18,047 --> 00:01:18,180
+<font color="F3B600">あせらな<font color="8F8FDF">い　慌てない　いつも</font>
+<font color="FFA2D6">서두루지 않<font color="CC6400">아 당황하지 않아 언제나</font>
+
+273
+00:01:18,180 --> 00:01:18,350
+<font color="F3B600">あせらない　<font color="8F8FDF">慌てない　いつも</font>
+<font color="FFA2D6">서두루지 않아 <font color="CC6400">당황하지 않아 언제나</font>
+
+274
+00:01:18,350 --> 00:01:18,452
+<font color="F3B600">あせらない　慌<font color="8F8FDF">てない　いつも</font>
+<font color="FFA2D6">서두루지 않아 당<font color="CC6400">황하지 않아 언제나</font>
+
+275
+00:01:18,452 --> 00:01:18,661
+<font color="F3B600">あせらない　慌<font color="8F8FDF">てない　いつも</font>
+<font color="FFA2D6">서두루지 않아 당황<font color="CC6400">하지 않아 언제나</font>
+
+276
+00:01:18,661 --> 00:01:18,768
+<font color="F3B600">あせらない　慌て<font color="8F8FDF">ない　いつも</font>
+<font color="FFA2D6">서두루지 않아 당황하<font color="CC6400">지 않아 언제나</font>
+
+277
+00:01:18,768 --> 00:01:18,904
+<font color="F3B600">あせらない　慌て<font color="8F8FDF">ない　いつも</font>
+<font color="FFA2D6">서두루지 않아 당황하지 <font color="CC6400">않아 언제나</font>
+
+278
+00:01:18,904 --> 00:01:19,093
+<font color="F3B600">あせらない　慌てな<font color="8F8FDF">い　いつも</font>
+<font color="FFA2D6">서두루지 않아 당황하지 않<font color="CC6400">아 언제나</font>
+
+279
+00:01:19,093 --> 00:01:19,582
+<font color="F3B600">あせらない　慌てない　<font color="8F8FDF">いつも</font>
+<font color="FFA2D6">서두루지 않아 당황하지 않아 <font color="CC6400">언제나</font>
+
+280
+00:01:19,582 --> 00:01:19,726
+<font color="F3B600">あせらない　慌てない　い<font color="8F8FDF">つも</font>
+<font color="FFA2D6">서두루지 않아 당황하지 않아 언<font color="CC6400">제나</font>
+
+281
+00:01:19,726 --> 00:01:19,820
+<font color="F3B600">あせらない　慌てない　いつ<font color="8F8FDF">も</font>
+<font color="FFA2D6">서두루지 않아 당황하지 않아 언제<font color="CC6400">나</font>
+
+282
+00:01:19,820 --> 00:01:20,435
+<font color="F3B600">あせらない　慌てない　いつも</font>
+<font color="FFA2D6">서두루지 않아 당황하지 않아 언제나</font>
+
+283
+00:01:20,435 --> 00:01:20,535
+<font color="8F8FDF">はるかな夢　目指して…</font>
+<font color="CC6400">아득한 꿈 목표하며…</font>
+
+284
+00:01:20,535 --> 00:01:20,770
+<font color="F3B600">は<font color="8F8FDF">るかな夢　目指して…</font>
+<font color="FFA2D6">아<font color="CC6400">득한 꿈 목표하며…</font>
+
+285
+00:01:20,770 --> 00:01:21,221
+<font color="F3B600">はる<font color="8F8FDF">かな夢　目指して…</font>
+<font color="FFA2D6">아득<font color="CC6400">한 꿈 목표하며…</font>
+
+286
+00:01:21,221 --> 00:01:21,643
+<font color="F3B600">はるか<font color="8F8FDF">な夢　目指して…</font>
+<font color="FFA2D6">아득한 <font color="CC6400">꿈 목표하며…</font>
+
+287
+00:01:21,643 --> 00:01:22,085
+<font color="F3B600">はるかな<font color="8F8FDF">夢　目指して…</font>
+<font color="FFA2D6">아득한 <font color="CC6400">꿈 목표하며…</font>
+
+288
+00:01:22,085 --> 00:01:22,741
+<font color="F3B600">はるかな夢　<font color="8F8FDF">目指して…</font>
+<font color="FFA2D6">아득한 꿈 <font color="CC6400">목표하며…</font>
+
+289
+00:01:22,741 --> 00:01:22,998
+<font color="F3B600">はるかな夢　目<font color="8F8FDF">指して…</font>
+<font color="FFA2D6">아득한 꿈 목<font color="CC6400">표하며…</font>
+
+290
+00:01:22,998 --> 00:01:23,272
+<font color="F3B600">はるかな夢　目指<font color="8F8FDF">して…</font>
+<font color="FFA2D6">아득한 꿈 목표<font color="CC6400">하며…</font>
+
+291
+00:01:23,272 --> 00:01:23,811
+<font color="F3B600">はるかな夢　目指し<font color="8F8FDF">て…</font>
+<font color="FFA2D6">아득한 꿈 목표하<font color="CC6400">며…</font>
+
+292
+00:01:23,811 --> 00:01:24,005
+<font color="F3B600">はるかな夢　目指して<font color="8F8FDF">…</font>
+<font color="FFA2D6">아득한 꿈 목표하며<font color="CC6400">…</font>
+
+293
+00:01:24,005 --> 00:01:25,727
+<font color="F3B600">はるかな夢　目指して…</font>
+<font color="FFA2D6">아득한 꿈 목표하며…</font>
+
+294
+00:01:31,913 --> 00:01:34,994
+호우엔리그 출전을 목표하며 다음 체육관이 있는
+
+295
+00:01:34,994 --> 00:01:38,830
+토쿠사네 시티의 배에 여유만만하게 사토시 일행들
+
+296
+00:01:39,398 --> 00:01:44,931
+하지만 그 도중 로켓단의 습격을 받아
+피카츄를 뺏기게 되버렸다
+
+297
+00:01:46,181 --> 00:01:48,577
+필시로 저항하고 있던 사토시였지만
+
+298
+00:01:48,577 --> 00:01:53,380
+그 힘든 쟁탈전에서 피카츄는 모르고 전기를 발사!
+
+299
+00:01:53,922 --> 00:02:01,609
+그에 이한 폭발로 사토시 일행들은
+토쿠나세 시티와 다른방향으로 날아버린거였다!
+
+300
+00:02:09,368 --> 00:02:14,510
+<Font Color=YELLOW>그라돈 VS 카이오가! (전편)</font>
+
+301
+00:02:17,253 --> 00:02:19,330
+으 ... 여기는 도대체 어디야 ?
+
+302
+00:02:20,274 --> 00:02:23,057
+왠지 너무 멀리 날았으니깐 ...
+
+303
+00:02:23,057 --> 00:02:25,133
+전혀.. 알수가 없네..
+
+304
+00:02:25,133 --> 00:02:28,255
+나 ... 이젠 지쳤을지도..
+
+305
+00:02:28,255 --> 00:02:30,789
+배라도 지나쳐줄러나 ..
+
+306
+00:02:41,830 --> 00:02:42,786
+이것은 ?!
+
+307
+00:02:42,786 --> 00:02:44,129
+잠수함이야 !
+
+308
+00:02:44,129 --> 00:02:45,072
+잠수함 ?!
+
+309
+00:02:45,072 --> 00:02:47,955
+혹시 도움을 받을지도 몰라!
+
+310
+00:02:47,955 --> 00:02:51,477
+좋아~! 안에 있는 사람들을 불러보자!
+
+311
+00:02:51,477 --> 00:02:52,578
+어이~~
+
+312
+00:02:52,578 --> 00:02:54,555
+누군가 좀 나와주세요~
+
+313
+00:02:54,555 --> 00:02:56,738
+구해주세요~~
+
+314
+00:02:56,738 --> 00:02:58,701
+어이~~~!!
+
+315
+00:03:02,160 --> 00:03:03,080
+저건 ..!
+
+316
+00:03:06,708 --> 00:03:09,162
+하늘에도 아무 반응도 없군..
+
+317
+00:03:09,162 --> 00:03:12,284
+예!
+아무래도 이 주변에는 없는 것 같습니다
+
+318
+00:03:12,284 --> 00:03:13,045
+그런가 ...
+
+319
+00:03:13,635 --> 00:03:14,749
+마그마단 !!
+
+320
+00:03:14,749 --> 00:03:18,044
+하필이면 ..
+녀석들의 잠수함일줄이야
+
+321
+00:03:18,044 --> 00:03:19,803
+꽤나 운이 없을지도 ..
+
+322
+00:03:21,497 --> 00:03:22,582
+저건 ...
+
+323
+00:03:22,582 --> 00:03:24,607
+혹시 마그마단의 비밀기지 ?!
+
+324
+00:03:47,858 --> 00:03:51,510
+제 3 행동대 소관임무 완료했습니다!
+
+325
+00:03:51,510 --> 00:03:52,118
+음!
+
+326
+00:03:53,214 --> 00:03:55,118
+위험해~ 숨어야 되~
+
+327
+00:03:55,118 --> 00:03:56,841
+하지만 .. 어디로~
+
+328
+00:04:03,343 --> 00:04:06,614
+뭐~ 그렇게 무서운 얼굴 할 필요 없단다
+
+329
+00:04:06,614 --> 00:04:10,146
+나는 마츠부사다
+마그마단의 리더다
+
+330
+00:04:10,146 --> 00:04:12,520
+우리들을 어떻게 할 생각이냐?!
+
+331
+00:04:12,520 --> 00:04:15,029
+너희들에게 벌 같은 것을 낼 생각은 없어
+
+332
+00:04:15,029 --> 00:04:16,112
+- ?!
+
+333
+00:04:16,112 --> 00:04:19,332
+하지만 지금 우리들은 바뻐서 말이야...
+
+334
+00:04:19,332 --> 00:04:23,414
+이 작전이 종료 될 떄까지
+관내에서 얌전히 있어주면 되
+
+335
+00:04:23,414 --> 00:04:24,945
+작전 ..?
+
+336
+00:04:27,584 --> 00:04:30,406
+죄송합니다 ... 마츠부사님 ..
+
+337
+00:04:30,406 --> 00:04:31,629
+뭐... 상관없어
+
+338
+00:04:31,629 --> 00:04:33,711
+그래서? 아쿠아단의 도항은?
+
+339
+00:04:33,711 --> 00:04:37,009
+예! 부근에서 전투중이라 생각되지만...
+
+340
+00:04:37,009 --> 00:04:40,294
+현지점에서 몬스토킨카에는 확인 할 수 없습니다
+
+341
+00:04:40,294 --> 00:04:42,075
+음... 그런가
+
+342
+00:04:49,492 --> 00:04:50,910
+이상은 없습니까?
+
+343
+00:04:50,910 --> 00:04:51,826
+- 예!!
+
+344
+00:04:51,826 --> 00:04:53,623
+(훗...) 그렇습니까 ...
+
+345
+00:04:59,986 --> 00:05:01,870
+임무 수고하십니다.
+
+346
+00:05:15,658 --> 00:05:17,979
+카이오가 지금 내보내주도록 하지
+
+347
+00:05:30,213 --> 00:05:31,758
+뭐.. 앉아라
+
+348
+00:05:32,359 --> 00:05:34,891
+이래서는 대화도 못하지
+
+349
+00:05:34,891 --> 00:05:36,884
+이쪽은 할말 같은 것 없어!
+
+350
+00:05:36,884 --> 00:05:40,338
+사토시 .. 우선 하는 말을 듣는게 좋겠어
+
+351
+00:05:40,338 --> 00:05:41,338
+하지만 말이야 ..!!
+
+352
+00:05:44,872 --> 00:05:46,182
+사토시~~
+
+353
+00:05:49,245 --> 00:05:53,130
+훗.. 자, 그럼 우리들에 대한 것을
+조금 알고 있는 것 같은데 ..
+
+354
+00:05:53,130 --> 00:05:57,177
+알고 있어 !! 아쿠아단 녀석들과 사이가 안좋지만
+
+355
+00:05:57,177 --> 00:06:01,910
+어느 쪽도 초 고대 포켓몬을 써서
+나쁜 짓을 하는 녀석들이지 ?!
+
+356
+00:06:03,039 --> 00:06:04,359
+사토시 ~~!
+
+357
+00:06:04,359 --> 00:06:06,223
+말 하지 편이 좋지 않는게~~!
+
+358
+00:06:06,223 --> 00:06:08,675
+나는 사실을 말하는 것 뿐이야!
+
+359
+00:06:08,675 --> 00:06:10,825
+너희들 입을 조심해라!!
+
+360
+00:06:10,825 --> 00:06:11,660
+뭐... 상관 없어
+
+361
+00:06:11,660 --> 00:06:12,264
+예!
+
+362
+00:06:12,264 --> 00:06:16,060
+조금 오해가 있는 것 같은데 우리 마그마단은
+
+363
+00:06:16,060 --> 00:06:21,327
+이 별의 수수께끼를 해명하고
+좋은 세계를 만들기 위한 개설된 조직이다
+
+364
+00:06:21,327 --> 00:06:25,484
+아쿠아단 같은 쓸때없는 것과 정말 틀린 것이다
+
+365
+00:06:25,484 --> 00:06:27,414
+신용 할까 보다?!
+
+366
+00:06:27,414 --> 00:06:30,832
+어느쪽이라도 초 고대 포켓몬은 전설이다!
+
+367
+00:06:30,832 --> 00:06:32,994
+그렇게 간단하게 발견할리가 없어!
+
+368
+00:06:32,994 --> 00:06:35,783
+초 고대 포켓몬이라면 이미 우리들의 손에...!
+
+369
+00:06:37,424 --> 00:06:41,729
+그리고 초 고대 포켓몬 그라돈을 조정하는 것을 가능하다
+
+370
+00:06:41,729 --> 00:06:43,561
+이 남색구슬로 ..
+
+371
+00:06:43,561 --> 00:06:44,807
+남색구슬?!
+
+372
+00:06:46,455 --> 00:06:54,676
+옛날 그라돈은 고통된 사람들을 구하기 위해
+화산을 분화시키고 대지로 떨어트렸다 ..
+
+373
+00:06:54,676 --> 00:07:01,231
+그런 그라돈을 통치하고 분량한 파워로
+이 별을 콘텍트 하는 것..
+
+374
+00:07:01,231 --> 00:07:05,413
+그것이 우리 마그마단의 목적이다
+
+375
+00:07:05,413 --> 00:07:12,878
+그리고 우리들과 다른 아쿠아단은
+그 반대의 힘을 가진 카이오가를 원하고 있는 것이다..
+
+376
+00:07:12,878 --> 00:07:17,985
+하지만 그들이 원하는 카이오가는
+이미 우리들의 손에 있다..
+
+377
+00:07:17,985 --> 00:07:20,955
+카이오가를 ... / 붙잡았단거야 ..?!
+
+378
+00:07:20,955 --> 00:07:27,295
+우리들에게는 필요한 것이 아니다...
+아쿠아단을 견제할려고 말이야..
+
+379
+00:07:27,295 --> 00:07:32,660
+그런데 아쿠아단 쪽도
+또한 그라돈을 가지고 있단 말이다!
+
+380
+00:07:32,660 --> 00:07:35,655
+어느 쪽도 이미 찾았단 것인가 ..!
+
+381
+00:07:35,655 --> 00:07:39,822
+이 남색구술로 조정할 수 있는 것은 그라돈뿐..
+
+382
+00:07:39,822 --> 00:07:45,525
+아쿠아단은 홍색구술을 소지하고 있지만
+역시 그것도 카이오가 밖에 조정하지 못한다..
+
+383
+00:07:45,525 --> 00:07:51,034
+즉 우리들은 서로 컨트롤을
+불가능한 포켓몬을 가지고 있단 소리지
+
+384
+00:07:51,034 --> 00:07:58,350
+거기서 우리들은 서로 가지고 있는 포켓몬을
+교환하고 지정된 장소 몬스토에 향하고 있다...
+
+385
+00:07:58,350 --> 00:08:01,381
+모든 것이 끝날 때까지 얌전히 있어라 ..
+
+386
+00:08:01,381 --> 00:08:03,954
+호무라 이 녀석들을 가둬라 ..
+
+387
+00:08:03,954 --> 00:08:04,533
+예!
+
+388
+00:08:18,575 --> 00:08:19,583
+뭐야 ?
+
+389
+00:08:20,123 --> 00:08:21,016
+무슨 일이야 ..?
+
+390
+00:08:21,016 --> 00:08:22,728
+카이오가 컨트롤러에 이상발생!!
+
+391
+00:08:22,728 --> 00:08:23,576
+뭐야?!
+
+392
+00:08:28,383 --> 00:08:30,475
+좋아~ 가랏! 카이오가!!
+
+393
+00:08:48,207 --> 00:08:50,463
+이쪽 이즈미 작전 성공
+
+394
+00:08:50,463 --> 00:08:51,630
+과연 ..
+
+395
+00:08:52,362 --> 00:08:56,294
+과연 아쿠아단 작전대장 이즈미군
+
+396
+00:08:56,294 --> 00:08:58,594
+훌륭한 속임수 아닌가!
+
+397
+00:08:58,594 --> 00:09:02,756
+그런 당신도 마그마단은 아니군요
+
+398
+00:09:02,756 --> 00:09:07,523
+카이오가가 이 안에 있어서는
+홍색구슬을 써도 컨트롤을 못한다
+
+399
+00:09:07,523 --> 00:09:11,367
+바다로 도망치게 그것이 가능한다...
+
+400
+00:09:11,367 --> 00:09:13,165
+그래 .. 그리고!
+
+401
+00:09:14,018 --> 00:09:17,444
+우리들 아쿠아단이 세계를 지배하는 것입니다 !
+
+402
+00:09:20,868 --> 00:09:25,293
+아쿠아단... 소문 이상으로 거대한 조직이군 ..
+
+403
+00:09:25,293 --> 00:09:26,550
+문제 발생!
+
+404
+00:09:26,550 --> 00:09:28,930
+막는중 화재가 심하게 발생!
+
+405
+00:09:28,930 --> 00:09:31,515
+제 7, 8 확인을 해라!
+
+406
+00:09:31,515 --> 00:09:33,149
+경비관은 빨리 ... 으억!
+
+407
+00:09:35,915 --> 00:09:37,805
+사토시 !! 남색 구슬을 !!
+
+408
+00:09:37,805 --> 00:09:38,456
+응!
+
+409
+00:09:38,456 --> 00:09:39,664
+가랏, 피카츄!!
+
+410
+00:09:40,498 --> 00:09:41,279
+냅둘까?!
+
+411
+00:09:41,279 --> 00:09:42,397
+가랏, 그라에나!!
+
+412
+00:09:46,210 --> 00:09:47,665
+지지마, 피카츄 !!
+
+413
+00:09:56,403 --> 00:09:57,751
+해냈어 피카츄 !!
+
+414
+00:10:01,249 --> 00:10:02,850
+저 모양은 ...
+
+415
+00:10:08,415 --> 00:10:09,750
+(남색 구슬과 피카츄의 융합?!)
+
+416
+00:10:12,771 --> 00:10:13,931
+피카츄 ...
+
+417
+00:10:13,931 --> 00:10:15,755
+저, 피카츄를 포획해라!
+
+418
+00:10:15,755 --> 00:10:16,543
+예!!
+
+419
+00:10:16,543 --> 00:10:17,593
+가랏, 그라에나!!
+
+420
+00:10:25,891 --> 00:10:28,053
+저건... 10만 볼트 !!
+
+421
+00:10:28,053 --> 00:10:30,381
+굉장한 파워였어 !
+
+422
+00:10:30,381 --> 00:10:33,202
+거기에다가 .. 저 모양은 도대체 뭐야?
+
+423
+00:10:34,103 --> 00:10:35,027
+네놈 ...
+
+424
+00:10:37,301 --> 00:10:37,941
+피카츄!
+
+425
+00:10:39,372 --> 00:10:41,332
+이 틈에 도망가는거야!
+
+426
+00:10:41,332 --> 00:10:42,089
+- 어!
+
+427
+00:10:43,652 --> 00:10:45,302
+마츠부사님 ...
+
+428
+00:10:45,302 --> 00:10:48,739
+나는 괜찮다 ... 그것보다 빨리 저 피카츄를 ...
+
+429
+00:10:54,818 --> 00:11:00,453
+아오기님 예정대로 카이오가는
+마그마단의 배로부터 탈출했습니다
+
+430
+00:11:00,453 --> 00:11:05,911
+수고했다, 이즈미
+역시 너에게 맡기는 것이 좋았군
+
+431
+00:11:05,911 --> 00:11:09,184
+자, 슬슬 해볼까나...
+
+432
+00:11:09,184 --> 00:11:12,659
+홍색구슬이여 !! 내 의지를 카이오가에 전해라!!
+
+433
+00:11:12,659 --> 00:11:15,089
+큰 힘을 가지고 나타나라 !!
+
+434
+00:11:23,992 --> 00:11:26,430
+가라~! 카이오가 !!
+
+435
+00:11:36,500 --> 00:11:41,117
+카이류 ... 아무래도 우리들끼리
+카이오가를 막아야만 되...
+
+436
+00:11:43,523 --> 00:11:45,607
+여기서 뛰어내리는 거야 ...?
+
+437
+00:11:45,607 --> 00:11:47,024
+무리야~
+
+438
+00:11:47,024 --> 00:11:48,936
+무리든 뭐든 해보는 수밖에 없어!!
+
+439
+00:11:49,317 --> 00:11:51,571
+사토시군!! 어째서 여기에?!
+
+440
+00:11:52,194 --> 00:11:53,950
+자, 빨리 뛰어내리는 거야!!
+
+441
+00:11:58,627 --> 00:12:00,360
+피카츄! 우리들도 가자!!
+
+442
+00:12:02,024 --> 00:12:03,544
+으억~~
+
+443
+00:12:07,882 --> 00:12:12,868
+어리석은 꼬맹이 ..
+잘 도망칠 생각이었나?
+
+444
+00:12:12,868 --> 00:12:15,930
+자... 얌전히 따라와라 ...!
+
+445
+00:12:18,775 --> 00:12:18,875
+<font color="F8FBFC">~ Subtitle made by Peri ~</font>
+<font color="FFFCFB">20th Subtitle :: [PDBOX]ID : wwzero</font>
+<font color="F8F8F8">Homepage :: The secret yet ...</font>
+
+446
+00:12:18,875 --> 00:12:18,975
+<font color="F1F7FA">~ Subtitle made by Peri ~</font>
+<font color="FFF8F6">20th Subtitle :: [PDBOX]ID : wwzero</font>
+<font color="F4F4F4">Homepage :: The secret yet ...</font>
+
+447
+00:12:18,975 --> 00:12:19,075
+<font color="E8F2F7">~ Subtitle made by Peri ~</font>
+<font color="FFEDE9">20th Subtitle :: [PDBOX]ID : wwzero</font>
+<font color="EEEEEE">Homepage :: The secret yet ...</font>
+
+448
+00:12:19,075 --> 00:12:19,175
+<font color="DAEAF2">~ Subtitle made by Peri ~</font>
+<font color="FFDCD4">20th Subtitle :: [PDBOX]ID : wwzero</font>
+<font color="E5E5E5">Homepage :: The secret yet ...</font>
+
+449
+00:12:19,175 --> 00:12:19,275
+<font color="C6DFEC">~ Subtitle made by Peri ~</font>
+<font color="FFC4B7">20th Subtitle :: [PDBOX]ID : wwzero</font>
+<font color="DDDDDD">Homepage :: The secret yet ...</font>
+
+450
+00:12:19,275 --> 00:12:30,292
+<font color="ACD0E3">~ Subtitle made by Peri ~</font>
+<font color="FFAB98">20th Subtitle :: [PDBOX]ID : wwzero</font>
+<font color="D0D0D0">Homepage :: The secret yet ...</font>
+
+451
+00:12:30,292 --> 00:12:30,392
+<font color="C6DFEC">~ Subtitle made by Peri ~</font>
+<font color="FFC4B7">20th Subtitle :: [PDBOX]ID : wwzero</font>
+<font color="DDDDDD">Homepage :: The secret yet ...</font>
+
+452
+00:12:30,392 --> 00:12:30,492
+<font color="DAEAF2">~ Subtitle made by Peri ~</font>
+<font color="FFDCD4">20th Subtitle :: [PDBOX]ID : wwzero</font>
+<font color="E5E5E5">Homepage :: The secret yet ...</font>
+
+453
+00:12:30,492 --> 00:12:30,592
+<font color="E8F2F7">~ Subtitle made by Peri ~</font>
+<font color="FFEDE9">20th Subtitle :: [PDBOX]ID : wwzero</font>
+<font color="EEEEEE">Homepage :: The secret yet ...</font>
+
+454
+00:12:30,592 --> 00:12:30,692
+<font color="F1F7FA">~ Subtitle made by Peri ~</font>
+<font color="FFF8F6">20th Subtitle :: [PDBOX]ID : wwzero</font>
+<font color="F4F4F4">Homepage :: The secret yet ...</font>
+
+455
+00:12:30,692 --> 00:12:30,837
+<font color="F8FBFC">~ Subtitle made by Peri ~</font>
+<font color="FFFCFB">20th Subtitle :: [PDBOX]ID : wwzero</font>
+<font color="F8F8F8">Homepage :: The secret yet ...</font>
+
+456
+00:12:32,465 --> 00:12:33,977
+어레 ? 사토시는 ?
+
+457
+00:12:34,579 --> 00:12:35,701
+저기야 !!
+
+458
+00:12:40,129 --> 00:12:41,059
+사토시 ...
+
+459
+00:12:41,059 --> 00:12:43,520
+어떻게 하지 ... 대려가고 있어 ..
+
+460
+00:12:45,122 --> 00:12:46,648
+마츠부사님은 ?
+
+461
+00:12:46,648 --> 00:12:49,538
+이미 탑승하고 있으며, 대장을 기다리고 있습니다.
+
+462
+00:12:49,538 --> 00:12:51,871
+좋아, 얼른 몬스토로 향해라
+
+463
+00:12:51,871 --> 00:12:52,410
+예!
+
+464
+00:12:56,628 --> 00:12:59,808
+훗... 마그마단도 카이오가의
+파워에는 이기지 못하는건가
+
+465
+00:13:00,289 --> 00:13:02,984
+그럼, 끝을 받겠어 !!
+
+466
+00:13:02,984 --> 00:13:04,993
+해치워버려 카이오가!!
+
+467
+00:13:26,051 --> 00:13:29,748
+카이오가이여 ... 너는 내 것이다 !
+
+468
+00:13:39,413 --> 00:13:42,431
+왠지~ 멀리 날았네~
+
+469
+00:13:42,431 --> 00:13:44,688
+여기는 도대체... 어디야?
+
+470
+00:13:44,688 --> 00:13:47,286
+아무도 아무도 없는 곳일거다냥...
+
+471
+00:13:49,329 --> 00:13:51,885
+저건 ... 마그마단의 헬리 ?
+
+472
+00:13:52,344 --> 00:13:55,094
+그렇다는 것은... 이 섬에 뭔가 있을러나
+
+473
+00:13:55,094 --> 00:13:57,601
+자고 있을 때가 아니다냥!! 쫓아가는거다냥!!
+
+474
+00:14:10,374 --> 00:14:12,546
+- 으악~! 갸라도스 ?!
+
+475
+00:14:12,546 --> 00:14:14,475
+거기에다가 이 갸라도스
+
+476
+00:14:14,475 --> 00:14:16,279
+색이 붉어 ...
+
+477
+00:14:16,279 --> 00:14:20,216
+붉은 갸라도스 ?!
+혹시... 너는 !!
+
+478
+00:14:40,813 --> 00:14:42,020
+여~ 마츠부사
+
+479
+00:14:43,078 --> 00:14:45,786
+잘도 마그마단을 이렇게 ..!
+
+480
+00:14:45,786 --> 00:14:48,502
+하앙~? 그럼, 이건 뭐야?
+
+481
+00:14:49,804 --> 00:14:53,530
+확실히 이쪽은 너의 행동대였지~
+
+482
+00:14:54,749 --> 00:14:58,647
+덕분에 우리가 잡은 그라돈을
+풀어줄려고 했으니 말이야~
+
+483
+00:14:58,647 --> 00:15:01,551
+손이 나뻤구만~
+
+484
+00:15:01,969 --> 00:15:03,799
+지금 것 들었다...
+
+485
+00:15:03,799 --> 00:15:06,669
+그라돈을 잡았다고?!
+
+486
+00:15:06,669 --> 00:15:12,449
+이야기가 이렇게 된 것은 그쪽이라고~
+그런데도 우리들은 부하를 포획했으니~
+
+487
+00:15:12,449 --> 00:15:15,231
+뭔가 말을해도 불만은 없지~?
+
+488
+00:15:15,231 --> 00:15:17,806
+좋다... 카이오가는 주겠다
+
+489
+00:15:17,806 --> 00:15:21,414
+하지만 그라돈은 너희들에게는 아무 의미도 없다
+
+490
+00:15:21,414 --> 00:15:23,464
+이쪽에 넘겨달라 ...
+
+491
+00:15:23,464 --> 00:15:26,112
+하하하하하하하~
+
+492
+00:15:26,112 --> 00:15:29,324
+아무래도 자신들의 입장을 모르는 것구만
+
+493
+00:15:29,324 --> 00:15:31,355
+그라돈은 이대로 봉인하겠어
+
+494
+00:15:31,355 --> 00:15:32,616
+뭐야?!
+
+495
+00:15:32,616 --> 00:15:38,496
+마그마단을 해산시켜
+아쿠아단이 세계를 지배하는 것을 보는거다
+
+496
+00:15:38,496 --> 00:15:43,878
+아니면, 카이오가를 써서
+지금 너희들을 전멸시켜줄까?
+
+497
+00:15:45,708 --> 00:15:48,186
+왠지... 굉장한 일이 되어버렸네...
+
+498
+00:15:48,186 --> 00:15:52,444
+즉, 아쿠아단은 그라돈과 카이오가를 잡았단 소리네
+
+499
+00:15:52,444 --> 00:15:57,811
+이것은 하는 수 밖에 없다냥~
+악당의 악은 피우는 것이 진짜 악당이다냥
+
+500
+00:15:57,811 --> 00:16:01,368
+헷~ 그라돈과 카이오가는 이 근처에 있을거야!
+
+501
+00:16:01,368 --> 00:16:04,135
+그것을 잡아서... 보스에게 선물을 하면 ..!
+
+502
+00:16:04,135 --> 00:16:08,364
+지부장뿐만 아니라 본부장이
+되는 것도 꿈이 아니다냥!
+
+503
+00:16:08,364 --> 00:16:11,830
+- 간부승진! 본부장승진! 좋은느낌~
+
+504
+00:16:24,582 --> 00:16:26,263
+피카츄, 괜찮아 ...?
+
+505
+00:16:26,263 --> 00:16:27,578
+정신차리는 거야!!
+
+506
+00:16:30,522 --> 00:16:31,566
+피카츄 ...
+
+507
+00:16:33,354 --> 00:16:37,481
+(피카츄 굉장히 무섭군요 ...)
+
+508
+00:16:53,322 --> 00:16:54,861
+피카츄 ...!
+
+509
+00:16:56,542 --> 00:16:57,691
+피카츄 ...
+
+510
+00:16:57,691 --> 00:16:59,140
+도대체 어떻게 된거야 ...?
+
+511
+00:17:02,090 --> 00:17:03,370
+뭐야 ?!
+
+512
+00:17:03,370 --> 00:17:05,722
+피카츄는 절대로 넘길 수 없으니깐 !!
+
+513
+00:17:06,189 --> 00:17:08,381
+오랜만이구나, 사토시군
+
+514
+00:17:08,381 --> 00:17:09,290
+와타루씨!!
+
+515
+00:17:09,290 --> 00:17:10,589
+쉬잇~
+
+516
+00:17:10,589 --> 00:17:13,166
+지금 잠입조사중이야...
+
+517
+00:17:13,166 --> 00:17:18,227
+마그마단과 아쿠아단이 초 고대 포켓몬을
+악행하는 것을 막기 위해서
+
+518
+00:17:18,227 --> 00:17:19,782
+그런가요 ...
+
+519
+00:17:19,782 --> 00:17:21,501
+와타루씨 피카츄가 ...!
+
+520
+00:17:21,501 --> 00:17:25,505
+어, 남색구슬와 융합한듯 하다
+
+521
+00:17:25,505 --> 00:17:27,087
+그래요 ...
+
+522
+00:17:27,087 --> 00:17:33,086
+남색구슬과 홍색구슬은 초 고대 포켓몬을
+조정하는 에너지를 가지고 있다.
+
+523
+00:17:33,086 --> 00:17:39,404
+장시간 가지고 있으면 그 힘의 에너지 영향으로
+썼던 마음이 고통하고 있다고 한다
+
+524
+00:17:39,404 --> 00:17:40,525
+그래서 ... ?
+
+525
+00:17:40,525 --> 00:17:44,846
+인간조차 쓸 떄는 주의가 필요하다
+
+526
+00:17:44,846 --> 00:17:50,430
+거기에다가 피카츄는 작은 포켓몬...
+구슬 에너지에 저항하지 못한거겠지...
+
+527
+00:17:52,812 --> 00:17:56,181
+와타루씨 ... 피카츄는 어떻게 되요?!
+
+528
+00:17:56,181 --> 00:18:02,271
+걱정하지마 ... 구슬과의 융합을
+푸는 방법은 내가 반드시 찾겠어 !
+
+529
+00:18:02,271 --> 00:18:05,428
+너는 여기서 기다리고 있어!
+
+530
+00:18:06,057 --> 00:18:09,982
+하지만 이 붉은 갸라도스가 와타루씨의 것이었다니 ..!
+
+531
+00:18:09,982 --> 00:18:11,013
+와타루씨?
+
+532
+00:18:11,013 --> 00:18:16,205
+어, 사천왕의 챔피온으로
+포켓몬 지면의 조사관을 하고 있어
+
+533
+00:18:16,205 --> 00:18:19,347
+드래곤 타입을 쓰는 굉장히 쎈 사람이야
+
+534
+00:18:19,347 --> 00:18:22,708
+그런 사람이 곁에 있으면 이길지도 !
+
+535
+00:18:23,817 --> 00:18:26,587
+역시 갸라도스는 몬스토에 향하고 있어
+
+536
+00:18:26,587 --> 00:18:30,706
+아마도 저곳에 사토시와 피카츄가 있을거야
+
+537
+00:18:31,696 --> 00:18:33,907
+둘 다 무사히 있어줘 ...
+
+538
+00:18:36,124 --> 00:18:37,207
+있어~있어~
+
+539
+00:18:37,207 --> 00:18:39,830
+아쿠아단의 잠수함을 발견했다냥
+
+540
+00:18:39,830 --> 00:18:44,072
+그 콘트롤러 안에 그라돈와 카이오가가 있겠지~
+
+541
+00:18:44,072 --> 00:18:45,577
+바로 행동개시야!
+
+542
+00:18:45,577 --> 00:18:46,455
+- 오우!!
+
+543
+00:18:55,373 --> 00:18:56,599
+간단하다고~
+
+544
+00:18:56,599 --> 00:19:00,153
+자, 녀석들이 돌아오기 전에 얼른 하자고!
+
+545
+00:19:03,241 --> 00:19:04,493
+역시 있다냥 ...
+
+546
+00:19:04,493 --> 00:19:05,853
+카이오가다냥 !
+
+547
+00:19:05,853 --> 00:19:07,721
+잘 자고 있군
+
+548
+00:19:07,721 --> 00:19:10,473
+먼저~ 전격 넷트의 차례네~
+
+549
+00:19:10,473 --> 00:19:12,290
+그럼 간다냥!!
+
+550
+00:19:15,217 --> 00:19:16,441
+냐냥?
+
+551
+00:19:16,441 --> 00:19:18,659
+이런 것은 내 쪽이 특기야!!
+
+552
+00:19:18,659 --> 00:19:20,350
+냐가 할거다냥
+
+553
+00:19:20,350 --> 00:19:22,009
+내 쪽이 더 잘 맞을거야~
+
+554
+00:19:22,009 --> 00:19:24,139
+냐의 테크닉을 보고 있으라냥!!
+
+555
+00:19:28,148 --> 00:19:30,554
+잠깐 !! 뭐하는 거야? 냐스!!
+
+556
+00:19:30,554 --> 00:19:33,366
+너희들이 시끄럽게 구니깐 그런가다냥!!
+
+557
+00:19:39,957 --> 00:19:41,098
+열렸다~!
+
+558
+00:19:41,098 --> 00:19:42,086
+카이오가~~
+
+559
+00:19:42,086 --> 00:19:43,008
+잡으러 ...
+
+560
+00:19:43,817 --> 00:19:45,265
+너희들 뭐하는 놈들이냐 ?!
+
+561
+00:19:45,265 --> 00:19:46,699
+마그마단의 녀석들인가 ?!
+
+562
+00:19:51,672 --> 00:19:56,970
+아오기님 .. 카이오가의 콘테라가...
+누군가에 습격을 당했습니다
+
+563
+00:19:56,970 --> 00:19:59,781
+어이~어이~ 방심은 할 수 없구만~
+
+564
+00:19:59,781 --> 00:20:02,050
+너희들이 가지고 싶은 것은 그라돈이잖아~
+
+565
+00:20:02,050 --> 00:20:04,783
+브레이나!! 우리들의 짓이 아니다!!
+
+566
+00:20:10,419 --> 00:20:13,192
+왠지... 싫은 구름이 됬을지도 ...!
+
+567
+00:20:13,192 --> 00:20:13,900
+서둘자 !!
+
+568
+00:20:13,900 --> 00:20:14,633
+응!
+
+569
+00:20:16,110 --> 00:20:17,889
+이렇게 되면 돌파야 !!
+
+570
+00:20:17,889 --> 00:20:18,671
+오우!!
+
+571
+00:20:18,671 --> 00:20:20,903
+사보네아, 미사일 바늘이다!!
+
+572
+00:20:28,102 --> 00:20:30,157
+- 이 틈에~ 이 틈에~
+
+573
+00:20:30,157 --> 00:20:33,505
+자, 카이오가쨩~ 받아랏~
+
+574
+00:20:35,980 --> 00:20:38,421
+좋아~ 전격발사 !!
+
+575
+00:20:40,884 --> 00:20:44,177
+아무리 초 고대 포켓몬이라도 어차피 물 타입 !!
+
+576
+00:20:44,177 --> 00:20:46,596
+전격의 효과는 만점이다냥 !!
+
+577
+00:20:57,027 --> 00:20:59,181
+- 싫은 느낌 ~~~
+
+578
+00:21:16,039 --> 00:21:16,982
+피카츄~...
+
+579
+00:21:18,133 --> 00:21:19,478
+정신 차려!!
+
+580
+00:21:20,083 --> 00:21:21,390
+피카츄 ~!!!
+
+581
+00:21:22,706 --> 00:21:31,275
+드디어, 초 고대 포켓몬 카이오가가 일어났다!
+거기에다가 그라돈도 눈을 뜰려고 한다 ...
+
+582
+00:21:31,275 --> 00:21:36,850
+그리고 남색구슬과 융합한 피카츄의 운명은 ..?
+
+583
+00:21:36,850 --> 00:21:42,014
+분량된 초 고대 포켓몬 힘에...
+지금 ... 전 세계가 위험하게 된다 ..!
+
+584
+00:21:42,014 --> 00:21:44,962
+<Font Color=YELLOW>TO BE CONTINUED...</font>
+
+585
+00:21:47,983 --> 00:21:48,378
+<font color="8F8FDF">人はみな誰もが今日をさまよう</font>
+<font color="CC6400">사람은 모두 누구나 오늘을 헤메는</font>
+
+586
+00:21:48,378 --> 00:21:48,782
+<font color="5B98FF">人<font color="8F8FDF">はみな誰もが今日をさまよう</font>
+<font color="FFA2D6">사<font color="CC6400">람은 모두 누구나 오늘을 헤메는</font>
+
+587
+00:21:48,782 --> 00:21:49,448
+<font color="5B98FF">人<font color="8F8FDF">はみな誰もが今日をさまよう</font>
+<font color="FFA2D6">사람<font color="CC6400">은 모두 누구나 오늘을 헤메는</font>
+
+588
+00:21:49,448 --> 00:21:49,636
+<font color="5B98FF">人は<font color="8F8FDF">みな誰もが今日をさまよう</font>
+<font color="FFA2D6">사람은<font color="CC6400"> 모두 누구나 오늘을 헤메는</font>
+
+589
+00:21:49,636 --> 00:21:49,961
+<font color="5B98FF">人はみ<font color="8F8FDF">な誰もが今日をさまよう</font>
+<font color="FFA2D6">사람은 모<font color="CC6400">두 누구나 오늘을 헤메는</font>
+
+590
+00:21:49,961 --> 00:21:50,677
+<font color="5B98FF">人はみな<font color="8F8FDF">誰もが今日をさまよう</font>
+<font color="FFA2D6">사람은 모두<font color="CC6400"> 누구나 오늘을 헤메는</font>
+
+591
+00:21:50,677 --> 00:21:51,148
+<font color="5B98FF">人はみな誰<font color="8F8FDF">もが今日をさまよう</font>
+<font color="FFA2D6">사람은 모두 누<font color="CC6400">구나 오늘을 헤메는</font>
+
+592
+00:21:51,148 --> 00:21:51,923
+<font color="5B98FF">人はみな誰も<font color="8F8FDF">が今日をさまよう</font>
+<font color="FFA2D6">사람은 모두 누구<font color="CC6400">나 오늘을 헤메는</font>
+
+593
+00:21:51,923 --> 00:21:52,576
+<font color="5B98FF">人はみな誰もが<font color="8F8FDF">今日をさまよう</font>
+<font color="FFA2D6">사람은 모두 누구나<font color="CC6400"> 오늘을 헤메는</font>
+
+594
+00:21:52,576 --> 00:21:52,928
+<font color="5B98FF">人はみな誰もが今<font color="8F8FDF">日をさまよう</font>
+<font color="FFA2D6">사람은 모두 누구나 오<font color="CC6400">늘을 헤메는</font>
+
+595
+00:21:52,928 --> 00:21:53,052
+<font color="5B98FF">人はみな誰もが今日<font color="8F8FDF">をさまよう</font>
+<font color="FFA2D6">사람은 모두 누구나 오늘<font color="CC6400">을 헤메는</font>
+
+596
+00:21:53,052 --> 00:21:53,573
+<font color="5B98FF">人はみな誰もが今日を<font color="8F8FDF">さまよう</font>
+<font color="FFA2D6">사람은 모두 누구나 오늘을<font color="CC6400"> 헤메는</font>
+
+597
+00:21:53,573 --> 00:21:54,009
+<font color="5B98FF">人はみな誰もが今日をさ<font color="8F8FDF">まよう</font>
+<font color="FFA2D6">사람은 모두 누구나 오늘을 헤<font color="CC6400">메는</font>
+
+598
+00:21:54,009 --> 00:21:54,330
+<font color="5B98FF">人はみな誰もが今日をさま<font color="8F8FDF">よう</font>
+<font color="FFA2D6">사람은 모두 누구나 오늘을 헤<font color="CC6400">메는</font>
+
+599
+00:21:54,330 --> 00:21:54,731
+<font color="5B98FF">人はみな誰もが今日をさまよ<font color="8F8FDF">う</font>
+<font color="FFA2D6">사람은 모두 누구나 오늘을 헤메<font color="CC6400">는</font>
+
+600
+00:21:54,731 --> 00:21:55,467
+<font color="5B98FF">人はみな誰もが今日をさまよう</font>
+<font color="FFA2D6">사람은 모두 누구나 오늘을 헤메는</font>
+
+601
+00:21:55,467 --> 00:21:55,502
+<font color="8F8FDF">小さな旅人</font>
+<font color="CC6400">작은 여행자</font>
+
+602
+00:21:55,502 --> 00:21:56,664
+<font color="5B98FF">小<font color="8F8FDF">さな旅人</font>
+<font color="FFA2D6">작<font color="CC6400">은 여행자</font>
+
+603
+00:21:56,664 --> 00:21:57,419
+<font color="5B98FF">小さ<font color="8F8FDF">な旅人</font>
+<font color="FFA2D6">작<font color="CC6400">은 여행자</font>
+
+604
+00:21:57,419 --> 00:21:57,673
+<font color="5B98FF">小さな<font color="8F8FDF">旅人</font>
+<font color="FFA2D6">작은<font color="CC6400"> 여행자</font>
+
+605
+00:21:57,673 --> 00:21:58,338
+<font color="5B98FF">小さな旅<font color="8F8FDF">人</font>
+<font color="FFA2D6">작은 여<font color="CC6400">행자</font>
+
+606
+00:21:58,338 --> 00:21:58,667
+<font color="5B98FF">小さな旅<font color="8F8FDF">人</font>
+<font color="FFA2D6">작은 여행<font color="CC6400">자</font>
+
+607
+00:21:58,667 --> 00:22:00,676
+<font color="5B98FF">小さな旅人</font>
+<font color="FFA2D6">작은 여행자</font>
+
+608
+00:22:01,195 --> 00:22:01,388
+<font color="8F8FDF">時には迷い時にははぐれ</font>
+<font color="CC6400">때로는 해메고 때로는 놓치고</font>
+
+609
+00:22:01,388 --> 00:22:02,390
+<font color="5B98FF">時<font color="8F8FDF">には迷い時にははぐれ</font>
+<font color="FFA2D6">때<font color="CC6400">로는 해메고 때로는 놓치고</font>
+
+610
+00:22:02,390 --> 00:22:02,837
+<font color="5B98FF">時に<font color="8F8FDF">は迷い時にははぐれ</font>
+<font color="FFA2D6">때로<font color="CC6400">는 해메고 때로는 놓치고</font>
+
+611
+00:22:02,837 --> 00:22:03,240
+<font color="5B98FF">時には<font color="8F8FDF">迷い時にははぐれ</font>
+<font color="FFA2D6">때로는<font color="CC6400"> 해메고 때로는 놓치고</font>
+
+612
+00:22:03,240 --> 00:22:03,545
+<font color="5B98FF">時には迷<font color="8F8FDF">い時にははぐれ</font>
+<font color="FFA2D6">때로는 해<font color="CC6400">메고 때로는 놓치고</font>
+
+613
+00:22:03,545 --> 00:22:03,949
+<font color="5B98FF">時には迷<font color="8F8FDF">い時にははぐれ</font>
+<font color="FFA2D6">때로는 해메<font color="CC6400">고 때로는 놓치고</font>
+
+614
+00:22:03,949 --> 00:22:04,374
+<font color="5B98FF">時には迷い<font color="8F8FDF">時にははぐれ</font>
+<font color="FFA2D6">때로는 해메고<font color="CC6400"> 때로는 놓치고</font>
+
+615
+00:22:04,374 --> 00:22:05,515
+<font color="5B98FF">時には迷い時<font color="8F8FDF">にははぐれ</font>
+<font color="FFA2D6">때로는 해메고 때<font color="CC6400">로는 놓치고</font>
+
+616
+00:22:05,515 --> 00:22:05,996
+<font color="5B98FF">時には迷い時に<font color="8F8FDF">ははぐれ</font>
+<font color="FFA2D6">때로는 해메고 때로<font color="CC6400">는 놓치고</font>
+
+617
+00:22:05,996 --> 00:22:06,469
+<font color="5B98FF">時には迷い時には<font color="8F8FDF">はぐれ</font>
+<font color="FFA2D6">때로는 해메고 때로는<font color="CC6400"> 놓치고</font>
+
+618
+00:22:06,469 --> 00:22:06,777
+<font color="5B98FF">時には迷い時にはは<font color="8F8FDF">ぐれ</font>
+<font color="FFA2D6">때로는 해메고 때로는 놓<font color="CC6400">치고</font>
+
+619
+00:22:06,777 --> 00:22:07,215
+<font color="5B98FF">時には迷い時にははぐ<font color="8F8FDF">れ</font>
+<font color="FFA2D6">때로는 해메고 때로는 놓치<font color="CC6400">고</font>
+
+620
+00:22:07,215 --> 00:22:07,565
+<font color="5B98FF">時には迷い時にははぐれ</font>
+<font color="FFA2D6">때로는 해메고 때로는 놓치고</font>
+
+621
+00:22:07,565 --> 00:22:07,771
+<font color="8F8FDF">明日を探してる</font>
+<font color="CC6400">내일을 찾고 있어</font>
+
+622
+00:22:07,771 --> 00:22:08,485
+<font color="5B98FF">明<font color="8F8FDF">日を探してる</font>
+<font color="FFA2D6">내<font color="CC6400">일을 찾고 있어</font>
+
+623
+00:22:08,485 --> 00:22:09,356
+<font color="5B98FF">明日<font color="8F8FDF">を探してる</font>
+<font color="FFA2D6">내일<font color="CC6400">을 찾고 있어</font>
+
+624
+00:22:09,356 --> 00:22:10,030
+<font color="5B98FF">明日を<font color="8F8FDF">探してる</font>
+<font color="FFA2D6">내일을<font color="CC6400"> 찾고 있어</font>
+
+625
+00:22:10,030 --> 00:22:10,687
+<font color="5B98FF">明日を探<font color="8F8FDF">してる</font>
+<font color="FFA2D6">내일을 찾<font color="CC6400">고 있어</font>
+
+626
+00:22:10,687 --> 00:22:11,266
+<font color="5B98FF">明日を探し<font color="8F8FDF">てる</font>
+<font color="FFA2D6">내일을 찾고<font color="CC6400"> 있어</font>
+
+627
+00:22:11,266 --> 00:22:11,662
+<font color="5B98FF">明日を探して<font color="8F8FDF">る</font>
+<font color="FFA2D6">내일을 찾고 있<font color="CC6400">어</font>
+
+628
+00:22:11,662 --> 00:22:13,130
+<font color="5B98FF">明日を探してる</font>
+<font color="FFA2D6">내일을 찾고 있어</font>
+
+629
+00:22:13,649 --> 00:22:13,806
+<font color="8F8FDF">傷つくことから逃げ出して</font>
+<font color="CC6400">상처입는 것에 도망가면서</font>
+
+630
+00:22:13,806 --> 00:22:14,187
+<font color="5B98FF">傷<font color="8F8FDF">つくことから逃げ出して</font>
+<font color="FFA2D6">상<font color="CC6400">처입는 것에 도망가면서</font>
+
+631
+00:22:14,187 --> 00:22:14,459
+<font color="5B98FF">傷<font color="8F8FDF">つくことから逃げ出して</font>
+<font color="FFA2D6">상처<font color="CC6400">입는 것에 도망가면서</font>
+
+632
+00:22:14,459 --> 00:22:14,870
+<font color="5B98FF">傷つ<font color="8F8FDF">くことから逃げ出して</font>
+<font color="FFA2D6">상처입<font color="CC6400">는 것에 도망가면서</font>
+
+633
+00:22:14,870 --> 00:22:15,078
+<font color="5B98FF">傷つく<font color="8F8FDF">ことから逃げ出して</font>
+<font color="FFA2D6">상처입는<font color="CC6400"> 것에 도망가면서</font>
+
+634
+00:22:15,078 --> 00:22:15,278
+<font color="5B98FF">傷つくこ<font color="8F8FDF">とから逃げ出して</font>
+<font color="FFA2D6">상처입는 것<font color="CC6400">에 도망가면서</font>
+
+635
+00:22:15,278 --> 00:22:15,972
+<font color="5B98FF">傷つくこと<font color="8F8FDF">から逃げ出して</font>
+<font color="FFA2D6">상처입는 것<font color="CC6400">에 도망가면서</font>
+
+636
+00:22:15,972 --> 00:22:16,401
+<font color="5B98FF">傷つくことか<font color="8F8FDF">ら逃げ出して</font>
+<font color="FFA2D6">상처입는 것에<font color="CC6400"> 도망가면서</font>
+
+637
+00:22:16,401 --> 00:22:16,909
+<font color="5B98FF">傷つくことから<font color="8F8FDF">逃げ出して</font>
+<font color="FFA2D6">상처입는 것에<font color="CC6400"> 도망가면서</font>
+
+638
+00:22:16,909 --> 00:22:17,413
+<font color="5B98FF">傷つくことから逃<font color="8F8FDF">げ出して</font>
+<font color="FFA2D6">상처입는 것에 도<font color="CC6400">망가면서</font>
+
+639
+00:22:17,413 --> 00:22:17,929
+<font color="5B98FF">傷つくことから逃げ<font color="8F8FDF">出して</font>
+<font color="FFA2D6">상처입는 것에 도망<font color="CC6400">가면서</font>
+
+640
+00:22:17,929 --> 00:22:18,435
+<font color="5B98FF">傷つくことから逃げ出<font color="8F8FDF">して</font>
+<font color="FFA2D6">상처입는 것에 도망가<font color="CC6400">면서</font>
+
+641
+00:22:18,435 --> 00:22:19,153
+<font color="5B98FF">傷つくことから逃げ出し<font color="8F8FDF">て</font>
+<font color="FFA2D6">상처입는 것에 도망가면<font color="CC6400">서</font>
+
+642
+00:22:19,153 --> 00:22:19,721
+<font color="5B98FF">傷つくことから逃げ出して</font>
+<font color="FFA2D6">상처입는 것에 도망가면서</font>
+
+643
+00:22:19,721 --> 00:22:20,075
+<font color="8F8FDF">今日に立ちすくんだとしても</font>
+<font color="CC6400">오늘에 꼼작 못한다고 해도</font>
+
+644
+00:22:20,075 --> 00:22:20,427
+<font color="5B98FF">今<font color="8F8FDF">日に立ちすくんだとしても</font>
+<font color="FFA2D6">오<font color="CC6400">늘에 꼼작 못한다고 해도</font>
+
+645
+00:22:20,427 --> 00:22:20,727
+<font color="5B98FF">今日<font color="8F8FDF">に立ちすくんだとしても</font>
+<font color="FFA2D6">오늘<font color="CC6400">에 꼼작 못한다고 해도</font>
+
+646
+00:22:20,727 --> 00:22:21,254
+<font color="5B98FF">今日に<font color="8F8FDF">立ちすくんだとしても</font>
+<font color="FFA2D6">오늘에<font color="CC6400"> 꼼작 못한다고 해도</font>
+
+647
+00:22:21,254 --> 00:22:21,810
+<font color="5B98FF">今日に立<font color="8F8FDF">ちすくんだとしても</font>
+<font color="FFA2D6">오늘에 꼼<font color="CC6400">작 못한다고 해도</font>
+
+648
+00:22:21,810 --> 00:22:22,169
+<font color="5B98FF">今日に立ち<font color="8F8FDF">すくんだとしても</font>
+<font color="FFA2D6">오늘에 꼼<font color="CC6400">작 못한다고 해도</font>
+
+649
+00:22:22,169 --> 00:22:22,691
+<font color="5B98FF">今日に立ちす<font color="8F8FDF">くんだとしても</font>
+<font color="FFA2D6">오늘에 꼼작<font color="CC6400"> 못한다고 해도</font>
+
+650
+00:22:22,691 --> 00:22:23,387
+<font color="5B98FF">今日に立ちすく<font color="8F8FDF">んだとしても</font>
+<font color="FFA2D6">오늘에 꼼작 못<font color="CC6400">한다고 해도</font>
+
+651
+00:22:23,387 --> 00:22:23,784
+<font color="5B98FF">今日に立ちすくん<font color="8F8FDF">だとしても</font>
+<font color="FFA2D6">오늘에 꼼작 못<font color="CC6400">한다고 해도</font>
+
+652
+00:22:23,784 --> 00:22:23,917
+<font color="5B98FF">今日に立ちすくんだ<font color="8F8FDF">としても</font>
+<font color="FFA2D6">오늘에 꼼작 못한<font color="CC6400">다고 해도</font>
+
+653
+00:22:23,917 --> 00:22:24,196
+<font color="5B98FF">今日に立ちすくんだと<font color="8F8FDF">しても</font>
+<font color="FFA2D6">오늘에 꼼작 못한다<font color="CC6400">고 해도</font>
+
+654
+00:22:24,196 --> 00:22:24,830
+<font color="5B98FF">今日に立ちすくんだとし<font color="8F8FDF">ても</font>
+<font color="FFA2D6">오늘에 꼼작 못한다고<font color="CC6400"> 해도</font>
+
+655
+00:22:24,830 --> 00:22:25,415
+<font color="5B98FF">今日に立ちすくんだとして<font color="8F8FDF">も</font>
+<font color="FFA2D6">오늘에 꼼작 못한다고 해<font color="CC6400">도</font>
+
+656
+00:22:25,415 --> 00:22:26,177
+<font color="5B98FF">今日に立ちすくんだとしても</font>
+<font color="FFA2D6">오늘에 꼼작 못한다고 해도</font>
+
+657
+00:22:26,177 --> 00:22:26,277
+<font color="8F8FDF">何も無くしてしまうものなど</font>
+<font color="CC6400">아무것도 없게 해 버리는 것에</font>
+
+658
+00:22:26,277 --> 00:22:26,638
+<font color="5B98FF">何<font color="8F8FDF">も無くしてしまうものなど</font>
+<font color="FFA2D6">아<font color="CC6400">무것도 없게 해 버리는 것에</font>
+
+659
+00:22:26,638 --> 00:22:26,994
+<font color="5B98FF">何<font color="8F8FDF">も無くしてしまうものなど</font>
+<font color="FFA2D6">아무<font color="CC6400">것도 없게 해 버리는 것에</font>
+
+660
+00:22:26,994 --> 00:22:27,140
+<font color="5B98FF">何<font color="8F8FDF">も無くしてしまうものなど</font>
+<font color="FFA2D6">아무것<font color="CC6400">도 없게 해 버리는 것에</font>
+
+661
+00:22:27,140 --> 00:22:27,548
+<font color="5B98FF">何も<font color="8F8FDF">無くしてしまうものなど</font>
+<font color="FFA2D6">아무것도<font color="CC6400"> 없게 해 버리는 것에</font>
+
+662
+00:22:27,548 --> 00:22:28,020
+<font color="5B98FF">何も無<font color="8F8FDF">くしてしまうものなど</font>
+<font color="FFA2D6">아무것도 없<font color="CC6400">게 해 버리는 것에</font>
+
+663
+00:22:28,020 --> 00:22:28,411
+<font color="5B98FF">何も無く<font color="8F8FDF">してしまうものなど</font>
+<font color="FFA2D6">아무것도 없<font color="CC6400">게 해 버리는 것에</font>
+
+664
+00:22:28,411 --> 00:22:28,914
+<font color="5B98FF">何も無くし<font color="8F8FDF">てしまうものなど</font>
+<font color="FFA2D6">아무것도 없게<font color="CC6400"> 해 버리는 것에</font>
+
+665
+00:22:28,914 --> 00:22:29,266
+<font color="5B98FF">何も無くして<font color="8F8FDF">しまうものなど</font>
+<font color="FFA2D6">아무것도 없게<font color="CC6400"> 해 버리는 것에</font>
+
+666
+00:22:29,266 --> 00:22:29,573
+<font color="5B98FF">何も無くしてし<font color="8F8FDF">まうものなど</font>
+<font color="FFA2D6">아무것도 없게 해<font color="CC6400"> 버리는 것에</font>
+
+667
+00:22:29,573 --> 00:22:30,114
+<font color="5B98FF">何も無くしてしま<font color="8F8FDF">うものなど</font>
+<font color="FFA2D6">아무것도 없게 해 버<font color="CC6400">리는 것에</font>
+
+668
+00:22:30,114 --> 00:22:30,817
+<font color="5B98FF">何も無くしてしまう<font color="8F8FDF">ものなど</font>
+<font color="FFA2D6">아무것도 없게 해 버리<font color="CC6400">는 것에</font>
+
+669
+00:22:30,817 --> 00:22:31,223
+<font color="5B98FF">何も無くしてしまうも<font color="8F8FDF">のなど</font>
+<font color="FFA2D6">아무것도 없게 해 버리는<font color="CC6400"> 것에</font>
+
+670
+00:22:31,223 --> 00:22:31,733
+<font color="5B98FF">何も無くしてしまうもの<font color="8F8FDF">など</font>
+<font color="FFA2D6">아무것도 없게 해 버리는 것<font color="CC6400">에</font>
+
+671
+00:22:31,733 --> 00:22:32,487
+<font color="5B98FF">何も無くしてしまうものな<font color="8F8FDF">ど</font>
+<font color="FFA2D6">아무것도 없게 해 버리는 것<font color="CC6400">에</font>
+
+672
+00:22:32,487 --> 00:22:32,658
+<font color="5B98FF">何も無くしてしまうものなど</font>
+<font color="FFA2D6">아무것도 없게 해 버리는 것에</font>
+
+673
+00:22:32,658 --> 00:22:32,718
+<font color="8F8FDF">きっとないはずさ</font>
+<font color="CC6400">분명 없을 거야</font>
+
+674
+00:22:32,718 --> 00:22:33,122
+<font color="5B98FF">き<font color="8F8FDF">っとないはずさ</font>
+<font color="FFA2D6">분<font color="CC6400">명 없을 거야</font>
+
+675
+00:22:33,122 --> 00:22:34,387
+<font color="5B98FF">きっ<font color="8F8FDF">とないはずさ</font>
+<font color="FFA2D6">분<font color="CC6400">명 없을 거야</font>
+
+676
+00:22:34,387 --> 00:22:34,973
+<font color="5B98FF">きっと<font color="8F8FDF">ないはずさ</font>
+<font color="FFA2D6">분명<font color="CC6400"> 없을 거야</font>
+
+677
+00:22:34,973 --> 00:22:35,701
+<font color="5B98FF">きっとな<font color="8F8FDF">いはずさ</font>
+<font color="FFA2D6">분명 없<font color="CC6400">을 거야</font>
+
+678
+00:22:35,701 --> 00:22:36,554
+<font color="5B98FF">きっとない<font color="8F8FDF">はずさ</font>
+<font color="FFA2D6">분명 없을<font color="CC6400"> 거야</font>
+
+679
+00:22:36,554 --> 00:22:37,661
+<font color="5B98FF">きっとないは<font color="8F8FDF">ずさ</font>
+<font color="FFA2D6">분명 없을 거<font color="CC6400">야</font>
+
+680
+00:22:37,661 --> 00:22:38,268
+<font color="5B98FF">きっとないはず<font color="8F8FDF">さ</font>
+<font color="FFA2D6">분명 없을 거<font color="CC6400">야</font>
+
+681
+00:22:38,268 --> 00:22:38,808
+<font color="5B98FF">きっとないはずさ</font>
+<font color="FFA2D6">분명 없을 거야</font>
+
+682
+00:22:39,334 --> 00:22:39,434
+<font color="8F8FDF">今は見えなくても</font>
+<font color="CC6400">지금은 안보여도</font>
+
+683
+00:22:39,434 --> 00:22:39,920
+<font color="5B98FF">今<font color="8F8FDF">は見えなくても</font>
+<font color="FFA2D6">지<font color="CC6400">금은 안보여도</font>
+
+684
+00:22:39,920 --> 00:22:40,328
+<font color="5B98FF">今<font color="8F8FDF">は見えなくても</font>
+<font color="FFA2D6">지금<font color="CC6400">은 안보여도</font>
+
+685
+00:22:40,328 --> 00:22:40,772
+<font color="5B98FF">今は<font color="8F8FDF">見えなくても</font>
+<font color="FFA2D6">지금은<font color="CC6400"> 안보여도</font>
+
+686
+00:22:40,772 --> 00:22:41,232
+<font color="5B98FF">今は見<font color="8F8FDF">えなくても</font>
+<font color="FFA2D6">지금은 안<font color="CC6400">보여도</font>
+
+687
+00:22:41,232 --> 00:22:41,714
+<font color="5B98FF">今は見え<font color="8F8FDF">なくても</font>
+<font color="FFA2D6">지금은 안<font color="CC6400">보여도</font>
+
+688
+00:22:41,714 --> 00:22:42,016
+<font color="5B98FF">今は見えな<font color="8F8FDF">くても</font>
+<font color="FFA2D6">지금은 안보<font color="CC6400">여도</font>
+
+689
+00:22:42,016 --> 00:22:42,348
+<font color="5B98FF">今は見えなく<font color="8F8FDF">ても</font>
+<font color="FFA2D6">지금은 안보<font color="CC6400">여도</font>
+
+690
+00:22:42,348 --> 00:22:42,963
+<font color="5B98FF">今は見えなくて<font color="8F8FDF">も</font>
+<font color="FFA2D6">지금은 안보여<font color="CC6400">도</font>
+
+691
+00:22:42,963 --> 00:22:43,304
+<font color="5B98FF">今は見えなくても</font>
+<font color="FFA2D6">지금은 안보여도</font>
+
+692
+00:22:43,304 --> 00:22:43,613
+<font color="8F8FDF">確かに君の胸の中にある</font>
+<font color="CC6400">확실히 너의 가슴 속에 있어</font>
+
+693
+00:22:43,613 --> 00:22:44,181
+<font color="5B98FF">確<font color="8F8FDF">かに君の胸の中にある</font>
+<font color="FFA2D6">확<font color="CC6400">실히 너의 가슴 속에 있어</font>
+
+694
+00:22:44,181 --> 00:22:44,890
+<font color="5B98FF">確か<font color="8F8FDF">に君の胸の中にある</font>
+<font color="FFA2D6">확실<font color="CC6400">히 너의 가슴 속에 있어</font>
+
+695
+00:22:44,890 --> 00:22:45,549
+<font color="5B98FF">確かに<font color="8F8FDF">君の胸の中にある</font>
+<font color="FFA2D6">확실히<font color="CC6400"> 너의 가슴 속에 있어</font>
+
+696
+00:22:45,549 --> 00:22:46,093
+<font color="5B98FF">確かに君<font color="8F8FDF">の胸の中にある</font>
+<font color="FFA2D6">확실히 너<font color="CC6400">의 가슴 속에 있어</font>
+
+697
+00:22:46,093 --> 00:22:46,847
+<font color="5B98FF">確かに君の<font color="8F8FDF">胸の中にある</font>
+<font color="FFA2D6">확실히 너의<font color="CC6400"> 가슴 속에 있어</font>
+
+698
+00:22:46,847 --> 00:22:47,726
+<font color="5B98FF">確かに君の胸<font color="8F8FDF">の中にある</font>
+<font color="FFA2D6">확실히 너의 가<font color="CC6400">슴 속에 있어</font>
+
+699
+00:22:47,726 --> 00:22:48,469
+<font color="5B98FF">確かに君の胸の<font color="8F8FDF">中にある</font>
+<font color="FFA2D6">확실히 너의 가슴<font color="CC6400"> 속에 있어</font>
+
+700
+00:22:48,469 --> 00:22:49,377
+<font color="5B98FF">確かに君の胸の中<font color="8F8FDF">にある</font>
+<font color="FFA2D6">확실히 너의 가슴 속<font color="CC6400">에 있어</font>
+
+701
+00:22:49,377 --> 00:22:49,741
+<font color="5B98FF">確かに君の胸の中に<font color="8F8FDF">ある</font>
+<font color="FFA2D6">확실히 너의 가슴 속에<font color="CC6400"> 있어</font>
+
+702
+00:22:49,741 --> 00:22:50,051
+<font color="5B98FF">確かに君の胸の中にあ<font color="8F8FDF">る</font>
+<font color="FFA2D6">확실히 너의 가슴 속에 있<font color="CC6400">어</font>
+
+703
+00:22:50,051 --> 00:22:50,778
+<font color="5B98FF">確かに君の胸の中にある</font>
+<font color="FFA2D6">확실히 너의 가슴 속에 있어</font>
+
+704
+00:22:51,985 --> 00:22:52,330
+<font color="8F8FDF">何かを信じ抽く强さは</font>
+<font color="CC6400">무엇를 믿는 듯한 강함은</font>
+
+705
+00:22:52,330 --> 00:22:53,175
+<font color="5B98FF">何<font color="8F8FDF">かを信じ抽く强さは</font>
+<font color="FFA2D6">무<font color="CC6400">엇를 믿는 듯한 강함은</font>
+
+706
+00:22:53,175 --> 00:22:53,717
+<font color="5B98FF">何か<font color="8F8FDF">を信じ抽く强さは</font>
+<font color="FFA2D6">무엇<font color="CC6400">를 믿는 듯한 강함은</font>
+
+707
+00:22:53,717 --> 00:22:54,153
+<font color="5B98FF">何かを<font color="8F8FDF">信じ抽く强さは</font>
+<font color="FFA2D6">무엇를<font color="CC6400"> 믿는 듯한 강함은</font>
+
+708
+00:22:54,153 --> 00:22:54,813
+<font color="5B98FF">何かを信<font color="8F8FDF">じ抽く强さは</font>
+<font color="FFA2D6">무엇를 믿<font color="CC6400">는 듯한 강함은</font>
+
+709
+00:22:54,813 --> 00:22:55,301
+<font color="5B98FF">何かを信じ<font color="8F8FDF">抽く强さは</font>
+<font color="FFA2D6">무엇를 믿는<font color="CC6400"> 듯한 강함은</font>
+
+710
+00:22:55,301 --> 00:22:55,890
+<font color="5B98FF">何かを信じ抽<font color="8F8FDF">く强さは</font>
+<font color="FFA2D6">무엇를 믿는 듯<font color="CC6400">한 강함은</font>
+
+711
+00:22:55,890 --> 00:22:56,549
+<font color="5B98FF">何かを信じ抽く<font color="8F8FDF">强さは</font>
+<font color="FFA2D6">무엇를 믿는 듯한<font color="CC6400"> 강함은</font>
+
+712
+00:22:56,549 --> 00:22:56,993
+<font color="5B98FF">何かを信じ抽く强<font color="8F8FDF">さは</font>
+<font color="FFA2D6">무엇를 믿는 듯한 강<font color="CC6400">함은</font>
+
+713
+00:22:56,993 --> 00:22:57,723
+<font color="5B98FF">何かを信じ抽く强さ<font color="8F8FDF">は</font>
+<font color="FFA2D6">무엇를 믿는 듯한 강함<font color="CC6400">은</font>
+
+714
+00:22:57,723 --> 00:22:58,083
+<font color="5B98FF">何かを信じ抽く强さは</font>
+<font color="FFA2D6">무엇를 믿는 듯한 강함은</font>
+
+715
+00:22:58,083 --> 00:22:58,316
+<font color="8F8FDF">君の笑顔を待ってる</font>
+<font color="CC6400">너의 웃음을 기다리고 있어</font>
+
+716
+00:22:58,316 --> 00:22:58,646
+<font color="5B98FF">君<font color="8F8FDF">の笑顔を待ってる</font>
+<font color="FFA2D6">너<font color="CC6400">의 웃음을 기다리고 있어</font>
+
+717
+00:22:58,646 --> 00:22:59,611
+<font color="5B98FF">君の<font color="8F8FDF">笑顔を待ってる</font>
+<font color="FFA2D6">너의<font color="CC6400"> 웃음을 기다리고 있어</font>
+
+718
+00:22:59,611 --> 00:23:00,242
+<font color="5B98FF">君の笑<font color="8F8FDF">顔を待ってる</font>
+<font color="FFA2D6">너의 웃<font color="CC6400">음을 기다리고 있어</font>
+
+719
+00:23:00,242 --> 00:23:00,607
+<font color="5B98FF">君の笑顔<font color="8F8FDF">を待ってる</font>
+<font color="FFA2D6">너의 웃음<font color="CC6400">을 기다리고 있어</font>
+
+720
+00:23:00,607 --> 00:23:01,608
+<font color="5B98FF">君の笑顔を<font color="8F8FDF">待ってる</font>
+<font color="FFA2D6">너의 웃음을<font color="CC6400"> 기다리고 있어</font>
+
+721
+00:23:01,608 --> 00:23:01,814
+<font color="5B98FF">君の笑顔を待<font color="8F8FDF">ってる</font>
+<font color="FFA2D6">너의 웃음을 기<font color="CC6400">다리고 있어</font>
+
+722
+00:23:01,814 --> 00:23:02,143
+<font color="5B98FF">君の笑顔を待<font color="8F8FDF">ってる</font>
+<font color="FFA2D6">너의 웃음을 기다<font color="CC6400">리고 있어</font>
+
+723
+00:23:02,143 --> 00:23:02,263
+<font color="5B98FF">君の笑顔を待っ<font color="8F8FDF">てる</font>
+<font color="FFA2D6">너의 웃음을 기다리<font color="CC6400">고 있어</font>
+
+724
+00:23:02,263 --> 00:23:02,541
+<font color="5B98FF">君の笑顔を待っ<font color="8F8FDF">てる</font>
+<font color="FFA2D6">너의 웃음을 기다리고<font color="CC6400"> 있어</font>
+
+725
+00:23:02,541 --> 00:23:02,949
+<font color="5B98FF">君の笑顔を待って<font color="8F8FDF">る</font>
+<font color="FFA2D6">너의 웃음을 기다리고 있<font color="CC6400">어</font>
+
+726
+00:23:02,949 --> 00:23:03,741
+<font color="5B98FF">君の笑顔を待ってる</font>
+<font color="FFA2D6">너의 웃음을 기다리고 있어</font>
+
+727
+00:23:05,880 --> 00:23:08,165
+<Font Color=YELLOW>차회예고</font>
+
+728
+00:23:08,165 --> 00:23:10,994
+고대의 힘에 의해 괴로워 하고 있는 피카츄...
+
+729
+00:23:11,417 --> 00:23:15,382
+그 힘... 아쿠아단의 리더
+아오기리까지 흡수 되어버렸다!
+
+730
+00:23:15,382 --> 00:23:17,484
+그리고 드디어 그라돈이 눈을 떠...
+
+731
+00:23:17,484 --> 00:23:19,152
+카이오가와의 대결이 시작 되었다 !
+
+732
+00:23:19,928 --> 00:23:23,661
+과연 이기는 것은
+그라돈인가? 아니면 카이오가인가?
+
+733
+00:23:24,142 --> 00:23:27,059
+다음 회 !
+<font color=green>포켓몬스터</font> <font color=red>어드밴스</font><font color=blue>제네레이션</font>
+
+734
+00:23:27,059 --> 00:23:29,835
+<Font Color=YELLOW>그라돈 VS 카이오가! (후편)</font>
+
+735
+00:23:29,835 --> 00:23:32,694
+모두도 포켓몬 잡자!
+
+736
+00:23:32,694 --> 00:23:35,834
+<Font Color=YELLOW>그라돈 VS 카이오가! (후편)</font>
+
